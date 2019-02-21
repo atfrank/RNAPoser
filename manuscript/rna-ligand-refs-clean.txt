@@ -1,0 +1,1258 @@
+
+Author: Kuntz, I. D., Blaney, J. M., Oatley, S. J., Langridge, R. and Ferrin, T. E.
+Year: 1982
+Title: A GEOMETRIC APPROACH TO MACROMOLECULE-LIGAND INTERACTIONS
+Journal: Journal of Molecular Biology
+Volume: 161
+Issue: 2
+Pages: 269-288
+Date: 1982
+Short Title: A GEOMETRIC APPROACH TO MACROMOLECULE-LIGAND INTERACTIONS
+
+Author: Beveridge, D. L. and Dicapua, F. M.
+Year: 1989
+Title: FREE-ENERGY VIA MOLECULAR SIMULATION - APPLICATIONS TO CHEMICAL AND BIOMOLECULAR SYSTEMS
+Journal: Annual Review of Biophysics and Biophysical Chemistry
+Volume: 18
+Pages: 431-492
+Date: 1989
+Short Title: FREE-ENERGY VIA MOLECULAR SIMULATION - APPLICATIONS TO CHEMICAL AND BIOMOLECULAR SYSTEMS
+
+Author: Clark, M., Cramer, R. D. and Vanopdenbosch, N.
+Year: 1989
+Title: VALIDATION OF THE GENERAL-PURPOSE TRIPOS 5.2 FORCE-FIELD
+Journal: Journal of Computational Chemistry
+Volume: 10
+Issue: 8
+Pages: 982-1012
+Date: Dec
+Short Title: VALIDATION OF THE GENERAL-PURPOSE TRIPOS 5.2 FORCE-FIELD
+
+Author: Goodsell, D. S. and Olson, A. J.
+Year: 1990
+Title: AUTOMATED DOCKING OF SUBSTRATES TO PROTEINS BY SIMULATED ANNEALING
+Journal: Proteins-Structure Function and Genetics
+Volume: 8
+Issue: 3
+Pages: 195-202
+Date: 1990
+Short Title: AUTOMATED DOCKING OF SUBSTRATES TO PROTEINS BY SIMULATED ANNEALING
+
+Author: Meng, E. C., Shoichet, B. K. and Kuntz, I. D.
+Year: 1992
+Title: AUTOMATED DOCKING WITH GRID-BASED ENERGY EVALUATION
+Journal: Journal of Computational Chemistry
+Volume: 13
+Issue: 4
+Pages: 505-524
+Date: May
+Short Title: AUTOMATED DOCKING WITH GRID-BASED ENERGY EVALUATION
+Abstract: The ability to generate feasible binding orientations of a small molecule within a site of known structure is important for ligand design. We present a method that combines a rapid, geometric docking algorithm with the evaluation of molecular mechanics interaction energies. The computational costs of evaluation are minimal because we precalculate the receptor-dependent terms in the potential function at points on a three-dimensional grid. In four test cases where the components of crystallographically determined complexes are redocked, the "force field" score correctly identifies the family of orientations closest to the experimental binding geometry. Scoring functions that consider only steric factors or only electrostatic factors are less successful. The force field function will play an important role in our efforts to search databases for potential lead compounds.
+
+Author: Sadowski, J. and Gasteiger, J.
+Year: 1993
+Title: FROM ATOMS AND BONDS TO 3-DIMENSIONAL ATOMIC COORDINATES - AUTOMATIC MODEL BUILDERS
+Journal: Chemical Reviews
+Volume: 93
+Issue: 7
+Pages: 2567-2581
+Date: Nov
+Short Title: FROM ATOMS AND BONDS TO 3-DIMENSIONAL ATOMIC COORDINATES - AUTOMATIC MODEL BUILDERS
+
+Author: Bohm, H. J.
+Year: 1994
+Title: THE DEVELOPMENT OF A SIMPLE EMPIRICAL SCORING FUNCTION TO ESTIMATE THE BINDING CONSTANT FOR A PROTEIN LIGAND COMPLEX OF KNOWN 3-DIMENSIONAL STRUCTURE
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 8
+Issue: 3
+Pages: 243-256
+Date: Jun
+Short Title: THE DEVELOPMENT OF A SIMPLE EMPIRICAL SCORING FUNCTION TO ESTIMATE THE BINDING CONSTANT FOR A PROTEIN LIGAND COMPLEX OF KNOWN 3-DIMENSIONAL STRUCTURE
+Abstract: A new simple empirical function has been developed that estimates the free energy of binding for a given protein-ligand complex of known 3D structure. The function takes into account hydrogen bonds, ionic interactions, the lipophilic protein-ligand contact surface and the number of rotatable bonds in the ligand. The dataset for the calibration of the function consists of 45 protein-ligand complexes. The new energy function reproduces the binding constants (ranging from 2.510(-2) to 4 10(-14) M, corresponding to binding energies between -9 and -76 kJ/mol) of the dataset with a standard deviation of 7.9 kJ/mol, corresponding to 1.4 orders of magnitude in binding affinity. The individual contributions to protein-ligand binding obtained from the scoring function are: ideal neutral hydrogen bond: -4.7 kJ/mol; ideal ionic interaction: -8.3 kJ/mol; lipophilic contact: -0.17 kJ/mol Angstrom(2); One rotatable bond in the ligand: +1.4 kJ/mol. The function also contains a constant contribution (+5.4 kJ/mol) which may be rationalized as loss of translational and rotational entropy. The function can be evaluated very fast and is therefore also suitable for application in a 3D database search or de novo ligand design program such as LUDI.
+
+Author: DeWitte, R. S. and Shakhnovich, E. I.
+Year: 1996
+Title: SMoG: de Novo design method based on simple, fast, and accurate free energy estimates .1. Methodology and supporting evidence
+Journal: Journal of the American Chemical Society
+Volume: 118
+Issue: 47
+Pages: 11733-11744
+Date: Nov 27
+Short Title: SMoG: de Novo design method based on simple, fast, and accurate free energy estimates .1. Methodology and supporting evidence
+Abstract: In this paper, we present SMoG (Small Molecule Growth), a novel, straightforward method for de novo lead design and the evidence for its effectiveness. It is based on a simple model for ligand-protein interactions and a scoring that is directly related to the free energy through a knowledge-based potential. A large number of structures are examined by an efficient metropolis Monte Carlo molecular growth algorithm that generates molecules through the adjoining of functional groups directly in the binding region. Thus SMoG is a method that is able to rank a large number of potential compounds according to binding free energy in a short time. In this sense, SMoG represents a step toward an ideal computational tool for ligand design.
+
+Author: Dougherty, D. A.
+Year: 1996
+Title: Cation-pi interactions in chemistry and biology: A new view of benzene, Phe, Tyr, and Trp
+Journal: Science
+Volume: 271
+Issue: 5246
+Pages: 163-168
+Date: Jan 12
+Short Title: Cation-pi interactions in chemistry and biology: A new view of benzene, Phe, Tyr, and Trp
+Abstract: Cations bind to the ir face of an aromatic structure through a surprisingly strong, noncovalent force termed the cation-pi interaction. The magnitude and generality of the effect have been established by gas-phase measurements and by studies of model receptors in aqueous media. To first order, the interaction can be considered an electrostatic attraction between a positive charge and the quadrupole moment of the aromatic. A great deal of direct and circumstantial evidence indicates that cation-pi interactions are important in a variety of proteins that bind cationic ligands or substrates. In this context, the amino acids phenylalanine (Phe), tyrosine (Tyr), and tryptophan (Trp) can be viewed as polar, yet hydrophobic, residues.
+
+Author: Jain, A. N.
+Year: 1996
+Title: Scoring noncovalent protein-ligand interactions: A continuous differentiable function tuned to compute binding affinities
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 10
+Issue: 5
+Pages: 427-440
+Date: Oct
+Short Title: Scoring noncovalent protein-ligand interactions: A continuous differentiable function tuned to compute binding affinities
+Abstract: Exploitation of protein structures for potential drug leads by molecular docking is critically dependent on methods for scoring putative protein-ligand interactions. An ideal function for scoring must exhibit predictive accuracy and high computational speed, and must be tolerant of variations in the relative protein-ligand molecular alignment and conformation. This paper describes the development of an empirically derived scoring function, based on the binding affinities of protein-ligand complexes coupled with their crystallographically determined structures. The function's primary terms involve hydrophobic and polar complementarity, with additional terms for entropic and solvation effects. The issue of alignment/conformation dependence was solved by constructing a continuous differentiable nonlinear function with the requirement that maxima in ligand conformation/alignment space corresponded closely to crystallographically determined structures. The expected error in the predicted affinity based on cross-validation was 1.0 log unit, The function is sufficiently fast and accurate to serve as the objective function of a molecular-docking search engine. The function is particularly well suited to the docking problem, since it has spatially narrow maxima that are broadly accessible via gradient descent.
+
+Author: Chen, P. J., Wu, H. L., Wang, C. J., Chia, J. H. and Chen, D. S.
+Year: 1997
+Title: Molecular biology of hepatitis D virus: Research and potential for application
+Journal: Journal of Gastroenterology and Hepatology
+Volume: 12
+Issue: 9-10
+Pages: S188-S192
+Date: Oct
+Short Title: Molecular biology of hepatitis D virus: Research and potential for application
+Abstract: Superinfection by hepatitis D virus (HDV) leads to acute hepatitis and causes progression to liver cirrhosis in a significant proportion of hepatitis B surface antigen (HBsAg) carriers. Current regimens (interferon) to treat hepatitis D patients has only transient but no lasting effects. New approaches are, therefore, warranted. Recently, several laboratory studies have discovered interesting properties of HDV that magi become targets for antiviral chemicals. Viral replication requires the small hepatitis delta antigen (s-HDAg), The s-HDAg is a nuclear phosphoprotein. There is evidence indicating that phosphorylation is important for HDV replication. A second step of replication requires HDV-RNA self-cleavage and self-ligation. interestingly, one group of antibiotics, the aminoglycosides, exerts strong suppression effects on HDV ribozyme activities. Ln the following stage of viral assembly, two post-translational modifications, namely isoprenylation of large HDAg and glycosylation of HBsAg are involved. Agents capable of blocking the two modifications should reduce viral production. These four possible targets are reviewed. For prevention, effective vaccines are not yet available. Two novel approaches are discussed. The first demonstrates the immunogenicity of a nucleic acid vaccine in mice. The second approach assembled an empty HDV particle in yeast. Advances on such laboratory investigations may provide new methods for the control of hepatitis D in the future.
+
+Author: Eldridge, M. D., Murray, C. W., Auton, T. R., Paolini, G. V. and Mee, R. P.
+Year: 1997
+Title: Empirical scoring functions .1. The development of a fast empirical scoring function to estimate the binding affinity of ligands in receptor complexes
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 11
+Issue: 5
+Pages: 425-445
+Date: Sep
+Short Title: Empirical scoring functions .1. The development of a fast empirical scoring function to estimate the binding affinity of ligands in receptor complexes
+Abstract: This paper describes the development of a simple empirical scoring function designed to estimate the free energy of binding for a protein-ligand complex when the 3D structure of the complex is known pr can be approximated. The function uses simple contact terms to estimate lipophilic and metal-ligand binding contributions, a simple explicit form for hydrogen bonds and a term which penalises flexibility. The coefficients of each term are obtained using a regression based on 82 ligand-receptor complexes for which the binding affinity is known. The function reproduces the binding affinity of the complexes with a cross-validated error of 8.68 kJ/mol. Tests on internal consistency indicate that the coefficients obtained are stable to changes in the composition of the training set. The function is also tested on two test sets containing a further 20 and 10 complexes, respectively. The deficiencies of this type of function are discussed and it is compared to approaches by other workers.
+
+Author: Gilson, M. K., Given, J. A., Bush, B. L. and McCammon, J. A.
+Year: 1997
+Title: The statistical-thermodynamic basis for computation of binding affinities: A critical review
+Journal: Biophysical Journal
+Volume: 72
+Issue: 3
+Pages: 1047-1069
+Date: Mar
+Short Title: The statistical-thermodynamic basis for computation of binding affinities: A critical review
+Abstract: Although the statistical thermodynamics of noncovalent binding has been considered in a number of theoretical papers, few methods of computing binding affinities are derived explicitly from this underlying theory. This has contributed to uncertainty and controversy in certain areas. This article therefore reviews and extends the connections of some important computational methods with the underlying statistical thermodynamics. A derivation of the standard free energy of binding forms the basis of this review. This derivation should be useful in formulating novel computational methods for predicting binding affinities. It also permits several important points to be established. For example, it is found that the double-annihilation method of computing binding energy does not yield the standard free energy of binding, but can be modified to yield this quantity. The derivation also makes it possible to define clearly the changes in translational, rotational, configurational, and solvent entropy upon binding. It is argued that molecular mass has a negligible effect upon the standard free energy of binding for biomolecular systems, and that the cratic entropy defined by Gurney is not a useful concept. In addition, the use of continuum models of the solvent in binding calculations is reviewed, and a formalism is presented for incorporating a limited number of solvent molecules explicitly.
+
+Author: Klabunde, T. and Krebs, B.
+Year: 1997
+Title: The dimetal center in purple acid phosphatases
+Book Title: Metal Sites in Proteins and Models: Phosphatases, Lewis Acids and Vanadium
+Volume: 89
+Pages: 177-198
+Series Title: Structure and Bonding
+Short Title: The dimetal center in purple acid phosphatases
+Abstract: Purple acid phosphatases (PAPs) contain a dinuclear metal center in their active site and hydrolyze phosphoric acid esters at low pH. Characteristic of this group of acid phosphatases is their resistance to inhibition by tartrate and their purple color, due to the presence of a tyrosine residue ligated to a ferric iron. The mammalian enzymes all contain a mixed-valent di-iron unit in their catalytic active form, first identified in the bovine spleen and porcine uterus enzymes, while a heterodinuclear Fe(III)Zn(II) unit has been characterized for the most studied plant enzyme from kidney bean. The enzymes from porcine uterus and bovine spleen can be converted into active FeZn forms and the plant enzyme can be transformed into an active FeFe form. In recent years the dimetal center of PAPs has been studied using numerous spectroscopic methods such as Mossbauer spectroscopy, EPR, NMR, EXAFS, magnetic, electrochemical and resonance Raman studies characterizing most of the metal coordinating residues, the metal-metal separation and providing evidence of the similarity between enzymes from different sources. Analysis of the products of hydrolysis of a substrate containing a chiral phosphorus by P-31 NMR, stopped-flow measurements and kinetic studies all support a reaction path involving nucleophilic attack of a Fe(III)-bound hydroxide ligand on the phosphate ester. The recently solved crystal structure of the plant enzyme provides the structural basis for the understanding of the two-metal ion mechanism of this class of enzymes.
+
+Author: Bohm, H. J.
+Year: 1998
+Title: Prediction of binding constants of protein ligands: A fast method for the prioritization of hits obtained from de novo design or 3D database search programs
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 12
+Issue: 4
+Pages: 309-323
+Date: Jul
+Short Title: Prediction of binding constants of protein ligands: A fast method for the prioritization of hits obtained from de novo design or 3D database search programs
+Abstract: A dataset of 82 protein-ligand complexes of known 3D structure and binding constant K-i was analysed to elucidate the important factors that determine the strength of protein-ligand interactions. The following parameters were investigated: the number and geometry of hydrogen bonds and ionic interactions between the protein and the ligand, the size of the lipophilic contact surface, the flexibility of the ligand, the electrostatic potential in the binding site, water molecules in the binding site, cavities along the protein-ligand interface and specific interactions between aromatic rings. Based on these parameters, a new empirical scoring function is presented that estimates the free energy of binding for a protein-ligand complex of known 3D structure, The function distinguishes between buried and solvent accessible hydrogen bonds. It tolerates deviations in the hydrogen bond geometry of up to 0.25 Angstrom in the length and up to 30 degrees in the hydrogen bond angle without penalizing the score. The new energy function reproduces the binding constants (ranging from 3.7 x 10(-2) M to 1 x 10(-14) M, corresponding to binding energies between -8 and -80 kJ/mol) of the dataset with a standard deviation of 7.3 kJ/mol corresponding to 1.3 orders of magnitude in binding affinity. The function can be evaluated very fast and is therefore also suitable for the application in a 3D database search or de novo ligand design program such as LUDI. The physical significance of the individual contributions is discussed.
+
+Author: Hansson, T., Marelius, J. and Aqvist, J.
+Year: 1998
+Title: Ligand binding affinity prediction by linear interaction energy methods
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 12
+Issue: 1
+Pages: 27-35
+Date: Jan
+Short Title: Ligand binding affinity prediction by linear interaction energy methods
+Abstract: A recent method for estimating ligand binding affinities is extended. This method employs averages of interaction potential energy terms from molecular dynamics simulations Ir other thermal conformational sampling techniques. Incorporation of systematic deviations from electrostatic linear response, derived from free energy perturbation studies, into the absolute binding free energy expression significantly enhances the accuracy of the approach. This type of method may be useful for computational prediction of ligand binding strengths, e.g., in drug design applications.
+
+Author: McCammon, J. A.
+Year: 1998
+Title: Theory of biomolecular recognition
+Journal: Current Opinion in Structural Biology
+Volume: 8
+Issue: 2
+Pages: 245-249
+Date: Apr
+Short Title: Theory of biomolecular recognition
+Abstract: Specific, noncovalent binding of biomolecules can only be understood by considering structural, thermodynamic, and kinetic issues. The theoretical foundations for such analyses have been clarified in the past year. Computational techniques for both particle-based and continuum models continue to improve and to yield useful insights into an ever wider range of biomolecular systems.
+
+Author: Hightower, K. E. and Fierke, C. A.
+Year: 1999
+Title: Zinc-catalyzed sulfur alkylation: insights from protein farnesyltransferase
+Journal: Current Opinion in Chemical Biology
+Volume: 3
+Issue: 2
+Pages: 176-181
+Date: Apr
+Short Title: Zinc-catalyzed sulfur alkylation: insights from protein farnesyltransferase
+Abstract: Zinc metalloenzymes catalyze many important cellular reactions. Recently, the involvement of zinc in the catalysis of alkylation of sulfur groups has gained prominence. Current studies of the zinc metalloenzyme protein farnesyltransferase have shed light on its structure and catalytic mechanism, as well as the general mechanism of zinc-catalyzed sulfur alkylation.
+
+Author: Muegge, I. and Martin, Y. C.
+Year: 1999
+Title: A general and fast scoring function for protein-ligand interactions: A simplified potential approach
+Journal: Journal of Medicinal Chemistry
+Volume: 42
+Issue: 5
+Pages: 791-804
+Date: Mar 11
+Short Title: A general and fast scoring function for protein-ligand interactions: A simplified potential approach
+Abstract: A fast, simplified potential-based approach is presented that estimates the protein-ligand binding affinity based on the given 3D structure of a protein-ligand complex. This general, knowledge-based approach exploits structural information of known protein-ligand complexes extracted from the Brookhaven Protein Data Bank and converts it into distance-dependent Helmholtz free interaction energies of protein-ligand atom pairs (potentials of mean force, PMF). The definition of an appropriate reference state and the introduction of a correction term accounting for the volume taken by the ligand were found to be crucial for deriving the relevant interaction potentials that treat solvation and entropic contributions implicitly. A significant correlation between experimental binding affinities and computed score was found for sets of diverse protein-ligand complexes and for sets of different ligands bound to the same target. For 77 protein-ligand complexes taken from the Brookhaven Protein Data Bank, the calculated score showed a standard deviation from observed binding affinities of 1.8 log K-i units and an R-2 value of 0.61. The best results were obtained for the subset of 16 serine protease complexes with a standard deviation of 1.0 log K-i unit and an R-2 value of 0.86. A set of 33 inhibitors modeled into a crystal structure of HIV-1 protease yielded a standard deviation of 0.8 log K-i units from measured inhibition constants and an R-2 value of 0.74. In contrast to empirical scoring functions that show similar or sometimes better correlation with observed binding affinities, our method does not involve deriving specific parameters that fit the observed binding affinities of protein-ligand complexes of a given training set. We compared the performance of the PMF score, Bohm's score (LUDI), and the SMOG score for eight different test sets of protein-ligand complexes. It was found that for the majority of test sets the PMF score performs best. The strength of the new approach presented here lies in its generality as no knowledge about measured binding affinities is needed to derive atomic interaction potentials. The use of the new scoring function in docking studies is outlined.
+
+Author: Shoichet, B. K., Leach, A. R. and Kuntz, I. D.
+Year: 1999
+Title: Ligand solvation in molecular docking
+Journal: Proteins-Structure Function and Genetics
+Volume: 34
+Issue: 1
+Pages: 4-16
+Date: Jan 1
+Short Title: Ligand solvation in molecular docking
+Abstract: Solvation plays an important role in ligand-protein association and has a strong impact on comparisons of binding energies for dissimilar molecules. When databases of such molecules are screened for complementarity to receptors of known structure, as often occurs in structure-based inhibitor discovery, failure to consider ligand solvation often leads to putative ligands that are too highly charged or too large. To correct for the different charge states and sizes of the ligands, we calculated electrostatic and non-polar solvation free energies for molecules in a widely used molecular database, the Available Chemicals Directory (ACD). A modified Born equation treatment was used to calculate the electrostatic component of Ligand solvation. The non-polar component of ligand solvation was calculated based on the surface area of the ligand and parameters derived from the hydration energies of apolar ligands, These solvation energies were subtracted from the ligand-receptor interaction energies. We tested the usefulness of these corrections by screening the ACD for molecules that complemented three proteins of known structure, using a molecular docking program. Correcting for ligand solvation improved the rankings of known ligands and discriminated against molecules with inappropriate charge states and sizes. (C) 1999 Wiley-Liss, Inc.
+
+Author: Wemmer, D. E.
+Year: 1999
+Title: Ligands recognizing the minor groove of DNA: Development and applications
+Journal: Biopolymers
+Volume: 52
+Issue: 4
+Pages: 197-211
+Date: 1999
+Short Title: Ligands recognizing the minor groove of DNA: Development and applications
+Abstract: Polyamide ligands comprised of pyrrole, imidazole and hydroxypyrrole rings have been developed over the past decade which can be used to target many different, predetermined DNA sequences through recognition of functional groups in the minor groove. The design principles for these ligands are described with a description of the characterization of their binding. Variations containing linked recognition modules hate been described which allow high affinity and specificity, recognition of DIVA sequences of over 15 base pairs. Recent applications of these ligands in affecting biological response through competition with proteins for DNA binding sites are reviewed. (C) 2001 John Wiley & Sons, Inc.
+
+Author: Zou, X. Q., Sun, Y. X. and Kuntz, I. D.
+Year: 1999
+Title: Inclusion of solvation in ligand binding free energy calculations using the generalized-born model
+Journal: Journal of the American Chemical Society
+Volume: 121
+Issue: 35
+Pages: 8033-8043
+Date: Sep 8
+Short Title: Inclusion of solvation in ligand binding free energy calculations using the generalized-born model
+Abstract: Accounting for the effect of solvent on the strength of molecular interactions has been a longstanding problem for molecular calculations in general and for structure-based drug design in particular. Here, we explore the generalized-Born (GB/SA) model of solvation (Still, W. C.; Tempczyk, A.; Hawley, R. C.; Hendrickson, T. J. Am. Chem. Sec. 1990, 112, 6127-9) to calculate ligand-receptor binding energies. The GB/SA approach allows for the estimation of electrostatic, van der Waals, and hydrophobic contributions to the free energy of binding. The GB/SA formulation provides a good balance between computational speed and accuracy in these calculations. We have derived a formula to estimate the binding free energy. We have also developed a procedure to penalize any unoccupied embedded space that might form between the ligand and the receptor during the docking process. To improve the computational speed, the protein contribution to the electrostatic screening is precalculated and stored on a grid. Refinement of the ligand position is required to optimize the nonbonded interactions between ligand and receptor. Our version of the GB/SA algorithm takes approximately 10 s per orientation (with minimization) on a Silicon Graphics R10000 workstation. In two test systems, dihydrofolate reductase (dhfr) and trypsin, we obtain much better results than the current DOCK (Ewing, T. J. A.; Kuntz, I. D. J. Comput. Chem. 1997, 18, 1175-89) force field scoring method (Meng, E. C.; Shoichet, B. K.; Kuntz, I. D. J. Comput. Chem. 1992, 13, 505-24). We also suggest a methodology to identify an appropriate parameter regime to balance the specificity and the generality of the equations.
+
+Author: Berman, H. M., Westbrook, J., Feng, Z., Gilliland, G., Bhat, T. N., Weissig, H., Shindyalov, I. N. and Bourne, P. E.
+Year: 2000
+Title: The Protein Data Bank
+Journal: Nucleic Acids Research
+Volume: 28
+Issue: 1
+Pages: 235-242
+Date: Jan 1
+Short Title: The Protein Data Bank
+Abstract: The Protein Data Bank (PDB; http://www.rcsb.org/pdb/) is the-single worldwide archive of structural data of biological macromolecules. This paper describes the goals of the PDB, the systems in place for data deposition and access, how to obtain further information, and near-term plans for the future development of the resource.
+
+Author: Esposito, E. X., Baran, K., Kelly, K. and Madura, J. D.
+Year: 2000
+Title: Docking substrates to metalloenzymes
+Journal: Molecular Simulation
+Volume: 24
+Issue: 4-6
+Pages: 293-+
+Date: 2000
+Short Title: Docking substrates to metalloenzymes
+Abstract: Carbonic Anhydrase (CA) is a metalloenzyme that reversibly catalyzes the interconversion between carbon dioxide and bicarbonate anion. A class of sulfa drugs, sulfonamides, are known to inhibit CA. One approach to identifying important binding and specificity interactions between sulfonamides and CA is to analyze the results from docking studies. Previous docking studies have mainly focused on the encounters of substrates with non-metalloenzymes. Here we report the application of MOE-Dock to the CA II - sulfonamide system. After developing a standard docking protocol for the CA II - sulfonamide system we then used the protocol to determine other CA II - sulfonamide complexes.
+
+Author: Gohlke, H., Hendlich, M. and Klebe, G.
+Year: 2000
+Title: Predicting binding modes, binding affinities and 'hot spots' for protein-ligand complexes using a knowledge-based scoring function
+Journal: Perspectives in Drug Discovery and Design
+Volume: 20
+Issue: 1
+Pages: 115-144
+Date: 2000
+Short Title: Predicting binding modes, binding affinities and 'hot spots' for protein-ligand complexes using a knowledge-based scoring function
+Abstract: The development of a new knowledge-based scoring function (DrugScore) and its power to recognize binding modes close to experiment, to predict binding affinities, and to identify `hot spots' in binding pockets is presented. Structural information is extracted from crystallographically determined protein-ligand complexes using ReLiBase and converted into distance-dependent pair-preferences and solvent-accessible surface (SAS) dependent singlet preferences of protein and ligand atoms. The sum of the pair preferences and the singlet preferences is calculated using the 3D structure of protein-ligand complexes either taken directly from the X-ray structure or generated by the docking tool FlexX. DrugScore discriminates efficiently between well-docked ligand binding modes (root-mean-square deviation < 2.0 Angstrom with respect to a crystallographically determined reference complex) and computer-generated ones largely deviating from the native structure. For two test sets (91 and 68 protein-ligand complexes, taken from the PDB) the calculated score recognizes poses deviating < 2 Angstrom from the crystal structure on rank 1 in three quarters of all possible cases. Compared to the scoring function in FlexX, this is a substantial improvement. For five test sets of crystallographically determined protein-ligand complexes as well as for two sets of ligand geometries generated by FlexX, the calculated score is correlated with experimentally determined binding affinities. For a set of 16 crystallographically determined serine protease inhibitor complexes, a R-2 value of 0.86 and a standard deviation of 0.95 log units is achieved as best result; for a set of 64 thrombin and trypsin inhibitors docked into their target proteins, a R-2 value of 0.48 and a standard deviation of 0.7 log units is calculated. DrugScore performs better than other state-of-the-art scoring functions. To assess DrugScore's capability to reproduce the geometry of directional interactions correctly, 'hot spots' are identified and visualized in terms of isocontour surfaces inside the binding pocket. A data set of 159 X-ray protein-ligand complexes is used to reproduce and highlight the actually observed ligand atom positions. In 74% of all cases, the actually observed atom type corresponds to an atom type predicted by the most favorable score at the nearest grid point. The prediction rate increases to 85% if at least an atom type of the same class of interaction is suggested. DrugScore is fast to compute and includes implicitly solvation and entropy contributions. Small deviations in the 3D structure are tolerated and, since only contacts to non-hydrogen atoms are regarded, it does not require any assumptions on protonation states.
+
+Author: Gohlke, H., Hendlich, M. and Klebe, G.
+Year: 2000
+Title: Knowledge-based scoring function to predict protein-ligand interactions
+Journal: Journal of Molecular Biology
+Volume: 295
+Issue: 2
+Pages: 337-356
+Date: Jan 14
+Short Title: Knowledge-based scoring function to predict protein-ligand interactions
+Abstract: The development and validation of a new knowledge-based scoring function (DrugScore) to describe the binding geometry of ligands in proteins is presented. It discriminates efficiently between well-docked ligand binding modes (root-mean-square deviation <2.0 Angstrom with respect to a crystallographically determined reference complex) and those largely deviating from the native structure, e.g. generated by computer docking programs. Structural information is extracted from crystallographically determined protein-ligand complexes using ReLiBase and converted into distance-dependent pair-preferences and solvent-accessible surface (SAS) dependent singlet preferences for protein and ligand atoms. Definition of an appropriate reference state and accounting for inaccuracies inherently present in experimental data is required to achieve good predictive power. The sum of the pair preferences and the singlet preferences is calculated based on the 3D structure of protein-ligand binding modes generated by docking tools. For two test sets of 91 and 68 protein-ligand complexes, taken from the Protein Data Bank (PDB), the calculated score recognizes poses generated by FlexX deviating <2 Angstrom from the crystal structure on rank 1 in three quarters of all possible cases. Compared to FlexX, this is a substantial improvement. For ligand geometries generated by DOCK, DrugScore is superior to the "chemical scoring implemented into this tool, while comparable results are obtained using the "energy scoring" in DOCK. None of the presently known scoring functions achieves comparable power to extract binding modes in agreement with experiment. It is fast to compute, regards implicitly solvation and entropy contributions and produces correctly the geometry of directional interactions. Small deviations in the 3D structure are tolerated and, since only contacts to non-hydrogen atoms are regarded, it is independent from assumptions of protonation states. (C) 2000 Academic Press.
+
+Author: Kollman, P. A., Massova, I., Reyes, C., Kuhn, B., Huo, S. H., Chong, L., Lee, M., Lee, T., Duan, Y., Wang, W., Donini, O., Cieplak, P., Srinivasan, J., Case, D. A. and Cheatham, T. E.
+Year: 2000
+Title: Calculating structures and free energies of complex molecules: Combining molecular mechanics and continuum models
+Journal: Accounts of Chemical Research
+Volume: 33
+Issue: 12
+Pages: 889-897
+Date: Dec
+Short Title: Calculating structures and free energies of complex molecules: Combining molecular mechanics and continuum models
+Abstract: A historical perspective on the application of molecular dynamics (MD) to biological macromolecules is presented. Recent developments combining state-of-the-art force fields with continuum solvation calculations have allowed us to reach the fourth era of MD applications in which one can often derive both accurate structure and accurate relative free energies from molecular dynamics trajectories. We illustrate such applications on nucleic acid duplexes, RNA hairpins, protein folding trajectories, and protein-ligand, protein-protein, and protein-nucleic acid interactions.
+
+Author: MacKerell, Alexander D., Jr., Banavali, Nilesh and Foloppe, Nicolas
+Year: 2000
+Title: Development and current status of the CHARMM force field for nucleic acids
+Journal: Biopolymers
+Volume: 56
+Issue: 4
+Pages: 257-265
+Date: 2000-2001
+Short Title: Development and current status of the CHARMM force field for nucleic acids
+Abstract: The CHARMM27 all-atom force field for nucleic acids represents a highly optimized model for investigations of nucleic acids via empirical force field calculations. The force field satisfactorily treats the A, B, and Z forms of DNA as well as RNA, and it also useful for nucleosides and nucleotides. In addition, it is compatible with the CHARMM force fields for proteins and lipids, allowing for simulation studies of heterogeneous systems.
+
+Author: Park, I. K., Kim, J. Y., Lim, E. H. and Shin, S.
+Year: 2000
+Title: Spectinomycin inhibits the self-splicing of the group 1 intron RNA
+Journal: Biochemical and Biophysical Research Communications
+Volume: 269
+Issue: 2
+Pages: 574-579
+Date: Mar 16
+Short Title: Spectinomycin inhibits the self-splicing of the group 1 intron RNA
+Abstract: Effects of the aminoglycoside spectinomycin on the self-splicing of primary transcripts of the phage T4 thymidylate synthase gene (td) have been investigated. The kinetic analysis demonstrated that spectinomycin acts as a mixed noncompetitive inhibitor for the td intron RNA with a K-i of 7.2 mM. Increasing the spectinomycin concentration raised the K-m values with the corresponding decrease of V-max and k(cat) values. The specificity of the splicing inhibition by spectinomycin is due to changes in both K-m and k(cat). The splicing inhibition by spectinomycin is dependent on pH changes and Mg2+ concentration, indicating electrostatic interactions with the intron RNA. It has been proposed that the key structural features in spectinomycin responsible for the inhibition of splicing may be the hydroxyl groups on the antibiotic. (C) 2000 Academic Press.
+
+Author: Goodsell, D. S.
+Year: 2001
+Title: Sequence recognition of DNA by lexitropsins
+Journal: Current Medicinal Chemistry
+Volume: 8
+Issue: 5
+Pages: 509-516
+Date: Apr
+Short Title: Sequence recognition of DNA by lexitropsins
+Abstract: Lexitropsins are modular polyamide molecules that are designed to "read" the base sequence of DNA. Lexitropsins constructed of three types of subunits-pyrrole, imidazole and hydroxypyrrole-allow full recognition of DNA base sequences. Structural studies have revealed the atomic basis of this specificity. Theoretical studies have explored the effectiveness of lexitropsins in targeting a given sequence within a genome, and have been used to analyze and improve lexitropsin design.
+
+Author: Rivas, Elena and Eddy, Sean R.
+Year: 2001
+Title: Noncoding RNA gene detection using comparative sequence analysis
+Journal: Bmc Bioinformatics
+Volume: 2
+Date: 2001
+Short Title: Noncoding RNA gene detection using comparative sequence analysis
+Abstract: Background: Noncoding RNA genes produce transcripts that exert their function without ever producing proteins. Noncoding RNA gene sequences do not have strong statistical signals, unlike protein coding genes. A reliable general purpose computational genefinder for noncoding RNA genes has been elusive. Results: We describe a comparative sequence analysis algorithm for detecting novel structural RNA genes. The key idea is to test the pattern of substitutions observed in a pairwise alignment of two homologous sequences. A conserved coding region tends to show a pattern of synonymous substitutions, whereas a conserved structural RNA tends to show a pattern of compensatory mutations consistent with some base-paired secondary structure. We formalize this intuition using three probabilistic "pair-grammars": a pair stochastic context free grammar modeling alignments constrained by structural RNA evolution, a pair hidden Markov model modeling alignments constrained by coding sequence evolution, and a pair hidden Markov model modeling a null hypothesis of position-independent evolution. Given an input pairwise sequence alignment (e.g. from a BLASTN comparison of two related genomes) we classify the alignment into the coding, RNA, or null class according to the posterior probability of each class. Conclusions: We have implemented this approach as a program, QRNA, which we consider to be a prototype structural noncoding RNA genefinder. Tests suggest that this approach detects noncoding RNA genes with a fair degree of reliability.
+
+Author: Roche, O., Kiyama, R. and Brooks, C. L.
+Year: 2001
+Title: Ligand-Protein DataBase: Linking protein-ligand complex structures to binding data
+Journal: Journal of Medicinal Chemistry
+Volume: 44
+Issue: 22
+Pages: 3592-3598
+Date: Oct 25
+Short Title: Ligand-Protein DataBase: Linking protein-ligand complex structures to binding data
+Abstract: In computational structure-based drug design, the scoring functions are the cornerstones to the success of design/discovery. Many approaches have been explored to improve their reliability and accuracy, leading to three families of scoring functions: force-field-based, knowledge-based, and empirical. The last family is the most widely used in association with docking algorithms because of its speed, even though such empirical scoring functions produce far too many false positives to be fully reliable. In this work, we describe a World Wide Web accessible database that gathers the structural information from known complexes of the PDB with experimental binding data. This database, the Ligand-Protein DataBase (LPDB), is designed to allow the selection of complexes based on various properties of receptors and ligands for the design and parametrization of new scoring functions or to assess and improve existing ones. Moreover, for each complex, a continuum of ligand positions ranging from the crystallographic position to points on the surface of the protein receptor allows an assessment of the energetic behavior of particular scoring functions.
+
+Author: Ishchenko, A. V. and Shakhnovich, E. I.
+Year: 2002
+Title: SMall molecule growth 2001 (SMoG2001): An improved knowledge-based scoring function for protein-ligand interactions
+Journal: Journal of Medicinal Chemistry
+Volume: 45
+Issue: 13
+Pages: 2770-2780
+Date: Jun 20
+Short Title: SMall molecule growth 2001 (SMoG2001): An improved knowledge-based scoring function for protein-ligand interactions
+Abstract: Computational lead design procedures require fast and accurate scoring functions to rank millions of generated virtual ligands for protein targets. In this article, we present an improved version of the SMoG scoring function, called SMoG2001. This function is based on a knowledge-based approach-that is, the free energy parameters are derived from the observed frequencies of atom-atom contacts in the database of three-dimensional structures of protein-ligand complexes via a procedure based on statistical mechanics. We obtained the statistics from the set of 725 complexes. SMoG2001 reproduces the experimental binding constants of the majority of 119 complexes of the testing set with good accuracy. On similar testing sets, SMoG2001 performs better than two other widely used scoring functions, PMF and SCORE1(LUDI), and comparably to DrugScore. SMoG2001 poorly predicts the affinities of ligands interacting via quantum mechanical forces with metal ions and ligands that are large and flexible. We attribute significant improvement in accuracy over previous versions of the SMoG scoring function to a better description of the reference state-that is, the state of no interactions.
+
+Author: Mironov, A. S., Gusarov, I., Rafikov, R., Lopez, L. E., Shatalin, K., Kreneva, R. A., Perumov, D. A. and Nudler, E.
+Year: 2002
+Title: Sensing small molecules by nascent RNA: A mechanism to control transcription in bacteria
+Journal: Cell
+Volume: 111
+Issue: 5
+Pages: 747-756
+Date: Nov 27
+Short Title: Sensing small molecules by nascent RNA: A mechanism to control transcription in bacteria
+Abstract: Thiamin and riboflavin are precursors of essential coenzymes-thiamin pyrophosphate (TPP) and flavin mononucleotide (FMN)/flavin adenine dinucleotide (FAD), respectively. In Bacillus spp, genes responsible for thiamin and riboflavin biosynthesis are organized in tightly controllable operons. Here, we demonstrate that the feedback regulation of riboflavin and thiamin genes relies on a novel transcription attenuation mechanism. A unique feature of this mechanism is the formation of specific complexes between a conserved leader region of the cognate RNA and FMN or TPP. In each case, the complex allows the termination hairpin to form and interrupt transcription prematurely. Thus, sensing small molecules by nascent RNA controls transcription elongation of riboflavin and thiamin operons and possibly other bacterial operons as well.
+
+Author: Wasser, I. M., de Vries, S., Moenne-Loccoz, P., Schroder, I. and Karlin, K. D.
+Year: 2002
+Title: Nitric oxide in biological denitrification: Fe/Cu metalloenzyme and metal complex NOx redox chemistry
+Journal: Chemical Reviews
+Volume: 102
+Issue: 4
+Pages: 1201-1234
+Date: Apr
+Short Title: Nitric oxide in biological denitrification: Fe/Cu metalloenzyme and metal complex NOx redox chemistry
+
+Author: Winkler, W. C., Cohen-Chalamish, S. and Breaker, R. R.
+Year: 2002
+Title: An mRNA structure that controls gene expression by binding FMN
+Journal: Proceedings of the National Academy of Sciences of the United States of America
+Volume: 99
+Issue: 25
+Pages: 15908-15913
+Date: Dec 10
+Short Title: An mRNA structure that controls gene expression by binding FMN
+Abstract: The RFN element is a highly conserved domain that is found frequently in the 5'-untranslated regions of prokaryotic mRNAs that encode for flavin mononucleoticle (FMN) biosynthesis and transport proteins. We report that this domain serves as the receptor for a metabolite-dependent riboswitch that directly binds FMN in the absence of proteins. Our results also indicate that in Bacillus subtilis, the riboswitch most likely controls gene expression by causing premature transcription termination of the rib-DEAHT operon and precluding access to the ribosome-binding site of ypaA mRNA. Sequence and structural analyses indicate that the RFN element is a natural FMN-binding aptamer, the allosteric character of which is harnessed to control gene expression.
+
+Author: Zacharias, N. and Dougherty, D. A.
+Year: 2002
+Title: Cation-pi interactions in ligand recognition and catalysis
+Journal: Trends in Pharmacological Sciences
+Volume: 23
+Issue: 6
+Pages: 281-287
+Date: Jun
+Short Title: Cation-pi interactions in ligand recognition and catalysis
+Abstract: The cation-pi interaction is a potent, general noncovalent binding force that is observed in a wide range of biological contexts. Here, we present an overview of well documented cases in which a cation-pi interaction makes an important contribution to small-molecule recognition at a protein binding site. From these and other studies it is clear that, in addition to the hydrophobic effect, hydrogen bonding and ion pairing, the cation-it interaction must be considered when evaluating drug-receptor interactions.
+
+Author: Brooijmans, N. and Kuntz, I. D.
+Year: 2003
+Title: Molecular recognition and docking algorithms
+Journal: Annual Review of Biophysics and Biomolecular Structure
+Volume: 32
+Pages: 335-373
+Date: 2003
+Short Title: Molecular recognition and docking algorithms
+Abstract: Molecular docking is an invaluable tool in modem drug discovery. This review focuses on methodological developments relevant to the field of molecular docking. The forces important in molecular recognition are reviewed and followed by a discussion of how different scoring functions account for these forces. More recent applications of computational chemistry tools involve library design and database screening. Last, we summarize several critical methodological issues that must be addressed in future developments.
+
+Author: Mandal, M., Boese, B., Barrick, J. E., Winkler, W. C. and Breaker, R. R.
+Year: 2003
+Title: Riboswitches control fundamental biochemical pathways in Bacillus subtilis and other bacteria
+Journal: Cell
+Volume: 113
+Issue: 5
+Pages: 577-586
+Date: May 30
+Short Title: Riboswitches control fundamental biochemical pathways in Bacillus subtilis and other bacteria
+Abstract: Riboswitches are metabolite binding domains within certain messenger RNAs that serve as precision sensors for their corresponding targets. Allosteric rearrangement of mRNA structure is mediated by ligand binding, and this results in modulation of gene expression. We have identified a class of riboswitches that selectively recognizes guanine and becomes saturated at concentrations as low as 5 nM. In Bacillus subtilis, this mRNA motif is located on at least five separate transcriptional units that together encode 17 genes that are mostly involved in purine transport and purine nucleotide biosynthesis. Our findings provide further examples of mRNAs that sense metabolites and that control gene expression without the need for protein factors. Furthermore, it is now apparent that riboswitches contribute to the regulation of numerous fundamental metabolic pathways in certain bacteria.
+
+Author: Puvanendrampillai, D. and Mitchell, J. B. O.
+Year: 2003
+Title: L/D Protein Ligand Database (PLD): additional understanding of the nature and specificity of protein-ligand complexes
+Journal: Bioinformatics
+Volume: 19
+Issue: 14
+Pages: 1856-1857
+Date: Sep 22
+Short Title: L/D Protein Ligand Database (PLD): additional understanding of the nature and specificity of protein-ligand complexes
+Abstract: The Protein Ligand Database (PLD) is a publicly available web-based database that aims to provide further understanding of protein-ligand interactions. The PLD contains biomolecular data including calculated binding energies, Tanimoto ligand similarity scores and protein percentage sequence similarities. The database has potential for application as a tool in molecular design.
+
+Author: Wang, R. X., Lu, Y. P. and Wang, S. M.
+Year: 2003
+Title: Comparative evaluation of 11 scoring functions for molecular docking
+Journal: Journal of Medicinal Chemistry
+Volume: 46
+Issue: 12
+Pages: 2287-2303
+Date: Jun 5
+Short Title: Comparative evaluation of 11 scoring functions for molecular docking
+Abstract: Eleven popular scoring functions have been tested on 100 protein-ligand complexes to evaluate their abilities to reproduce experimentally determined structures and binding affinities. They include four scoring functions implemented in the LigFit module in Cerius2 (LigScore, PLP, PMF, and LUDI), four scoring functions implemented in the CScore module in SYBYL (F-Score, G-Score, D-Score, and ChemScore), the scoring function implemented in the AutoDock program, and two stand-alone scoring functions (DrugScore and X-Score). These scoring functions are not tested in the context of a particular docking program. Instead, conformational sampling and scoring are separated into two consecutive steps. First, an exhaustive conformational sampling is performed by using the AutoDock program to generate an ensemble of docked conformations for each ligand molecule. This conformational ensemble is required to cover the entire conformational space as much as possible rather than to focus on a few energy minima. Then, each scoring function is applied to score this conformational ensemble to see if it can identify the experimentally observed conformation from all of the other decoys. Among all of the scoring functions under test, six of them, i.e., PLP, F-Score, LigScore, DrugScore, LUDI, and X-Score, yield success rates higher than the AutoDock scoring function. The success rates of these six scoring functions range from 66% to 76% if using root-mean-square deviation less than or equal to2.0 Angstrom as the criterion. Combining any two or three of these six scoring functions into a consensus scoring scheme further improves the success rate to nearly 80% or even higher. However, when applied to reproduce the experimentally determined binding affinities of the 100 protein-ligand complexes, only X-Score, PLP, DrugScore, and G-Score are able to give correlation coefficients over 0.50. All of the 11 scoring functions are further inspected by their abilities to construct a descriptive, funnel-shaped energy surface for protein-ligand complexation. The results indicate that X-Score and DrugScore perform better than the other ones at this aspect.
+
+Author: Borda, E. J. and Sigurdsson, S. T.
+Year: 2004
+Title: Interactions of the antibiotics neomycin B and chlortetracycline with the hammerhead ribozyme as studied by Zn2+-dependent RNA cleavage
+Journal: Bioorganic & Medicinal Chemistry
+Volume: 12
+Issue: 5
+Pages: 1023-1028
+Date: Mar 1
+Short Title: Interactions of the antibiotics neomycin B and chlortetracycline with the hammerhead ribozyme as studied by Zn2+-dependent RNA cleavage
+Abstract: We have investigated the interactions of two antibiotics, neomycin B and chlortetracycline (CTC), with the hammerhead ribozyme using two Zn2+ cleavage sites at U4 and A9 in its catalytic core. CTC-dependent inhibition of Zn2+ cleavage was observed in all cases. In contrast, we unexpectedly observed acceleration of A9 cleavage by neomycin under low ionic strength conditions similar to those used to study inhibition of hammerhead substrate cleavage by this antibiotic. This result provides evidence that the inhibitory mechanism of neomycin does not include competition with the metal ion bound to the A9/G10.1 metal-ion binding site, as previously proposed. Under high ionic strength conditions, optimized for Zn2+-dependent cleavage, we observed neomycin-dependent inhibition of cleavage at both A9 and U4. The ability of neomycin to both inhibit and accelerate Zn2+ cleavage suggests that there is either more than one neomycin binding site or multiple binding modes at a single site in the hammerhead ribozyme. Furthermore, the accessibilities and/or affinities of disparate neomycin binding sites or binding modes are dependent on the ionic strength and the pH of the medium. (C) 2003 Elsevier Ltd. All rights reserved.
+
+Author: Detering, C. and Varani, G.
+Year: 2004
+Title: Validation of automated docking programs for docking and database screening against RNA drug targets
+Journal: Journal of Medicinal Chemistry
+Volume: 47
+Issue: 17
+Pages: 4188-4201
+Date: Aug 12
+Short Title: Validation of automated docking programs for docking and database screening against RNA drug targets
+Abstract: The increasing awareness of the essential role of RNA in controlling viral replication and in bacterial protein synthesis emphasizes the potential of ribonucleoproteins as targets for developing new antibacterial and antiviral drugs. RNA forms well defined three-dimensional structures with clefts and binding pockets reminiscent of the active sites of proteins. Furthermore, it precedes proteins in the translation pathway; inhibiting the function of a single RNA molecule would result in inhibition of multiple proteins. Thus, small molecules that bind RNA specifically would combine the advantages of antisense and RNAi strategies with the much more favorable medicinal chemistry of small-molecule therapeutics. The discovery of small-molecule inhibitors of RNA with attractive pharmacological potential would be facilitated if we had available effective computational tools of structure-based drug design. Here, we systematically test automated docking tools developed for proteins using existing three-dimensional structures of RNA-small molecule complexes. The results show that the native structures can generally be reproduced to within 2.5 Angstrom more than 50-60% of the time. For more than half of the test complexes, the native ligand ranked among the top 10% compounds in a database-scoring test. Through this work, we provide parameters for the validated application of automated docking tools to the discovery of new inhibitors of RNA function.
+
+Author: Li, H. L., Li, C. L., Gui, C. S., Luo, X. M., Chen, K. X., Shen, J. H., Wang, X. C. and Jiang, H. L.
+Year: 2004
+Title: GAsDock: a new approach for rapid flexible docking based on an improved multi-population genetic algorithm
+Journal: Bioorganic & Medicinal Chemistry Letters
+Volume: 14
+Issue: 18
+Pages: 4671-4676
+Date: Sep 20
+Short Title: GAsDock: a new approach for rapid flexible docking based on an improved multi-population genetic algorithm
+Abstract: Based on an improved multi-population genetic algorithm, a new fast flexible docking program, GAsDock, was developed. The docking accuracy, screening efficiency, and docking speed of GAsDock were evaluated by the docking results of thymidine kinase (TK) and HIV-1 reverse transcriptase (RT) enzyme with 10 available inhibitors of each protein and 990 randomly selected ligands. Nine of the ten known inhibitors of TK were accurately docked into the protein active site, the root-mean-square deviation (RMSD) values between the docking and X-ray crystal structures are less than 1.7Angstrom; binding poses (conformation and orientation) of 9 of the 10 known inhibitors of RT were reproduced by GAsDock with RMSD values less than 2.0Angstrom. The docking time is approximately in proportion to the number of rotatable bonds of ligands; GAsDock can finish a docking simulation within 60s for a ligand with no more than 20 rotatable bonds. Results indicate that GAsDock is an accurate and remarkably faster docking program in comparison with other docking programs, which is applausive in the application of virtual screening. (C) 2004 Elsevier Ltd. All rights reserved.
+
+Author: Morley, S. D. and Afshar, M.
+Year: 2004
+Title: Validation of an empirical RNA-ligand scoring function for fast flexible docking using RiboDock (R)
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 18
+Issue: 3
+Pages: 189-208
+Date: Mar
+Short Title: Validation of an empirical RNA-ligand scoring function for fast flexible docking using RiboDock (R)
+Abstract: We report the design and validation of a fast empirical function for scoring RNA-ligand interactions, and describe its implementation within RiboDock(R), a virtual screening system for automated flexible docking. Building on well-known protein-ligand scoring function foundations, features were added to describe the interactions of common RNA-binding functional groups that were not handled adequately by conventional terms, to disfavour non-complementary polar contacts, and to control non-specific charged interactions. The results of validation experiments against known structures of RNA-ligand complexes compare favourably with previously reported methods. Binding modes were well predicted in most cases and good discrimination was achieved between native and non-native ligands for each binding site, and between native and non-native binding sites for each ligand. Further evidence of the ability of the method to identify true RNA binders is provided by compound selection ('enrichment factor') experiments based around a series of HIV-1 TAR RNA-binding ligands. Significant enrichment in true binders was achieved amongst high scoring docking hits, even when selection was from a library of structurally related, positively charged molecules. Coupled with a semi-automated cavity detection algorithm for identification of putative ligand binding sites, also described here, the method is suitable for the screening of very large databases of molecules against RNA and RNA-protein interfaces, such as those presented by the bacterial ribosome.
+
+Author: Pettersen, E. F., Goddard, T. D., Huang, C. C., Couch, G. S., Greenblatt, D. M., Meng, E. C. and Ferrin, T. E.
+Year: 2004
+Title: UCSF chimera - A visualization system for exploratory research and analysis
+Journal: Journal of Computational Chemistry
+Volume: 25
+Issue: 13
+Pages: 1605-1612
+Date: Oct
+Short Title: UCSF chimera - A visualization system for exploratory research and analysis
+Abstract: The design, implementation, and capabilities of an extensible visualization system, UCSF Chimera, are discussed. Chimera is segmented into a core that provides basic services and visualization, and extensions that provide most higher level functionality. This architecture ensures that the extension mechanism satisfies the demands of outside developers who wish to incorporate new features. Two unusual extensions are presented: Multiscale, which adds the ability to visualize large-scale molecular assemblies such as viral coats, and Collaboratory, which allows researchers to share a Chimera session interactively despite being at separate locales. Other extensions include Multalign Viewer, for showing multiple sequence alignments and associated structures; ViewDock, for screening docked ligand orientations; Movie, for replaying molecular dynamics trajectories; and Volume Viewer, for display and analysis of volumetric data. A discussion of the usage of Chimera in real-world situations is given, along with anticipated future directions. Chimera includes full user documentation, is free to academic and nonprofit users, and is available for Microsoft Windows, Linux, Apple Mac OS X, SGI IRIX, and HP Tru64 Unix from http://www.cgl.ucsf.edu/chimera/. (C) 2004 Wiley Periodicals, Inc.
+
+Author: Wang, R. X., Fang, X. L., Lu, Y. P. and Wang, S. M.
+Year: 2004
+Title: The PDBbind database: Collection of binding affinities for protein-ligand complexes with known three-dimensional structures
+Journal: Journal of Medicinal Chemistry
+Volume: 47
+Issue: 12
+Pages: 2977-2980
+Date: Jun 3
+Short Title: The PDBbind database: Collection of binding affinities for protein-ligand complexes with known three-dimensional structures
+Abstract: dWe have screened the entire Protein Data Bank (Release No. 103, January 2003) and identified 5671 protein-ligand complexes out of 19621 experimental structures. A systematic examination of the primary references of these entries has led to a collection of binding affinity data (K-d, K-i, and IC50) for a total of 1359 complexes. The outcomes of this project have been organized into a Web-accessible database named the PDBbind database.
+
+Author: Bannwarth, S. and Gatignol, A.
+Year: 2005
+Title: HIV-1 TAR RNA: The target of molecular interactions between the virus and its host
+Journal: Current Hiv Research
+Volume: 3
+Issue: 1
+Pages: 61-71
+Date: Jan
+Short Title: HIV-1 TAR RNA: The target of molecular interactions between the virus and its host
+Abstract: HIV-1 TAR RNA is the binding site of the viral protein Tat, the trans-activator of the HIV-1 LTR. It is present at the 5' end of all HIV-1 spliced and unspliced mRNAs in the nucleus as well as in the cytoplasm. It has a highly folded stem-bulge-loop structure, which also binds cellular proteins to form ribonucleoprotein complexes. The Tat-Cyclin T1-CDK9 complex is the main component in the trans-activation of HIV-1 and its affinity for TAR is regulated through Tat acetylation by historic acetyl transferases. Recent studies show that this complex is able to recruit other cellular partners to mediate efficient transcriptional elongation. TRBP, PKR and La bind directly to the TAR RNA structure and influence translation of HIV-1 in either positive or negative manners. Some mutations in TAR RNA severely impair HIV-1 trans-activation, translation and viral production, showing its functional importance. The overexpression or suppression of several TAR RNA-binding proteins has a strong impact on viral replication pointing out their major role in the viral life cycle. TAR RNA has been the target of drug development to inhibit viral replication. Recent data using small molecules or RNA-based technologies show that acting on the TAR RNA or on its viral and cellular binding factors effectively decreases virion production.
+
+Author: Case, D. A., Cheatham, T. E., Darden, T., Gohlke, H., Luo, R., Merz, K. M., Onufriev, A., Simmerling, C., Wang, B. and Woods, R. J.
+Year: 2005
+Title: The Amber biomolecular simulation programs
+Journal: Journal of Computational Chemistry
+Volume: 26
+Issue: 16
+Pages: 1668-1688
+Date: Dec
+Short Title: The Amber biomolecular simulation programs
+Abstract: We describe the development, current features, and some directions for future development of the Amber package of computer programs. This package evolved from a program that was constructed in the late 1970s to do Assisted Model Building with Energy Refinement, and now contains a group of programs embodying a number of powerful tools of modern computational chemistry, focused on molecular dynamics and free energy calculations of proteins, nucleic acids, and carbohydrates. (c) 2005 Wiley Periodicals, Inc.
+
+Author: Irwin, J. J., Raushel, F. M. and Shoichet, B. K.
+Year: 2005
+Title: Virtual screening against metalloenzymes for inhibitors and substrates
+Journal: Biochemistry
+Volume: 44
+Issue: 37
+Pages: 12316-12328
+Date: Sep 20
+Short Title: Virtual screening against metalloenzymes for inhibitors and substrates
+Abstract: Molecular docking uses the three-dimensional structure of a receptor to screen databases of small molecules for potential ligands, often based on energetic complementarity. For many docking scoring functions, which calculate nonbonded interactions, metalloenzymes are challenging because of the partial covalent nature of metal-ligand interactions. To investigate how well molecular docking can identify potential ligands of metalloenzymes using a "standard" scoring function, we have docked the MDL Drug Data Report (MDDR), a functionally annotated database of 95 000 small molecules, against the X-ray crystal structures of five metalloenzymes. These enzymes included three zinc proteases, the nickel analogue of an iron enzyme, and a molybdenum metalloenzyme. The ability of the docking program to retrospectively enrich the annotated ligands as high-scoring hits for each enzyme and to calculate proper geometries was evaluated. In all five systems, the annotated ligands within the MDDR were enriched at least 20 times over random. To test the approach prospectively, a sixth target, the zinc beta-lactamase from Bacteroides fragilis, was screened against the fragment-like subset of the ZINC database. We purchased and tested 15 compounds from among the top 50 top-ranked ligands from docking, and found 5 inhibitors with apparent K-i values less than 120 mu M, the best of which was 2 mu M. A more ambitious test still was predicting actual substrates for a seventh target, a Zn-dependent phosphotriesterase from Pseudomonas diminuta. Screening the Available Chemicals Directory (ACD) identified 25 thiophosphate esters as potential substrates within the top 100 ranked compounds. Eight of these, all previously uncharacterized for this enzyme, were acquired and tested, and all were confirmed experimentally as substrates. These results suggest that a simple, noncovalent scoring function may be used to identify inhibitors of at least some metalloenzymes.
+
+Author: Poehlsgaard, J. and Douthwaite, S.
+Year: 2005
+Title: The bacterial ribosome as a target for antibiotics
+Journal: Nature Reviews Microbiology
+Volume: 3
+Issue: 11
+Pages: 870-881
+Date: Nov
+Short Title: The bacterial ribosome as a target for antibiotics
+Abstract: Many clinically useful antibiotics exert their antimicrobial effects by blocking protein synthesis on the bacterial ribosome. The structure of the ribosome has recently been determined by X-ray crystallography, revealing the molecular details of the antibiotic-binding sites. The crystal data explain many earlier biochemical and genetic observations, including how drugs exercise their inhibitory effects, how some drugs in combination enhance or impede each other's binding, and how alterations to ribosomal components confer resistance. The crystal structures also provide insight as to how existing drugs might be derivatized (or novel drugs created) to improve binding and circumvent resistance.
+
+Author: Velec, H. F. G., Gohlke, H. and Klebe, G.
+Year: 2005
+Title: DrugScore(CSD)-knowledge-based scoring function derived from small molecule crystal data with superior recognition rate of near-native ligand poses and better affinity prediction
+Journal: Journal of Medicinal Chemistry
+Volume: 48
+Issue: 20
+Pages: 6296-6303
+Date: Oct 6
+Short Title: DrugScore(CSD)-knowledge-based scoring function derived from small molecule crystal data with superior recognition rate of near-native ligand poses and better affinity prediction
+Abstract: Following the formalism used for the development of the knowledge-based scoring function DrugScore, new distance-dependent pair potentials are obtained from nonbonded interactions in small organic molecule crystal packings. Compared to potentials derived from protein-ligand complexes, the better resolved small molecule structures provide relevant contact data in a more balanced distribution of atom types and produce potentials of superior statistical significance and more detailed shape. Applied to recognizing binding geometries of ligands docked into proteins, this new scoring function (DrugScore(CSD)) ranks the crystal structures of 100 protein-ligand complexes best among up to 100 generated decoy geometries in 77% of all cases. Accepting root-mean-square deviations (rmsd) of up to 2 angstrom from the native pose as well-docked solutions, a correct binding mode is found in 87% of the cases. This translates into an improvement of the new scoring function of 57% with respect to the retrieval of the crystal structure and 20% with respect to the identification of a well-docked ligand pose compared to the original Protein Data Bank-based DrugScore. In the analysis of decoy geometries of cross-docking studies, DrugScore(CSD) shows equivalent or increased performance compared to the original PDB-based DrugScore. Furthermore, DrugScore(CSD) predicts binding affinities convincingly. Reducing the set of docking solutions to examples that deviate increasingly from the native pose results in a loss of performance of DrugScore(CSD). This indicates that a necessary prerequisite to successfully resolving the scoring problem with a more discriminative scoring function is the generation of highly accurate ligand poses, which approximate the native pose to below 1 angstrom rmsd, in a docking run.
+
+Author: Wang, R. X., Fang, X. L., Lu, Y. P., Yang, C. Y. and Wang, S. M.
+Year: 2005
+Title: The PDBbind database: Methodologies and updates
+Journal: Journal of Medicinal Chemistry
+Volume: 48
+Issue: 12
+Pages: 4111-4119
+Date: Jun 16
+Short Title: The PDBbind database: Methodologies and updates
+Abstract: We have developed the PDBbind database to provide a comprehensive collection of binding affinities for the protein-ligand complexes in the Protein Data Bank (PDB). This paper gives a full description of the latest version, i.e., version 2003, which is an update to our recently reported work. Out of 23 790 entries in the PDB release No.107 (January 2004), 5897 entries were identified as protein-ligand complexes that meet our definition. Experimentally determined binding affinities (K-d, K-i, and IC50) for 1622 of these were retrieved from the references associated with these complexes. A total of 900 complexes were selected to form a "refined set", which is of particular value as a standard data set for docking and scoring studies. All of the final data, including binding affinity data, reference citations, and processed structural files, have been incorporated into the PDBbind database accessible on-line at http://www.pdbbind.org/.
+
+Author: Zhang, C., Liu, S., Zhu, Q. Q. and Zhou, Y. Q.
+Year: 2005
+Title: A knowledge-based energy function for protein-ligand, protein-protein, and protein-DNA complexes
+Journal: Journal of Medicinal Chemistry
+Volume: 48
+Issue: 7
+Pages: 2325-2335
+Date: Apr 7
+Short Title: A knowledge-based energy function for protein-ligand, protein-protein, and protein-DNA complexes
+Abstract: We developed a knowledge-based statistical energy function for protein-ligand, protein-protein, and protein-DNA complexes by using 19 atom types and a distance-scale finite ideal-gas reference (DFIRE) state. The correlation coefficients between experimentally measured protein-ligand binding affinities and those predicted by the DFIRE energy function are around 0.63 for one training set and two testing sets. The energy function also makes highly accurate predictions of binding affinities of protein-protein and protein-DNA complexes. Correlation coefficients between theoretical and experimental results are 0.73 for 82 protein-protein (peptide) complexes and 0.83 for 45 protein-DNA complexes, despite the fact that the structures of protein-protein (peptide) and protein-DNA complexes were not used in training the energy function. The results of the DFIRE energy function on protein-ligand complexes are compared to the published results of 12 other scoring functions generated from either physical-based, knowledge-based, or empirical methods. They include AutoDock, X-Score, DrugScore, four scoring functions in Cerius 2 (LigScore, PLP, PMF, and LUDI), four scoring functions in SYBYL (F-Score, G-Score, D-Score, and ChemScore), and BLEEP. While the DFIRE energy function is only moderately successful in ranking native or near native conformations, it yields the strongest correlation between theoretical and experimental binding affinities of the testing sets and between rmsd values and energy scores of docking decoys in a benchmark of 100 protein-ligand complexes. The parameters and the program of the all-atom DFIRE energy function are freely available for academic users at http://theory.med.buffalo.edu.
+
+Author: Block, Peter, Sotriffer, Christoph A., Dramburg, Ingo and Klebe, Gerhard
+Year: 2006
+Title: AffinDB: a freely accessible database of affinities for protein-ligand complexes from the PDB
+Journal: Nucleic Acids Research
+Volume: 34
+Pages: D522-D526
+Date: Jan 1
+Short Title: AffinDB: a freely accessible database of affinities for protein-ligand complexes from the PDB
+Abstract: AffinDB is a database of affinity data for structurally resolved protein-ligand complexes from the Protein Data Bank (PDB). It is freely accessible at http://www.agklebe.de/affinity. Affinity data are collected from the scientific literature, both from primary sources describing the original experimental work of affinity determination and from secondary references which report affinity values determined by others. AffinDB currently contains over 730 affinity entries covering more than 450 different protein-ligand complexes. Besides the affinity value, PDB summary information and additional data are provided, including the experimental conditions of the affinity measurement (if available in the corresponding reference); 2D drawing, SMILES code and molecular weight of the ligand; links to other databases, and bibliographic information. AffinDB can be queried by PDB code or by any combination of affinity range, temperature and pH value of the measurement, ligand molecular weight, and publication data (author, journal and year). Search results can be saved as tabular reports in text files. The database is supposed to be a valuable resource for researchers interested in biomolecular recognition and the development of tools for correlating structural data with affinities, as needed, for example, in structure-based drug design.
+
+Author: Blount, Kenneth F. and Breaker, Ronald R.
+Year: 2006
+Title: Riboswitches as antibacterial drug targets
+Journal: Nature Biotechnology
+Volume: 24
+Issue: 12
+Pages: 1558-1564
+Date: Dec
+Short Title: Riboswitches as antibacterial drug targets
+Abstract: New validated cellular targets are needed to reinvigorate antibacterial drug discovery. This need could potentially be filled by riboswitches - messenger RNA ( mRNA) structures that regulate gene expression in bacteria. Riboswitches are unique among RNAs that serve as drug targets in that they have evolved to form structured and highly selective receptors for small drug-like metabolites. In most cases, metabolite binding to the receptor represses the expression of the gene( s) encoded by the mRNA. If a new metabolite analog were designed that binds to the receptor, the gene( s) regulated by that riboswitch could be repressed, with a potentially lethal effect to the bacteria. Recent work suggests that certain antibacterial compounds discovered decades ago function at least in part by targeting riboswitches. Herein we will summarize the experiments validating riboswitches as drug targets, describe the existing technology for riboswitch drug discovery and discuss the challenges that may face riboswitch drug discoverers.
+
+Author: Ennifar, E., Paillart, J. C., Bodlenner, A., Walter, P., Weibel, J. M., Aubertin, A. M., Pale, P., Dumas, P. and Marquet, R.
+Year: 2006
+Title: Targeting the dimerization initiation site of HIV-1 RNA with aminoglycosides: from crystal to cell
+Journal: Nucleic Acids Research
+Volume: 34
+Issue: 8
+Pages: 2328-2339
+Date: 2006
+Short Title: Targeting the dimerization initiation site of HIV-1 RNA with aminoglycosides: from crystal to cell
+Abstract: The kissing-loop complex that initiates dimerization of genomic RNA is crucial for Human Immunodeficiency Virus Type 1 (HIV-1) replication. We showed that owing to its strong similitude with the bacterial ribosomal A site it can be targeted by aminoglycosides. Here, we present its crystal structure in complex with neamine, ribostamycin, neomycin and lividomycin. These structures explain the specificity for 4,5-disubstituted 2-deoxystreptamine (DOS) derivatives and for subtype A and subtype F kissing-loop complexes, and provide a strong basis for rational drug design. As a consequence of the different topologies of the kissing-loop complex and the A site, these aminoglycosides establish more contacts with HIV-1 RNA than with 16S RNA. Together with biochemical experiments, they showed that while rings I, II and III confer binding specificity, rings IV and V are important for affinity. Binding of neomycin, paromomycin and lividomycin strongly stabilized the kissing-loop complex by bridging the two HIV-1 RNA molecules. Furthermore, in situ footprinting showed that the dimerization initiation site (DIS) of HIV-1 genomic RNA could be targeted by these aminoglycosides in infected cells and virions, demonstrating its accessibility.
+
+Author: Huang, Sheng-You and Zou, Xiaoqin
+Year: 2006
+Title: An iterative knowledge-based scoring function to predict protein-ligand interactions: II. Validation of the scoring function
+Journal: Journal of Computational Chemistry
+Volume: 27
+Issue: 15
+Pages: 1876-1882
+Date: Nov 30
+Short Title: An iterative knowledge-based scoring function to predict protein-ligand interactions: II. Validation of the scoring function
+Abstract: We have developed an iterative knowledge-based scoring function (ITScore) to describe protein-ligand interactions. Here, we assess ITScore through extensive tests on native structure identification, binding affinity prediction, and virtual database screening. Specifically, ITScore was first applied to a test set of 100 protein-ligand complexes constructed by Wang et al. (J Med Chem 2003, 46, 2287), and compared with 14 other scoring functions. The results show that ITScore yielded a high success rate of 82% on identifying native-like binding modes under the criterion of rmsd <= 2 angstrom for each top-ranked ligand conformation. The success rate increased to 98% if the top five conformations were considered for each ligand. In the case of binding affinity prediction, ITScore also obtained a good correlation for this test set (R = 0.65). Next, ITScore was used to predict binding affinities of a second diverse test set of 77 protein-ligand complexes prepared by Muegge and Martin (I Med Chem 1999, 42, 791), and compared with four other widely used knowledge-based scoring functions. ITScore yielded a high correlation of R-2 = 0.65 (or R = 0.81) in the affinity prediction. Finally, enrichment tests were performed with ITScore against four target proteins using the compound databases constructed by Jacobsson et al. Q Med Chem 2003, 46, 5781). The results were compared with those of eight other scoring functions. ITScore yielded high enrichments in all four database screening tests. ITScore can be easily combined with the existing docking programs for the use of structure-based drug design. (C) 2006 Wiley Periodicals, Inc.
+
+Author: Moitessier, N., Westhof, E. and Hanessian, S.
+Year: 2006
+Title: Docking of Aminoglycosides to hydrated and flexible RNA
+Journal: Journal of Medicinal Chemistry
+Volume: 49
+Issue: 3
+Pages: 1023-1033
+Date: Feb 9
+Short Title: Docking of Aminoglycosides to hydrated and flexible RNA
+Abstract: Although much effort has been devoted to the development of programs suited for the docking of ligands to proteins, much less progress has been achieved in the nucleic acid field. We have developed a unique approach for docking aminoglycosides to RNA considering the flexibility of these macromolecules using conformational ensembles and accounting for the role of the first hydration shell. This concept, successfully implemented in AutoDock, relies on the computation of the intermolecular interaction energy that accounts for the presence of dynamically bound water molecules to the RNA. As an application, a set of 11 aminoglycosides was docked with an average root-mean-square deviation (RMSD) of 1.41 angstrom to be compared with an average RMSD of 3.25 angstrom when the original AutoDock protocol was used.
+
+Author: Muegge, Ingo
+Year: 2006
+Title: PMF scoring revisited
+Journal: Journal of Medicinal Chemistry
+Volume: 49
+Issue: 20
+Pages: 5895-5902
+Date: Oct 5
+Short Title: PMF scoring revisited
+Abstract: Knowledge-based scoring functions have become accepted choices for fast scoring putative protein-ligand complexes according to their binding affinities. Since their introduction 5 years ago, the knowledge base of protein-ligand complexes has grown to the point were rederiving potentials of mean force becomes meaningful for statistical reasons. Revisiting potential of mean force (PMF) scoring (J. Med. Chem. 1999, 42, 791), we present an updated PMF04 scoring function that is based on 7152 protein-ligand complexes from the PDB. This constitutes an increase of about 10-fold compared to the knowledge base of the original PMF99 score (697 complexes). Because of the increased statistical basis of the PMF04 score, potentials for metal ions have been derived for the first time. In addition, potentials for halogens have reached statistical significance and are included also. Comparison of scoring accuracies between PMF99 and PMF04 shows an increased performance of the new score for many well-established test sets. Extending the testing of PMF scoring to the recently introduced PDBbind database containing the large number of 800 protein-ligand complexes illustrates the current limits of the approach.
+
+Author: Yang, Chao-Yie, Wang, Renxiao and Wang, Shaomeng
+Year: 2006
+Title: M-score: A knowledge-based potential scoring function accounting for protein atom mobility
+Journal: Journal of Medicinal Chemistry
+Volume: 49
+Issue: 20
+Pages: 5903-5911
+Date: Oct 5
+Short Title: M-score: A knowledge-based potential scoring function accounting for protein atom mobility
+Abstract: A knowledge-based potential scoring function, named M-Score, has been developed based upon 2331 high-resolution crystal structures of protein-ligand complexes. M-Score considers the mobility of protein atoms, describing the location of each protein atom by a Gaussian distribution instead of a fixed position based upon the isotropic B-factors. This leads to an increase in the number of atom-pairs in the construction of knowledge-based potentials and a smoothing effect on the pairwise distribution functions. M-Score was validated using 896 complexes which were not included in the 2331 data set and whose experimentally determined binding affinities were available. The overall linear correlation coefficient (r) between the calculated scores and experimentally determined binding affinities (pK(i) or pK(d)) for these 896 complexes is -0.49. Evaluation of M-Score against 17 protein families showed that we obtained good to excellent correlations for six protein families, modest correlations for four protein families, and poor correlations for the remaining seven protein families.
+
+Author: Jain, Tarun and Jayaram, B.
+Year: 2007
+Title: Computational protocol for predicting the binding affinities of zinc containing metalloprotein-ligand complexes
+Journal: Proteins-Structure Function and Bioinformatics
+Volume: 67
+Issue: 4
+Pages: 1167-1178
+Date: Jun
+Short Title: Computational protocol for predicting the binding affinities of zinc containing metalloprotein-ligand complexes
+Abstract: Zinc is one of the most important metal ions found in proteins performing specific functions associated with life processes. Coordination geometry of the zinc ion in the active site of the metalloprotein-ligand complexes poses a challenge in determining ligand binding affinities accurately in structure-based drug design. We report here an all atom force field based computational protocol for estimating rapidly the binding affinities of zinc containing metalloprotein-ligand complexes, considering electrostatics, van der Waals, hydrophobicity, and loss in conformational entropy of protein side chains upon ligand binding along with a nonbonded approach to model the interactions of the zinc ion with all the other atoms of the complex. We examined the sensitivity of the binding affinity predictions to the choice of Lennard-Jones parameters, partial atomic charges, and dielectric treatments adopted for system preparation and scoring. The highest correlation obtained was R-2 = 0.77 (r = 0.88) for the predicted binding affinity against the experiment on a heterogenous dataset of 90 zinc containing metalloprotein-ligand complexes consisting of five unique protein targets. Model validation and parameter analysis studies underscore the robustness and predictive ability of the scoring function. The high correlation obtained suggests the potential applicability of the methodology in designing novel ligands for zinc-metalloproteins. The scoring function has been web enabled for free access at www.scfbio-iitd.res.in/software/ drugdesign/bapplz.jsp as BAPPL-Z server (Binding Affinity Prediction of Protein-Ligand complexes containing Zinc metal ions). Proteins 2007;67:1167-1178. (C) 2007 Wiley-Liss, Inc.
+
+Author: Liu, Tiqing, Lin, Yuhmei, Wen, Xin, Jorissen, Robert N. and Gilson, Michael K.
+Year: 2007
+Title: BindingDB: a web-accessible database of experimentally determined protein-ligand binding affinities
+Journal: Nucleic Acids Research
+Volume: 35
+Pages: D198-D201
+Date: Jan
+Short Title: BindingDB: a web-accessible database of experimentally determined protein-ligand binding affinities
+Abstract: BindingDB (http://www.bindingdb.org) is a publicly accessible database currently containing similar to 20 000 experimentally determined binding affinities of protein-ligand complexes, for 110 protein targets including isoforms and mutational variants, and similar to 11 000 small molecule ligands. The data are extracted from the scientific literature, data collection focusing on proteins that are drug-targets or candidate drug-targets and for which structural data are present in the Protein Data Bank. The BindingDB website supports a range of query types, including searches by chemical structure, substructure and similarity; protein sequence; ligand and protein names; affinity ranges and molecular weight. Data sets generated by BindingDB queries can be downloaded in the form of annotated SDfiles for further analysis, or used as the basis for virtual screening of a compound database uploaded by the user. The data in BindingDB are linked both to structural data in the PDB via PDB IDs and chemical and sequence searches, and to the literature in PubMed via PubMed IDs.
+
+Author: Pfeffer, Patrick and Gohlke, Holger
+Year: 2007
+Title: DrugScore(RNA) - Knowledge-based scoring function to predict RNA-ligand interactions
+Journal: Journal of Chemical Information and Modeling
+Volume: 47
+Issue: 5
+Pages: 1868-1876
+Date: Sep-Oct
+Short Title: DrugScore(RNA) - Knowledge-based scoring function to predict RNA-ligand interactions
+Abstract: There is growing interest in RNA as a drug target due to its widespread involvement in biological processes. To exploit the power of structure-based drug-design approaches, novel scoring and docking tools need to be developed that can efficiently and reliably predict binding modes and binding affinities of RNA ligands. We report for the first time the development of a knowledge-based scoring function to predict RNA-ligand interactions (DrugScore(RNA)). Based on the formalism of the DrugScore approach, distance-dependent pair potentials are derived from 670 crystallographically determined nucleic acid-ligand and -protein complexes. These potentials display quantitative differences compared to those of DrugScore (derived from protein-ligand complexes) and DrugScorels(CSD) (derived from small-molecule crystal data). When used as an objective function for docking 31 RNA-ligand complexes, DrugScore(RNA) generates "good" binding geometries (rmsd (root mean-square deviation) < 2 angstrom) in 42% of all cases on the first scoring rank. This is an improvement of 44% to 120% when compared to DrugScore, DrugScore(CSD), and an RNA-adapted AutoDock scoring function. Encouragingly, good docking results are also obtained for a subset of 20 NMR structures not contained in the knowledge-base to derive the potentials. This clearly demonstrates the robustness of the potentials. Binding free energy landscapes generated by DrugScore(RNA) show a pronounced funnel shape in almost 3/4 of all cases, indicating the reduced steepness of the knowledge-based potentials. Docking with DrugScore(RNA) can thus be expected to converge fast to the global minimum. Finally, binding affinities were predicted for 15 RNA-ligand complexes with DrugScore(RNA). A fair correlation between experimental and computed values is found (R-s = 0.61), which suffices to distinguish weak from strong binders, as is required in virtual screening applications. DrugScore(RNA) again shows superior predictive power when compared to DrugSeore, DrugScore(CSD), and an RNA-adapted AutoDock scoring function.
+
+Author: Shaikh, Saher Afshan and Jayaram, B.
+Year: 2007
+Title: A swift all-atom energy-based computational protocol to predict DNA-ligand binding affinity and Delta T(m)
+Journal: Journal of Medicinal Chemistry
+Volume: 50
+Issue: 9
+Pages: 2240-2244
+Date: May 3
+Short Title: A swift all-atom energy-based computational protocol to predict DNA-ligand binding affinity and Delta T(m)
+Abstract: A hybrid molecular mechanics-statistical mechanics-solvent accessibility-based computational protocol is developed to calculate DNA-ligand binding affinity without any database training and is validated on 50 DNA-ligand complexes. The calculated binding energies yield high correlation coefficients of 0.95 (R(2) = 0.90) and 0.96 (R(2) = 0.93) in linear plots against experimental binding free energies (Delta G(o)) and Delta T(m), respectively. The protocol is translated into a swift, web-enabled, freely accessible computational tool, http://www.scfbio-iitd.res.in/preddicta, for Delta G(o) and Delta T(m) prediction for DNA-ligand complexes to aid and expedite rational drug design attempts.
+
+Author: Warner, Digby F., Savvi, Suzana, Mizrahi, Valerie and Dawes, Stephanie S.
+Year: 2007
+Title: A riboswitch regulates expression of the coenzyme B-12-independent methionine synthase in Mycobacterium tuberculosis: Implications for differential methionine synthase function in strains H37Rv and CDC1551
+Journal: Journal of Bacteriology
+Volume: 189
+Issue: 9
+Pages: 3655-3659
+Date: May
+Short Title: A riboswitch regulates expression of the coenzyme B-12-independent methionine synthase in Mycobacterium tuberculosis: Implications for differential methionine synthase function in strains H37Rv and CDC1551
+Abstract: We observed vitamin B-12-mediated growth inhibition of Mycobacterium tuberculosis strain CDC1551. The B-12 sensitivity was mapped to a polymorphism in metH, encoding a coenzyme B-12-dependent methionine synthase. Vitamin B-12-resistant suppressor mutants of CDC1551 containing mutations in a B-12 riboswitch upstream of the metE gene, which encodes a B-12-independent methionine synthase, were isolated. Expression analysis confirmed that the B-12 riboswitch is a transcriptional regulator of metE in M. tuberculosis.
+
+Author: Dias, R. and de Azevedo, W. F.
+Year: 2008
+Title: Molecular Docking Algorithms
+Journal: Current Drug Targets
+Volume: 9
+Issue: 12
+Pages: 1040-1047
+Date: Dec
+Short Title: Molecular Docking Algorithms
+Abstract: By means of virtual screening of small molecules databases it is possible to identify new potential inhibitors against a target of interest. Molecular docking is a computer simulation procedure to predict the conformation of a receptor-ligand complex. Each docking program makes use of one or more specific search algorithms, which are the methods used to predict the possible conformations of a binary complex. In the present review we describe several molecular-docking search algorithms, and the programs which apply such methodologies. We also discuss how virtual screening can be optimized, describing methods that may increase accuracy of the simulation process, with relatively fast docking algorithms.
+
+Author: Gao, Qing, Zhang, Qin-he, Su, Shu-peng and Zhang, Jian-hua
+Year: 2008
+Title: Parameter optimization model in electrical discharge machining process
+Journal: Journal of Zhejiang University-Science A
+Volume: 9
+Issue: 1
+Pages: 104-108
+Date: Jan
+Short Title: Parameter optimization model in electrical discharge machining process
+Abstract: Electrical discharge machining (EDM) process, at present is still an experience process, wherein selected parameters are often far from the optimum, and at the same time selecting optimization parameters is costly and time consuming. In this paper, artificial neural network (ANN) and genetic algorithm (GA) are used together to establish the parameter optimization model. An ANN model which adapts Levenberg-Marquardt algorithm has been set up to represent the relationship between material removal rate (MRR) and input parameters, and GA is used to optimize parameters, so that optimization results are obtained. The model is shown to be effective, and MRR is improved using optimized machining parameters.
+
+Author: Guilbert, Christophe and James, Thomas L.
+Year: 2008
+Title: Docking to RNA via root-mean-square-deviation-driven energy minimization with flexible ligands and flexible targets
+Journal: Journal of Chemical Information and Modeling
+Volume: 48
+Issue: 6
+Pages: 1257-1268
+Date: Jun
+Short Title: Docking to RNA via root-mean-square-deviation-driven energy minimization with flexible ligands and flexible targets
+Abstract: Structure-based drug design is now well-established for proteins as a key first step in the lengthy process of developing new drugs. In many ways, RNA may be a better target to treat disease than a protein because it is upstream in the translation pathway, so inhibiting a single mRNA molecule could prevent the production of thousands of protein gene products. Virtual screening is often the starting point for structure-based drug design. However, computational docking of a small molecule to RNA seems to be more challenging than that to protein due to the higher intrinsic flexibility and highly charged structure of RNA. Previous attempts at docking to RNA showed the need for a new approach. We present here a novel algorithm using molecular simulation techniques to account for both nucleic acid and ligand flexibility. In this approach, with both the ligand and the receptor permitted some flexibility, they can bind one another via an induced fit, as the flexible ligand probes the surface of the receptor. A possible ligand can explore a low-energy path at the surface of the receptor by carrying out energy minimization with root-mean-square-distance constraints. Our procedure was tested on 57 RNA complexes (33 crystal and 24 NMR structures); this is the largest data set to date to reproduce experimental RNA binding poses. With our procedure, the lowest-energy conformations reproduced the experimental binding poses within an atomic root-mean-square deviation of 2.5 angstrom for 74% of tested complexes.
+
+Author: Montange, Rebecca K. and Batey, Robert T.
+Year: 2008
+Title: Riboswitches: Emerging themes in RNA structure and function
+Book Title: Annual Review of Biophysics
+Volume: 37
+Pages: 117-133
+Series Title: Annual Review of Biophysics
+Short Title: Riboswitches: Emerging themes in RNA structure and function
+Abstract: Riboswitches are RNAs capable of binding cellular metabolites using a diverse array of secondary and tertiary structures to modulate gene expression. The recent determination of the three-dimensional structures of parts of six different riboswitches illuminates common features that allow riboswitches to be grouped into one of two types. Type I riboswitches, as exemplified by the purine riboswitch, are characterized by a single, localized binding pocket supported by a largely pre-established global fold. This arrangement limits ligand-induced conformational changes in the RNA to a small region. In contrast, Type II riboswitches, such as the thiamine pyrophosphate riboswitch, contain binding pockets split into at least two spatially distinct sites. As a result, binding induces both local changes to the binding pocket and global architecture. Similar organizational themes are found in other noncoding RNAs, making it possible to begin to build a hierarchical classification of RNA structure based on the spatial organization of their active sites and associated secondary structural elements.
+
+Author: Thomas, Jason R. and Hergenrother, Paul J.
+Year: 2008
+Title: Targeting RNA with small molecules
+Journal: Chemical Reviews
+Volume: 108
+Issue: 4
+Pages: 1171-1224
+Date: Apr
+Short Title: Targeting RNA with small molecules
+
+Author: de Azevedo, W. F., Dias, R., Timmers, Lfsm, Pauli, I., Caceres, R. A. and Soares, M. B. P.
+Year: 2009
+Title: Bioinformatics Tools for Screening of Antiparasitic Drugs
+Journal: Current Drug Targets
+Volume: 10
+Issue: 3
+Pages: 232-239
+Date: Mar
+Short Title: Bioinformatics Tools for Screening of Antiparasitic Drugs
+Abstract: Drug development has become the Holy Grail of many structural bionformatics groups. The explosion of information about protein structures, ligand-binding affinity, parasite genome projects, and biological activity of millions of molecules opened the possibility to correlate this scattered information in order to generate reliable computational models to predict the likelihood of being able to modulate a target with a small-molecule drug. Computational methods have shown their potential in drug discovery and development allied with in vitro and in vivo methodologies. The present review discusses the main bioinformatics tools available for drug discovery and development.
+
+Author: Lang, P. Therese, Brozell, Scott R., Mukherjee, Sudipto, Pettersen, Eric F., Meng, Elaine C., Thomas, Veena, Rizzo, Robert C., Case, David A., James, Thomas L. and Kuntz, Irwin D.
+Year: 2009
+Title: DOCK 6: Combining techniques to model RNA-small molecule complexes
+Journal: Rna-a Publication of the Rna Society
+Volume: 15
+Issue: 6
+Pages: 1219-1230
+Date: Jun
+Short Title: DOCK 6: Combining techniques to model RNA-small molecule complexes
+Abstract: With an increasing interest in RNA therapeutics and for targeting RNA to treat disease, there is a need for the tools used in protein-based drug design, particularly DOCKing algorithms, to be extended or adapted for nucleic acids. Here, we have compiled a test set of RNA-ligand complexes to validate the ability of the DOCK suite of programs to successfully recreate experimentally determined binding poses. With the optimized parameters and a minimal scoring function, 70% of the test set with less than seven rotatable ligand bonds and 26% of the test set with less than 13 rotatable bonds can be successfully recreated within 2 angstrom heavy-atom RMSD. When DOCKed conformations are rescored with the implicit solvent models AMBER generalized Born with solvent-accessible surface area (GB/SA) and Poisson-Boltzmann with solvent-accessible surface area (PB/SA) in combination with explicit water molecules and sodium counterions, the success rate increases to 80% with PB/SA for less than seven rotatable bonds and 58% with AMBER GB/SA and 47% with PB/SA for less than 13 rotatable bonds. These results indicate that DOCK can indeed be useful for structure-based drug design aimed at RNA. Our studies also suggest that RNA-directed ligands often differ from typical protein-ligand complexes in their electrostatic properties, but these differences can be accommodated through the choice of potential function. In addition, in the course of the study, we explore a variety of newly added DOCK functions, demonstrating the ease with which new functions can be added to address new scientific questions.
+
+Author: Morris, Garrett M., Huey, Ruth, Lindstrom, William, Sanner, Michel F., Belew, Richard K., Goodsell, David S. and Olson, Arthur J.
+Year: 2009
+Title: AutoDock4 and AutoDockTools4: Automated Docking with Selective Receptor Flexibility
+Journal: Journal of Computational Chemistry
+Volume: 30
+Issue: 16
+Pages: 2785-2791
+Date: Dec 30
+Short Title: AutoDock4 and AutoDockTools4: Automated Docking with Selective Receptor Flexibility
+Abstract: We describe the testing and release of AutoDock4 and the accompanying graphical user interface AutoDockTools. AutoDock4 incorporates limited flexibility in the receptor. Several tests are reported here, including a redocking experiment with 188 diverse ligand-protein complexes and a cross-docking experiment using flexible side-chains in 87 HIV protease complexes. We also report its utility in analysis of covalently bound ligands, using both a grid-based clocking method and a modification of the flexible sidechain technique. (C) 2009 Wiley Periodicals, Inc. J Comput Chem 30: 2785-2791, 2009
+
+Author: Seifert, M. H. J.
+Year: 2009
+Title: Robust optimization of scoring functions for a target class
+Journal: Journal of Computer-Aided Molecular Design
+Volume: 23
+Issue: 9
+Pages: 633-644
+Date: Sep
+Short Title: Robust optimization of scoring functions for a target class
+Abstract: Target-specific optimization of scoring functions for protein-ligand docking is an effective method for significantly improving the discrimination of active and inactive molecules in virtual screening applications. Its applicability, however, is limited due to the narrow focus on, e.g., single protein structures. Using an ensemble of protein kinase structures, the publically available directory of useful decoys ligand dataset, and a novel multi-factorial optimization procedure, it is shown here that scoring functions can be tuned to multiple targets of a target class simultaneously. This leads to an improved robustness of the resulting scoring function parameters. Extensive validation experiments clearly demonstrate that (1) virtual screening performance for kinases improves significantly; (2) variations in database content affect this kind of machine-learning strategy to a lesser extent than binary QSAR models, and (3) the reweighting of interaction types is of particular importance for improved screening performance.
+
+Author: Seifert, M. H. J.
+Year: 2009
+Title: Targeted scoring functions for virtual screening
+Journal: Drug Discovery Today
+Volume: 14
+Issue: 11-12
+Pages: 562-569
+Date: Jun
+Short Title: Targeted scoring functions for virtual screening
+Abstract: The benefit offered by virtual screening methods during the early drug discovery process is directly related to the predictivity of scoring functions that assess protein-ligand binding affinity. The scoring of protein-ligand complexes, however, is still a challenge: despite great efforts, a universal and accurate scoring method has not been developed up to now. Targeted scoring functions, in contrast, enhance virtual screening performance significantly. This review analyzes recent developments and future directions in the area of targeted scoring functions.
+
+Author: Aboul-ela, Fareed
+Year: 2010
+Title: Strategies for the design of RNA-binding small molecules
+Journal: Future Medicinal Chemistry
+Volume: 2
+Issue: 1
+Pages: 93-119
+Date: Jan
+Short Title: Strategies for the design of RNA-binding small molecules
+Abstract: Bacterial ribosomal RNA is the target of clinically important antibiotics, while biologically important RNAs in viral and eukaryotic genomes present a range of potential drug targets. The physicochemical properties of RNA present difficulties for medicinal chemistry, particularly when oral availability is needed. Peptidic ligands and analysis of their RNA-binding properties are providing insight into RNA recognition. RNA-binding ligands include far more chemical classes than just aminoglycosides. Chemical functionalities from known RNA-binding small molecules are being exploited in fragment- and ligand-based projects. While targeting of RNA for drug design is very challenging, continuing advances in our understanding of the principles of RNA ligand interaction will be necessary to realize the full potential of this class of targets.
+
+Author: Fulle, Simone and Gohlke, Holger
+Year: 2010
+Title: Molecular recognition of RNA: challenges for modelling interactions and plasticity
+Journal: Journal of Molecular Recognition
+Volume: 23
+Issue: 2
+Pages: 220-231
+Date: Mar-Apr
+Short Title: Molecular recognition of RNA: challenges for modelling interactions and plasticity
+Abstract: There is growing interest in molecular recognition processes of RNA because of RNA's widespread involvement in biological processes. Computational approaches are increasingly used for analysing and predicting binding to RNA, fuelled by encouraging progress in developing simulation, free energy and docking methods for nucleic acids. These developments take into account challenges regarding the energetics of RNA-ligand binding, RNA plasticity, and the presence of water molecules and ions in the binding interface. Accordingly, we will detail advances in force field and scoring function development for molecular dynamics (MD) simulations, free energy computations and docking calculations of nucleic acid complexes. Furthermore, we present methods that can detect moving parts within RNA structures based on graph-theoretical approaches or normal mode analysis (NMA). As an example of the successful use of these developments, we will discuss recent structure-based drug design approaches that focus on the bacterial ribosomal A-site RNA as a drug target. Copyright (C) 2009 John Wiley & Sons, Ltd.
+
+Author: Huang, S. Y., Grinter, S. Z. and Zou, X. Q.
+Year: 2010
+Title: Scoring functions and their evaluation methods for protein-ligand docking: recent advances and future directions
+Journal: Physical Chemistry Chemical Physics
+Volume: 12
+Issue: 40
+Pages: 12899-12908
+Short Title: Scoring functions and their evaluation methods for protein-ligand docking: recent advances and future directions
+Abstract: The scoring function is one of the most important components in structure-based drug design. Despite considerable success, accurate and rapid prediction of protein-ligand interactions is still a challenge in molecular docking. In this perspective, we have reviewed three basic types of scoring functions (force-field, empirical, and knowledge-based) and the consensus scoring technique that are used for protein-ligand docking. The commonly-used assessment criteria and publicly available protein-ligand databases for performance evaluation of the scoring functions have also been presented and discussed. We end with a discussion of the challenges faced by existing scoring functions and possible future directions for developing improved scoring functions.
+
+Author: Huang, S. Y. and Zou, X. Q.
+Year: 2010
+Title: Advances and Challenges in Protein-Ligand Docking
+Journal: International Journal of Molecular Sciences
+Volume: 11
+Issue: 8
+Pages: 3016-3034
+Date: Aug
+Short Title: Advances and Challenges in Protein-Ligand Docking
+Abstract: Molecular docking is a widely-used computational tool for the study of molecular recognition, which aims to predict the binding mode and binding affinity of a complex formed by two or more constituent molecules with known structures. An import ant type of molecular docking is protein-ligand docking because of its therapeutic applications in modern structure-based drug design. Here, we review the recent advances of protein flexibility, ligand sampling, and scoring functions-the three important aspects in protein-ligand docking. Challenges and possible future directions are discussed in the Conclusion.
+
+Author: Huang, S. Y. and Zou, X. Q.
+Year: 2010
+Title: Mean-Force Scoring Functions for Protein-Ligand Binding
+Book Title: Annual Reports in Computational Chemistry, Vol 6
+Volume: 6
+Pages: 281-296
+Series Title: Annual Reports in Computational Chemistry
+Short Title: Mean-Force Scoring Functions for Protein-Ligand Binding
+Abstract: The scoring function is one of the key issues in protein-ligand docking for structure-based drug design. Despite considerable success in the past decades, the scoring problem remains unsolved. Among various types of scoring functions that have been developed, mean-force scoring functions have received considerable attention and significant development due to their good balance between accuracy, universality, and computational speed. In this chapter, we have reviewed the recent advances in mean-force scoring functions for protein-ligand docking. We have also discussed challenges and possible future directions for improving mean-force scoring functions.
+
+Author: Li, Yaozong, Shen, Jie, Sun, Xiangiang, Li, Weihua, Liu, Guixia and Tang, Yun
+Year: 2010
+Title: Accuracy Assessment of Protein-Based Docking Programs against RNA Targets
+Journal: Journal of Chemical Information and Modeling
+Volume: 50
+Issue: 6
+Pages: 1134-1146
+Date: Jun
+Short Title: Accuracy Assessment of Protein-Based Docking Programs against RNA Targets
+Abstract: Ribonucleic acid (RNA) molecules play central roles in a variety of biological processes and, hence, are attractive targets for therapeutic intervention. In recent years, molecular docking techniques have become one of the most popular and successful approaches in drug discovery; however, almost all docking programs are protein based. The adaptability of popular docking programs in RNA world has not been systematically evaluated. This paper describes the comprehensive evaluation of two widely used protein-based docking programs GOLD and Glide for their docking and virtual screening accuracies against RNA targets. Using multiple docking strategies, both GOLD 4.0 and Glide 5.0 successfully reproduced most binding modes of the 60 tested RNA complexes. Applying different docking/scoring combinations, significant enrichments from the simulated virtual and fragment screening experiments were achieved against tRNA decoding A site of 16S rRNA (rRNA A-site). Our study demonstrated that current protein-based docking programs can fulfill general docking tasks against RNA, and these programs are very helpful in RNA-based drug discovery and design.
+
+Author: Li, Y. Z., Shen, J., Sun, X. G., Li, W. H., Liu, G. X. and Tang, Y.
+Year: 2010
+Title: Accuracy Assessment of Protein-Based Docking Programs against RNA Targets
+Journal: Journal of Chemical Information and Modeling
+Volume: 50
+Issue: 6
+Pages: 1134-1146
+Date: Jun
+Short Title: Accuracy Assessment of Protein-Based Docking Programs against RNA Targets
+Abstract: Ribonucleic acid (RNA) molecules play central roles in a variety of biological processes and, hence, are attractive targets for therapeutic intervention. In recent years, molecular docking techniques have become one of the most popular and successful approaches in drug discovery; however, almost all docking programs are protein based. The adaptability of popular docking programs in RNA world has not been systematically evaluated. This paper describes the comprehensive evaluation of two widely used protein-based docking programs GOLD and Glide for their docking and virtual screening accuracies against RNA targets. Using multiple docking strategies, both GOLD 4.0 and Glide 5.0 successfully reproduced most binding modes of the 60 tested RNA complexes. Applying different docking/scoring combinations, significant enrichments from the simulated virtual and fragment screening experiments were achieved against tRNA decoding A site of 16S rRNA (rRNA A-site). Our study demonstrated that current protein-based docking programs can fulfill general docking tasks against RNA, and these programs are very helpful in RNA-based drug discovery and design.
+
+Author: Sherer, E. C.
+Year: 2010
+Title: Antibiotics Targeting the Ribosome: Structure-Based Design and the Nobel Prize
+Book Title: Annual Reports in Computational Chemistry, Vol 6
+Volume: 6
+Pages: 139-166
+Series Title: Annual Reports in Computational Chemistry
+Short Title: Antibiotics Targeting the Ribosome: Structure-Based Design and the Nobel Prize
+Abstract: Ribosome crystallography has recently been the subject of the Nobel Prize in Chemistry. Elucidation of ribosome structure has had a direct impact on drug design. A general overview of RNA as a drug target is presented followed by several case studies specifically covering molecular modeling and crystallographic impact on antibiotic drug discovery targeting the ribosome.
+
+Author: Bottegoni, Giovanni
+Year: 2011
+Title: Protein-ligand docking
+Journal: Frontiers in Bioscience-Landmark
+Volume: 16
+Pages: 2289-2306
+Date: Jun 1
+Short Title: Protein-ligand docking
+Abstract: Ligand-docking is an established computational technique universally applied in structure-based drug design. Since the first attempts carried out in the early '80s to predict the three-dimensional conformation of a protein-ligand bound complex, this methodology has evolved constantly and it is presently implemented in many different ways. The present study aims at explaining the standard protein-ligand docking protocol, together with its main advantages and drawbacks. Milestone reports and future directions are reported and discussed as well.
+
+Author: Garst, Andrew D., Edwards, Andrea L. and Batey, Robert T.
+Year: 2011
+Title: Riboswitches: Structures and Mechanisms
+Journal: Cold Spring Harbor Perspectives in Biology
+Volume: 3
+Issue: 6
+Date: Jun
+Short Title: Riboswitches: Structures and Mechanisms
+Abstract: A critical feature of the hypothesized RNAworld would have been the ability to control chemical processes in response to environmental cues. Riboswitches present themselves as viable candidates for a sophisticated mechanism of regulatory control in RNA-based life. These regulatory elements in the modern world are most commonly found in the 5'-untranslated regions of bacterial mRNAs, directly interacting with metabolites as a means of regulating expression of the coding region via a secondary structural switch. In this review, we focus on recent insights into how these RNAs fold into complex architectures capable of both recognizing a specific small molecule compound and exerting regulatory control over downstream sequences, with an emphasis on transcriptional regulation.
+
+Author: Kruger, D. M., Bergs, J., Kazemi, S. and Gohlke, H.
+Year: 2011
+Title: Target Flexibility in RNA-Ligand Docking Modeled by Elastic Potential Grids
+Journal: Acs Medicinal Chemistry Letters
+Volume: 2
+Issue: 7
+Pages: 489-493
+Date: Jul
+Short Title: Target Flexibility in RNA-Ligand Docking Modeled by Elastic Potential Grids
+Abstract: The highly flexible nature of RNA provides a formidable challenge for structure-based drug design approaches that target RNA. We introduce an approach for modeling target conformational changes in RNA-ligand docking based on potential grids that are represented as elastic bodies using Navier's equation. This representation provides an accurate and efficient description of RNA-ligand interactions even in the case of a moving RNA structure. When applied to a data set of 17 RNA-ligand complexes, filtered out of the largest validation data set used for RNA-ligand docking so far, the approach is twice as successful as docking into an apo structure and still half as successful as redocking, to the holo structure. The approach allows considering RNA movements of up to 6 angstrom rmsd and is based on a uniform and robust parametrization of the properties of the elastic potential grids, so that the approach is applicable to different RNA-ligand complex classes.
+
+Author: Rother, Magdalena, Rother, Kristian, Puton, Tomasz and Bujnicki, Janusz M.
+Year: 2011
+Title: ModeRNA: a tool for comparative modeling of RNA 3D structure
+Journal: Nucleic Acids Research
+Volume: 39
+Issue: 10
+Pages: 4007-4022
+Date: May
+Short Title: ModeRNA: a tool for comparative modeling of RNA 3D structure
+Abstract: RNA is a large group of functionally important biomacromolecules. In striking analogy to proteins, the function of RNA depends on its structure and dynamics, which in turn is encoded in the linear sequence. However, while there are numerous methods for computational prediction of protein three-dimensional (3D) structure from sequence, with comparative modeling being the most reliable approach, there are very few such methods for RNA. Here, we present ModeRNA, a software tool for comparative modeling of RNA 3D structures. As an input, ModeRNA requires a 3D structure of a template RNA molecule, and a sequence alignment between the target to be modeled and the template. It must be emphasized that a good alignment is required for successful modeling, and for large and complex RNA molecules the development of a good alignment usually requires manual adjustments of the input data based on previous expertise of the respective RNA family. ModeRNA can model post-transcriptional modifications, a functionally important feature analogous to post-translational modifications in proteins. ModeRNA can also model DNA structures or use them as templates. It is equipped with many functions for merging fragments of different nucleic acid structures into a single model and analyzing their geometry. Windows and UNIX implementations of ModeRNA with comprehensive documentation and a tutorial are freely available.
+
+Author: Shen, Q. C., Xiong, B., Zheng, M. Y., Luo, X. M., Luo, C., Liu, X. A., Du, Y., Li, J., Zhu, W. L., Shen, J. K. and Jiang, H. L.
+Year: 2011
+Title: Knowledge-Based Scoring Functions in Drug Design: 2. Can the Knowledge Base Be Enriched?
+Journal: Journal of Chemical Information and Modeling
+Volume: 51
+Issue: 2
+Pages: 386-397
+Date: Feb
+Short Title: Knowledge-Based Scoring Functions in Drug Design: 2. Can the Knowledge Base Be Enriched?
+Abstract: Fast and accurate predicting of the binding affinities of large sets of diverse protein ligand complexes is an important, yet extremely challenging, task in drug discovery. The development of knowledge-based scoring functions exploiting structural information of known protein ligand complexes represents a valuable contribution to such a computational prediction. In this study, we report a scoring function named IPMF that integrates additional experimental binding affinity information into the extracted potentials, on the assumption that a scoring function with the "enriched" knowledge base may achieve increased accuracy in binding affinity prediction. In our approach, the functions and atom types of PMF04 were inherited to implicitly capture binding effects that are hard to model explicitly, and a novel iteration device was designed to gradually tailor the initial potentials. We evaluated the performance of the resultant IPMF with a diverse set of 219 protein ligand complexes and compared it with seven scoring functions commonly used in computer-aided drug design, including GLIDE, AutoDock4, VINA, PLP, LUDI, PMF, and PMF04. While the IPMF is only moderately successful in ranking native or near native conformations, it yields the lowest mean error of 1.41 log K(i)/K(d) units from measured inhibition affinities and the highest Pearson's correlation coefficient of R(p)(2) 0.40 for the test set. These results corroborate our initial supposition about the role of "enriched" knowledge base. With the rapid growing volume of high quality structural and interaction data in the public domain, this work marks a positive step toward improving the accuracy of knowledge based scoring functions in binding affinity prediction.
+
+Author: Tuccinardi, T.
+Year: 2011
+Title: Binding-interaction prediction of RNA-binding ligands
+Journal: Future Medicinal Chemistry
+Volume: 3
+Issue: 6
+Pages: 723-733
+Date: Apr
+Short Title: Binding-interaction prediction of RNA-binding ligands
+Abstract: RNA molecules are involved in a wide range of biological processes and have been recognized as very important therapeutic targets. Mainly owing to the scarcity of information and experimental studies, the application of computational approaches and, in particular, of docking methodologies in the RNA field has developed slowly. However, in recent years the docking of RNA-binding ligands has experienced significant expansion. This article focuses attention on the docking of RNA-binding ligands, analyzing the development of RNA docking approaches, the reliability of the docking methods and, finally, evaluating the results of docking-based virtual screening studies reported in the literature.
+
+Author: Tuszynska, Irina and Bujnicki, Janusz M.
+Year: 2011
+Title: DARS-RNP and QUASI-RNP: New statistical potentials for protein-RNA docking
+Journal: Bmc Bioinformatics
+Volume: 12
+Date: Aug 18
+Short Title: DARS-RNP and QUASI-RNP: New statistical potentials for protein-RNA docking
+Abstract: Background: Protein-RNA interactions play fundamental roles in many biological processes. Understanding the molecular mechanism of protein-RNA recognition and formation of protein-RNA complexes is a major challenge in structural biology. Unfortunately, the experimental determination of protein-RNA complexes is tedious and difficult, both by X-ray crystallography and NMR. For many interacting proteins and RNAs the individual structures are available, enabling computational prediction of complex structures by computational docking. However, methods for protein-RNA docking remain scarce, in particular in comparison to the numerous methods for protein-protein docking. Results: We developed two medium-resolution, knowledge-based potentials for scoring protein-RNA models obtained by docking: the quasi-chemical potential (QUASI-RNP) and the Decoys As the Reference State potential (DARS-RNP). Both potentials use a coarse-grained representation for both RNA and protein molecules and are capable of dealing with RNA structures with posttranscriptionally modified residues. We compared the discriminative power of DARS-RNP and QUASI-RNP for selecting rigid-body docking poses with the potentials previously developed by the Varani and Fernandez groups. Conclusions: In both bound and unbound docking tests, DARS-RNP showed the highest ability to identify native-like structures. Python implementations of DARS-RNP and QUASI-RNP are freely available for download at http://iimcb.genesilico.pl/RNP/
+
+Author: Wang, R. E., Zhang, Y., Cai, J., Cai, W. and Gao, T.
+Year: 2011
+Title: Aptamer-Based Fluorescent Biosensors
+Journal: Current Medicinal Chemistry
+Volume: 18
+Issue: 27
+Pages: 4175-4184
+Date: Sep
+Short Title: Aptamer-Based Fluorescent Biosensors
+Abstract: Selected from random pools of DNA or RNA molecules through systematic evolution of ligands by exponential enrichment (SELEX), aptamers can bind to target molecules with high affinity and specificity, which makes them ideal recognition elements in the development of biosensors. To date, aptamer-based biosensors have used a wide variety of detection techniques, which are briefly summarized in this article. The focus of this review is on the development of aptamer-based fluorescent biosensors, with emphasis on their design as well as properties such as sensitivity and specificity. These biosensors can be broadly divided into two categories: those using fluorescently-labeled aptamers and others that employ label-free aptamers. Within each category, they can be further divided into "signalon" and "signal-off" sensors. A number of these aptamer-based fluorescent biosensors have shown promising results in biological samples such as urine and serum, suggesting their potential applications in biomedical research and disease diagnostics.
+
+Author: Zheng, M. Y., Xiong, B., Luo, C., Li, S. S., Liu, X., Shen, Q. C., Li, J., Zhu, W. L., Luo, X. M. and Jiang, H. L.
+Year: 2011
+Title: Knowledge-Based Scoring Functions in Drug Design: 3. A Two-Dimensional Knowledge-Based Hydrogen-Bonding Potential for the Prediction of Protein-Ligand Interactions
+Journal: Journal of Chemical Information and Modeling
+Volume: 51
+Issue: 11
+Pages: 2994-3004
+Date: Nov
+Short Title: Knowledge-Based Scoring Functions in Drug Design: 3. A Two-Dimensional Knowledge-Based Hydrogen-Bonding Potential for the Prediction of Protein-Ligand Interactions
+Abstract: Hydrogen bonding is a key contributor to the molecular recognition between ligands and their host molecules in biological systems. Here we develop a novel orientation-dependent hydrogen bonding potential based on the geometric characteristics of hydrogen bonds observed in 44,585 protein-ligand complexes. We find a close correspondence between the empirical knowledge and the energy landscape inferred from the distribution of HBs. A scoring function based on the resultant hydrogen-bonding potentials discriminates native protein-ligand structures from incorrectly docked decoys with remarkable predictive power.
+
+Author: Baker, Jenny L., Sudarsan, Narasimhan, Weinberg, Zasha, Roth, Adam, Stockbridge, Randy B. and Breaker, Ronald R.
+Year: 2012
+Title: Widespread Genetic Switches and Toxicity Resistance Proteins for Fluoride
+Journal: Science
+Volume: 335
+Issue: 6065
+Pages: 233-235
+Date: Jan 13
+Short Title: Widespread Genetic Switches and Toxicity Resistance Proteins for Fluoride
+Abstract: Most riboswitches are metabolite-binding RNA structures located in bacterial messenger RNAs where they control gene expression. We have discovered a riboswitch class in many bacterial and archaeal species whose members are selectively triggered by fluoride but reject other small anions, including chloride. These fluoride riboswitches activate expression of genes that encode putative fluoride transporters, enzymes that are known to be inhibited by fluoride, and additional proteins of unknown function. Our findings indicate that most organisms are naturally exposed to toxic levels of fluoride and that many species use fluoride-sensing RNAs to control the expression of proteins that alleviate the deleterious effects of this anion.
+
+Author: Jayaram, B., Singh, T., Mukherjee, G., Mathur, A., Shekhar, S. and Shekhar, V.
+Year: 2012
+Title: Sanjeevini: a freely accessible web-server for target directed lead molecule discovery
+Journal: Bmc Bioinformatics
+Volume: 13
+Date: Dec
+Short Title: Sanjeevini: a freely accessible web-server for target directed lead molecule discovery
+Abstract: Background: Computational methods utilizing the structural and functional information help to understand specific molecular recognition events between the target biomolecule and candidate hits and make it possible to design improved lead molecules for the target. Results: Sanjeevini represents a massive on-going scientific endeavor to provide to the user, a freely accessible state of the art software suite for protein and DNA targeted lead molecule discovery. It builds in several features, including automated detection of active sites, scanning against a million compound library for identifying hit molecules, all atom based docking and scoring and various other utilities to design molecules with desired affinity and specificity against biomolecular targets. Each of the modules is thoroughly validated on a large dataset of protein/DNA drug targets. Conclusions: The article presents Sanjeevini, a freely accessible user friendly web-server, to aid in drug discovery. It is implemented on a tera flop cluster and made accessible via a web-interface at http://www.scfbio-iitd.res.in/sanjeevini/sanjeevini.jsp. A brief description of various modules, their scientific basis, validation, and how to use the server to develop in silico suggestions of lead molecules is provided.
+
+Author: Li, C. H., Cao, L. B., Su, J. G., Yang, Y. X. and Wang, C. X.
+Year: 2012
+Title: A new residue-nucleotide propensity potential with structural information considered for discriminating protein-RNA docking decoys
+Journal: Proteins-Structure Function and Bioinformatics
+Volume: 80
+Issue: 1
+Pages: 14-24
+Date: Jan
+Short Title: A new residue-nucleotide propensity potential with structural information considered for discriminating protein-RNA docking decoys
+Abstract: Understanding the key factors that influence the preferences of residue-nucleotide interactions in specific protein-RNA interactions has remained a research focus. We propose an effective approach to derive residue-nucleotide propensity potentials through considering both the types of residues and nucleotides, and secondary structure information of proteins and RNAs from the currently largest nonredundant and nonribosomal protein-RNA interaction database. To test the validity of the potentials, we used them to select near-native structures from protein-RNA docking poses. The results show that considering secondary structure information, especially for RNAs, greatly improves the predictive power of pair potentials. The success rate is raised from 50.7 to 65.5% for the top 2000 structures, and the number of cases in which a near-native structure is ranked in top 50 is increased from 7 to 13 out of 17 cases. Furthermore, the exclusion of ribosomes from the database contributes 8.3% to the success rate. In addition, some very interesting findings follow: (i) the protein secondary structure element p-helix is strongly associated with RNA-binding sites; (ii) the nucleotide uracil occurs frequently in the most preferred pairs in which the unpaired and non-Watson-Crick paired uracils are predominant, which is probably significant in evolution. The new residue-nucleotide potentials can be helpful for the progress of protein-RNA docking methods, and for understanding the mechanisms of protein-RNA interactions. Proteins 2012; (C) 2011 Wiley Periodicals, Inc.
+
+Author: Ou-Yang, S. S., Lu, J. Y., Kong, X. Q., Liang, Z. J., Luo, C. and Jiang, H. L.
+Year: 2012
+Title: Computational drug discovery
+Journal: Acta Pharmacologica Sinica
+Volume: 33
+Issue: 9
+Pages: 1131-1140
+Date: Sep
+Short Title: Computational drug discovery
+Abstract: Computational drug discovery is an effective strategy for accelerating and economizing drug discovery and development process. Because of the dramatic increase in the availability of biological macromolecule and small molecule information, the applicability of computational drug discovery has been extended and broadly applied to nearly every stage in the drug discovery and development workflow, including target identification and validation, lead discovery and optimization and preclinical tests. Over the past decades, computational drug discovery methods such as molecular docking, pharmacophore modeling and mapping, de novo design, molecular similarity calculation and sequence-based virtual screening have been greatly improved. In this review, we present an overview of these important computational methods, platforms and successful applications in this field.
+
+Author: Paige, Jeremy S., Nguyen-Duc, Thinh, Song, Wenjiao and Jaffrey, Samie R.
+Year: 2012
+Title: Fluorescence Imaging of Cellular Metabolites with RNA
+Journal: Science
+Volume: 335
+Issue: 6073
+Pages: 1194-1194
+Date: Mar 9
+Short Title: Fluorescence Imaging of Cellular Metabolites with RNA
+
+Author: Philips, Anna, Milanowska, Kaja, Lach, Grzegorz, Boniecki, Michal, Rother, Kristian and Bujnicki, Janusz M.
+Year: 2012
+Title: MetalionRNA: computational predictor of metal-binding sites in RNA structures
+Journal: Bioinformatics
+Volume: 28
+Issue: 2
+Pages: 198-205
+Date: Jan 15
+Short Title: MetalionRNA: computational predictor of metal-binding sites in RNA structures
+Abstract: Results: We developed a statistical potential for predicting positions of metal ions (magnesium, sodium and potassium), based on the analysis of binding sites in experimentally solved RNA structures. The MetalionRNA program is available as a web server that predicts metal ions for RNA structures submitted by the user.
+
+Author: Dieterich, Christoph and Stadler, Peter F.
+Year: 2013
+Title: Computational biology of RNA interactions
+Journal: Wiley Interdisciplinary Reviews-Rna
+Volume: 4
+Issue: 1
+Pages: 107-120
+Date: Jan-Feb
+Short Title: Computational biology of RNA interactions
+Abstract: The biodiversity of the RNA world has been underestimated for decades. RNA molecules are key building blocks, sensors, and regulators of modern cells. The biological function of RNA molecules cannot be separated from their ability to bind to and interact with a wide space of chemical species, including small molecules, nucleic acids, and proteins. Computational chemists, physicists, and biologists have developed a rich tool set for modeling and predicting RNA interactions. These interactions are to some extent determined by the binding conformation of the RNA molecule. RNA binding conformations are approximated with often acceptable accuracy by sequence and secondary structure motifs. Secondary structure ensembles of a given RNA molecule can be efficiently computed in many relevant situations by employing a standard energy model for base pair interactions and dynamic programming techniques. The case of bi-molecular RNARNA interactions can be seen as an extension of this approach. However, unbiased transcriptome-wide scans for local RNARNA interactions are computationally challenging yet become efficient if the binding motif/mode is known and other external information can be used to confine the search space. Computational methods are less developed for proteins and small molecules, which bind to RNA with very high specificity. Binding descriptors of proteins are usually determined by in vitro high-throughput assays (e.g., microarrays or sequencing). Intriguingly, recent experimental advances, which are mostly based on light-induced cross-linking of binding partners, render in vivo binding patterns accessible yet require new computational methods for careful data interpretation. The grand challenge is to model the in vivo situation where a complex interplay of RNA binders competes for the same target RNA molecule. Evidently, bioinformaticians are just catching up with the impressive pace of these developments. WIREs RNA 2013, 4:107120. doi: 10.1002/wrna.1147 For further resources related to this article, please visit the WIREs website.
+
+Author: Machnicka, Magdalena A., Milanowska, Kaja, Oglou, Okan Osman, Purta, Elzbieta, Kurkowska, Malgorzata, Olchowik, Anna, Januszewski, Witold, Kalinowski, Sebastian, Dunin-Horkawicz, Stanislaw, Rother, Kristian M., Helm, Mark, Bujnicki, Janusz M. and Grosjean, Henri
+Year: 2013
+Title: MODOMICS: a database of RNA modification pathways-2013 update
+Journal: Nucleic Acids Research
+Volume: 41
+Issue: D1
+Pages: D262-D267
+Date: Jan
+Short Title: MODOMICS: a database of RNA modification pathways-2013 update
+Abstract: MODOMICS is a database of RNA modifications that provides comprehensive information concerning the chemical structures of modified ribonucleosides, their biosynthetic pathways, RNA-modifying enzymes and location of modified residues in RNA sequences. In the current database version, accessible at http://modomics.genesilico.pl, we included new features: a census of human and yeast snoRNAs involved in RNA-guided RNA modification, a new section covering the 5'-end capping process, and a catalogue of 'building blocks' for chemical synthesis of a large variety of modified nucleosides. The MODOMICS collections of RNA modifications, RNA-modifying enzymes and modified RNAs have been also updated. A number of newly identified modified ribonucleosides and more than one hundred functionally and structurally characterized proteins from various organisms have been added. In the RNA sequences section, snRNAs and snoRNAs with experimentally mapped modified nucleosides have been added and the current collection of rRNA and tRNA sequences has been substantially enlarged. To facilitate literature searches, each record in MODOMICS has been cross-referenced to other databases and to selected key publications. New options for database searching and querying have been implemented, including a BLAST search of protein sequences and a PARALIGN search of the collected nucleic acid sequences.
+
+Author: Bai, F., Liao, S., Gu, J. F., Jiang, H. L., Wang, X. C. and Li, H. L.
+Year: 2015
+Title: An Accurate Metalloprotein-Specific Scoring Function and Molecular Docking Program Devised by a Dynamic Sampling and Iteration Optimization Strategy
+Journal: Journal of Chemical Information and Modeling
+Volume: 55
+Issue: 4
+Pages: 833-847
+Date: Apr
+Short Title: An Accurate Metalloprotein-Specific Scoring Function and Molecular Docking Program Devised by a Dynamic Sampling and Iteration Optimization Strategy
+Abstract: Metalloproteins, particularly zinc metalloproteins, are promising therapeutic targets, and recent efforts have focused on the identification of potent and selective inhibitors of these proteins. However, the ability of current drug discovery and design technologies, such as molecular docking and molecular dynamics simulations, to probe metal ligand interactions remains limited because of their complicated coordination geometries and rough treatment in current force fields. Herein we introduce a robust, miiltiobjective optimization algorithm-driven metalloprotein-specific docking program named MpSDock, which runs on a scheme similar to consensus scoring consisting of a force-field-based scoring function and a knowledge-based scoring function. For this purpose, in this study, an effective knowledge-based zinc metalloproteinspecific scoring function based on the inverse Boltzmann law was designed and optimized using a dynamic sampling and iteration optimization strategy. This optimization strategy can dynamically sample and regenerate decoy poses used in each iteration step of refining the scoring function, thus dramatically improving both the effectiveness of the exploration of the binding conformational space and the sensitivity of the ranking of the native binding poses. To validate the zinc metalloprotein-specific scoring function and its special built-in docking program, denoted MpSDock(Zn), an extensive comparison was performed against six universal, popular docking programs: Glide XP mbde, Glide SP mode, Gold, Auto Dock, AutoDock4(zn), and EADock DSS, The zinc metalloprotein-specific knoWledge-based scoring function exhibited prominent performance in accurately describing the geometries and interactions of the coordination bonds between the zinc ions and chelating agents of the ligands. In addition, MpSDock(Zn) had a competitive ability to sample and identify native binding poses With a higher success rate than the other six docking programs.
+
+Author: Chappell, J., Watters, K. E., Takahashi, M. K. and Lucks, J. B.
+Year: 2015
+Title: A renaissance in RNA synthetic biology: new mechanisms, applications and tools for the future
+Journal: Current Opinion in Chemical Biology
+Volume: 28
+Pages: 47-56
+Date: Oct
+Short Title: A renaissance in RNA synthetic biology: new mechanisms, applications and tools for the future
+Abstract: Since our ability to engineer biological systems is directly related to our ability to control gene expression, a central focus of synthetic biology has been to develop programmable genetic regulatory systems. Researchers are increasingly turning to RNA regulators for this task because of their versatility, and the emergence of new powerful RNA design principles. Here we review advances that are transforming the way we use RNAs to engineer biological systems. First, we examine new designable RNA mechanisms that are enabling large libraries of regulators with protein-like dynamic ranges. Next, we review emerging applications, from RNA genetic circuits to molecular diagnostics. Finally, we describe new experimental and computational tools that promise to accelerate our understanding of RNA folding, function and design.
+
+Author: Gu, J. F., Yang, X., Kang, L., Wu, J. Y. and Wang, X. C.
+Year: 2015
+Title: MoDock: A multi-objective strategy improves the accuracy for molecular docking
+Journal: Algorithms for Molecular Biology
+Volume: 10
+Date: Feb
+Short Title: MoDock: A multi-objective strategy improves the accuracy for molecular docking
+Abstract: Background: As a main method of structure-based virtual screening, molecular docking is the most widely used in practice. However, the non-ideal efficacy of scoring functions is thought as the biggest barrier which hinders the improvement of the molecular docking method. Results: A new multi-objective strategy for molecular docking, named as MoDock, is presented to further improve the docking accuracy with available scoring functions. Instead of simple combination of multiple objectives with fixed weight factors, an aggregate function is adopted to approximate the real solution of the original multi-objective and multi-constraint problem, which will simultaneously smooth the energy surface of the combined scoring functions. Then, method of centers and genetic algorithm are used to find the optimal solution. Tests of MoDock against the GOLD test data set reveal the multi-objective strategy improves the docking accuracy over the individual scoring functions. Meanwhile, a 70% ratio of the good docking solutions with the RMSD value below 1.0 angstrom outperforms other 6 commonly used docking programs, even with a flexible receptor docking program included. Conclusions: The results show MoDock is an effective strategy to overcome the deviations brought by single scoring function, and improves the prediction power of molecular docking.
+
+Author: Li, Z. F., Gu, J. F., Zhuang, H. Y., Kang, L., Zhao, X. Y. and Guo, Q.
+Year: 2015
+Title: Adaptive molecular docking method based on information entropy genetic algorithm
+Journal: Applied Soft Computing
+Volume: 26
+Pages: 299-302
+Date: Jan
+Short Title: Adaptive molecular docking method based on information entropy genetic algorithm
+Abstract: Almost all the molecule docking models, using by widespread docking software, are approximate. Approximation will make the scoring function inaccurate under some circumstances. This study proposed a new molecule docking scoring method: based on force-field scoring function, it use information entropy genetic algorithm to solve the docking problem. Empirical-based and knowledge-based scoring function are also considered in this method. Instead of simple combination with fixed weights, coefficients of each factor are adaptive in the process of searching optimum solution. Genetic algorithm with the multi-population evolution and entropy-based searching technique with narrowing down space is used to solve the optimization model for molecular docking problem. To evaluate this method, we carried out a numerical experiment with 134 protein-ligand complexes of the publicly available GOLD test set. The results show that this study improved the docking accuracy over the individual force-field scoring greatly. Comparing with other popular docking software, it has the best average Root-Mean-Square Deviation (RMSD). The average computing time of this study is also good among them. (C) 2014 Elsevier B.V. All rights reserved.
+
+Author: Philips, A., Lach, G. and Bujnicki, J. M.
+Year: 2015
+Title: Computational Methods for Prediction of RNA Interactions with Metal Ions and Small Organic Ligands
+Book Title: Computational Methods for Understanding Riboswitches
+Volume: 553
+Pages: 261-285
+Series Title: Methods in Enzymology
+Short Title: Computational Methods for Prediction of RNA Interactions with Metal Ions and Small Organic Ligands
+Abstract: In the recent years, it has become clear that a wide range of regulatory functions in bacteria are performed by riboswitches-regions of mRNA that change their structure upon external stimuli. Riboswitches are therefore attractive targets for drug design, molecular engineering, and fundamental research on regulatory circuitry of living cells. Several mechanisms are known for riboswitches controlling gene expression, but most of them perform their roles by ligand binding. As with other macromolecules, knowledge of the 3D structure of riboswitches is crucial for the understanding of their function. The development of experimental methods allowed for investigation of RNA structure and its complexes with ligands (which are either riboswitches' substrates or inhibitors) and metal cations (which stabilize the structure and are also known to be riboswitches' inhibitors). The experimental probing of different states of riboswitches is however time consuming, costly, and difficult to resolve without theoretical support. The natural consequence is the use of computational methods at least for initial research, such as the prediction of putative binding sites of ligands or metal ions. Here, we present a review on such methods, with a special focus on knowledge-based methods developed in our laboratory: LigandRNA-a scoring function for the prediction of RNA-small molecule interactions and MetalionRNA-a predictor of metal ionsbinding sites in RNA structures. Both programs are available free of charge as a Web servers, LigandRNA at http://ligandrna.genesilico.pl and MetalionRNA at http://metalionrna.genesilico.pl/.
+
+Author: Retwitzer, M. D., Kifer, I., Sengupta, S., Yakhini, Z. and Barash, D.
+Year: 2015
+Title: An Efficient Minimum Free Energy Structure-Based Search Method for Riboswitch Identification Based on Inverse RNA Folding
+Journal: Plos One
+Volume: 10
+Issue: 7
+Date: Jul
+Short Title: An Efficient Minimum Free Energy Structure-Based Search Method for Riboswitch Identification Based on Inverse RNA Folding
+Abstract: Riboswitches are RNA genetic control elements that were originally discovered in bacteria and provide a unique mechanism of gene regulation. They work without the participation of proteins and are believed to represent ancient regulatory systems in the evolutionary time-scale. One of the biggest challenges in riboswitch research is to find additional eukaryotic riboswitches since more than 20 riboswitch classes have been found in prokaryotes but only one class has been found in eukaryotes. Moreover, this single known class of eukaryotic riboswitch, namely the TPP riboswitch class, has been found in bacteria, archaea, fungi and plants but not in animals. The few examples of eukaryotic riboswitches were identified using sequence-based bioinformatics search methods such as a combination of BLAST and pattern matching techniques that incorporate base-pairing considerations. None of these approaches perform energy minimization structure predictions. There is a clear motivation to develop new bioinformatics methods, aside of the ongoing advances in covariance models, that will sample the sequence search space more flexibly using structural guidance while retaining the computational efficiency of sequence-based methods. We present a new energy minimization approach that transforms structure-based search into a sequence-based search, thereby enabling the utilization of well established sequence-based search utilities such as BLAST and FASTA. The transformation to sequence space is obtained by using an extended inverse RNA folding problem solver with sequence and structure constraints, available within RNAfbinv. Examples in applying the new method are presented for the purine and preQ1 riboswitches. The method is described in detail along with its findings in prokaryotes. Potential uses in finding novel eukaryotic riboswitches and optimizing pre-designed synthetic riboswitches based on ligand simulations are discussed. The method components are freely available for use.
+
+Author: Stefaniak, F., Chudyk, E. I., Bodkin, M., Dawson, W. K. and Bujnicki, J. M.
+Year: 2015
+Title: Modeling of ribonucleic acid-ligand interactions
+Journal: Wiley Interdisciplinary Reviews-Computational Molecular Science
+Volume: 5
+Issue: 6
+Pages: 425-439
+Date: Nov-Dec
+Short Title: Modeling of ribonucleic acid-ligand interactions
+Abstract: Computational methods play a pivotal role in the early stages of small molecule drug discovery and are widely applied in virtual screening, structure optimization, and compound activity profiling. Over the past half century in medicinal chemistry, almost all the attention has been directed to protein-ligand binding and computational tools were created with such targets in mind. However, with growing discoveries of functional RNAs and their possible applications, RNA macromolecules have gained considerable attention as possible drug targets. This flow of discovery was followed by adapting existing computational tools for RNA applications as well as active development of new RNA-tailored methods. However, due to the different nature of RNA, especially its tendency to use morphological plasticity (conformational change in ligand binding) this remains a challenging task. The evolution of protein-based' drug discovery and related computational methods offers some clues on possible future directions and developments in modeling RNA interactions with small molecule ligands. WIREs Comput Mol Sci 2015, 5:425-439. doi: 10.1002/wcms.1226 For further resources related to this article, please visit the .
+
+Author: Basu, P., Payghan, P. V., Ghoshal, N. and Kumar, G. S.
+Year: 2016
+Title: Structural and thermodynamic analysis of the binding of tRNA(Phe) by the putative anticancer alkaloid chelerythrine: Spectroscopy, calorimetry and molecular docking studies
+Journal: Journal of Photochemistry and Photobiology B-Biology
+Volume: 161
+Pages: 335-344
+Date: Aug
+Short Title: Structural and thermodynamic analysis of the binding of tRNA(Phe) by the putative anticancer alkaloid chelerythrine: Spectroscopy, calorimetry and molecular docking studies
+Abstract: The interaction of the putative anticancer alkaloid chelerythrine with tRNA(Phe) was characterized by spectroscopy, calorimetry and molecular docking studies. The charged iminium form of chelerythrine binds with tRNA(Phe) in a cooperative mode with a binding affinity value of (4.06 +/- 0.01) x 10(5) M-1. The neutral alkanolamine form does not bind to tRNA(Phe) but in the presence of high concentration of tRNA(Phe) this form gets converted to the iminium form and then binds with tRNA(Phe). The partial intercalative mode of binding of chelerythrine to the tRNA(Phe) was characterized from the steady state anisotropy, iodide ion-induced fluorescence quenching and viscosity measurements. Chelerythrine binding induced conformational perturbations in tRNA(Phe) as observed from the circular dichroism spectroscopy. The strong binding was also supported by the ethidium bromide displacement assay. The binding was favoured by both enthalpy and entropy contributions. Although the binding was dependent on the [Na+], non-electrostatic forces contributed predominantly to the Gibbs energy change. The negative value of the heat capacity change proposed the involvement of hydrophobic forces in the binding. Molecular docking study was carried out to decipher the details of the recognition of tRNA(Phe) by chelerythrine. The study provided insights about the chelerythrine binding pockets on tRNA(Phe) and marked the necessary interactions for binding of chelerythrine molecule. Partially intercalative mode of the alkaloid binding was supported by docking studies. In total, docking studies corroborated well with our experiential observations. The structural and thermodynamic results of chelerythrine binding to tRNA(Phe) may be helpful to develop new RNA therapeutic agents. (C) 2016 Elsevier B.V. All rights reserved.
+
+Author: Bo, L., Cui, H. C., Fang, Z. X., Qun, T. and Xia, C. Y.
+Year: 2016
+Title: Inactivation of transforming growth factor-beta-activated kinase 1 promotes taxol efficacy in ovarian cancer cells
+Journal: Biomedicine & Pharmacotherapy
+Volume: 84
+Pages: 917-924
+Date: Dec
+Short Title: Inactivation of transforming growth factor-beta-activated kinase 1 promotes taxol efficacy in ovarian cancer cells
+Abstract: Resistance to taxol represents a major obstacle for long-term remission in ovarian cancer. Transforming Growth Factor-beta-Activated Kinase 1 (TAK1) is a critical component in immune response pathway. However, the role of TAK1 in the development of chemoresistance in ovarian cancer remains unknown. Here, we showed that in vitro, taxol-resistant cells expressed higher TAK1, and the ratio of p-TAK1/TAK1 positively associated with taxol resistance in ovarian cancer cells. Inactivation of TAK1 by inhibitor 5Z-7-oxozeaenol or gene knockdown sensitized taxol cytotoxicity in vitro, promoting cell apoptosis and mitosis arrest. Moreover, resistant cells were much more sensitive to the combined TAK1 inhibitor and taxol treatment than their parental counterparts. Using xenograft mouse model, we found that 5Z-7-oxozeaenol significantly enhanced taxol efficacy in vivo. Thus, targeting TAK1 pathway is a promising strategy to enhance taxol response in ovarian cancer treatment. (C) 2016 Published by Elsevier Masson SAS.
+
+Author: Chen, X. B., Xie, B. J., Cao, L., Zhu, F., Chen, B. B., Lv, H. F., Fan, X. X., Han, L. L., Bie, L. Y., Cao, X. G., Shen, X. K. and Cao, F. L.
+Year: 2017
+Title: Direct binding of microRNA-21 pre-element with Regorafenib: An alternative mechanism for anti-colorectal cancer chemotherapy?
+Journal: Journal of Molecular Graphics & Modelling
+Volume: 73
+Pages: 48-53
+Date: May
+Short Title: Direct binding of microRNA-21 pre-element with Regorafenib: An alternative mechanism for anti-colorectal cancer chemotherapy?
+Abstract: The Regorafenib is a broad-spectrum kinase inhibitor that has been approved to treat colorectal cancer (CRC). However, evidences have shown that the agent is also implicated in drug interaction with microRNA-21 (miR-21), an oncogenic miRNA which plays a key role in resisting programmed cell death in CRC cells. Here, we supposed that, instead of kinase inhibition, Regorafenib can directly bind to and then stabilize miR-21 pre-element, thus preventing RNase Dicer-meditated cleavage of the pre-element to mature miR-21. In order to verify the notion, an in silico-in vitro integrated investigation of the direct intermolecular interaction between Regorafenib and miR-21 pre-element was performed by using active pocket identification, RNA-ligand docking, molecular dynamics (MD) simulation, binding energetic analysis, and fluorescence-based assay. It was revealed that the Regorafenib can bind at the major groove-like stem region of miR-21 pre-element through three geometrically satisfactory hydrogen bonds (H-bonds) as well as a number of hydrophobic forces and pi-pi stacking, conferring strong specificity and high stability to the RNA-ligand complex system (K-d = 0.73 mu M). Separate inversion mutation of two base pairs (G6C, C12G) and (A13U, U4A) that are involved in the H-bonding can considerably impair the affinity of Regorafenib to miR-21 pre-element, with K-d increase to 27 and 96 mu M, respectively. All these supported that Regorafenib can directly bind to miR-21 pre-element at molecular level and the binding mode can be properly modeled by using the proposed integrated strategy. This study would provide a potential, alternative mechanism for anti-colorectal cancer chemotherapy with Regorafenib. (C) 2017 Elsevier Inc. All rights reserved.
+
+Author: Gong, S., Wang, Y. L., Wang, Z. and Zhang, W. B.
+Year: 2017
+Title: Computational Methods for Modeling Aptamers and Designing Riboswitches
+Journal: International Journal of Molecular Sciences
+Volume: 18
+Issue: 11
+Date: Nov
+Short Title: Computational Methods for Modeling Aptamers and Designing Riboswitches
+Abstract: Riboswitches, which are located within certain noncoding RNA region perform functions as genetic switches, regulating when and where genes are expressed in response to certain ligands. Understanding the numerous functions of riboswitches requires computation models to predict structures and structural changes of the aptamer domains. Although aptamers often form a complex structure, computational approaches, such as RNAComposer and Rosetta, have already been applied to model the tertiary (three-dimensional (3D)) structure for several aptamers. As structural changes in aptamers must be achieved within the certain time window for effective regulation, kinetics is another key point for understanding aptamer function in riboswitch-mediated gene regulation. The coarse-grained self-organized polymer (SOP) model using Langevin dynamics simulation has been successfully developed to investigate folding kinetics of aptamers, while their co-transcriptional folding kinetics can be modeled by the helix-based computational method and BarMap approach. Based on the known aptamers, the web server Riboswitch Calculator and other theoretical methods provide a new tool to design synthetic riboswitches. This review will represent an overview of these computational methods for modeling structure and kinetics of riboswitch aptamers and for designing riboswitches.
+
+Author: Gonzalez, A. L., Konieczny, P., Llamusi, B., Delgado-Pinar, E., Borrell, J. A. I., Teixido, J., Garcia-Espana, E., Perez-Alonso, M., Estrada-Tejedor, R. and Artero, R.
+Year: 2017
+Title: In silico discovery of substituted pyrido 2,3-d pyrimidines and pentamidine-like compounds with biological activity in myotonic dystrophy models
+Journal: Plos One
+Volume: 12
+Issue: 6
+Date: Jun
+Short Title: In silico discovery of substituted pyrido 2,3-d pyrimidines and pentamidine-like compounds with biological activity in myotonic dystrophy models
+Abstract: Myotonic dystrophy type 1 (DM1) is a rare multisystemic disorder associated with an expansion of CUG repeats in mutant DMPK (dystrophia myotonica protein kinase) transcripts; the main effect of these expansions is the induction of pre-mRNA splicing defects by sequestering muscleblind-like family proteins (e.g. MBNL1). Disruption of the CUG repeats and the MBNL1 protein complex has been established as the best therapeutic approach for DM1, hence two main strategies have been proposed: targeted degradation of mutant DMPK transcripts and the development of CUG-binding molecules that prevent MBNL1 sequestration. Herein, suitable CUG-binding small molecules were selected using in silico approaches such as scaffold analysis, similarity searching, and druggability analysis. We used polarization assays to confirm the CUG repeat binding in vitro for a number of candidate compounds, and went on to evaluate the biological activity of the two with the strongest affinity for CUG repeats (which we refer to as compounds 1-2 and 2-5) in DM1 mutant cells and Drosophila DM1 models with an impaired locomotion phenotype. In particular, 1-2 and 2-5 enhanced the levels of free MBNL1 in patient-derived myoblasts in vitro and greatly improved DM1 fly locomotion in climbing assays. This work provides new computational approaches for rational large-scale virtual screens of molecules that selectively recognize CUG structures. Moreover, it contributes valuable knowledge regarding two compounds with desirable biological activity in DM1 models.
+
+Author: Heinemann, T. and Klapp, S. H. L.
+Year: 2017
+Title: Coarse-graining strategy for molecular pair interactions: A reaction coordinate study for two-and three-dimensional systems
+Journal: Journal of Chemical Physics
+Volume: 146
+Issue: 16
+Date: Apr
+Short Title: Coarse-graining strategy for molecular pair interactions: A reaction coordinate study for two-and three-dimensional systems
+Abstract: We investigate and provide optimal sets of reaction coordinates for mixed pairs of molecules displaying polar, uniaxial, or spherical symmetry in two and three dimensions. These coordinates are non-redundant, i.e., they implicitly involve the molecules' symmetries. By tabulating pair interactions in these coordinates, resulting tables are thus minimal in length and require a minimal memory space. The intended fields of application are computer simulations of large ensembles of molecules or colloids with rather complex interactions in a fluid or liquid crystalline phase at low densities. Using effective interactions directly in the form of tables can help bridging the time and length scales without introducing errors stemming from any modeling procedure. Finally, we outline an exemplary computational methodology for gaining an effective pair potential in these coordinates, based on the Boltzmann inversion principle, by providing a step-by-step recipe. Published by AIP Publishing.
+
+Author: Sun, L. Z., Zhang, D. and Chen, S. J.
+Year: 2017
+Title: Theory and Modeling of RNA Structure and Interactions with Metal Ions and Small Molecules
+Book Title: Annual Review of Biophysics, Vol 46
+Volume: 46
+Pages: 227-246
+Series Title: Annual Review of Biophysics
+Short Title: Theory and Modeling of RNA Structure and Interactions with Metal Ions and Small Molecules
+Abstract: In addition to continuous rapid progress in RNA structure determination, probing, and biophysical studies, the past decade has seen remarkable advances in the development of a new generation of RNA folding theories and models. In this article, we review RNA structure prediction models and models for ion-RNA and ligand-RNA interactions. These new models are becoming increasingly important for a mechanistic understanding of RNA function and quantitative design of RNA nanotechnology. We focus on new methods for physics-based, knowledge-based, and experimental data-directed modeling for RNA structures and explore the new theories for the predictions of metal ion and ligand binding sites and metal iondependent RNA stabilities. The integration of these new methods with theories about the cellular environment effects in RNA folding, such as molecular crowding and cotranscriptional kinetic effects, may ultimately lead to an all-encompassing RNA folding model.
+
+Author: Wu, Z. Q., Hu, Z. D., Han, X. D., Li, Z. N., Zhu, Q. C., Wang, Y., Zheng, Q. and Yan, J.
+Year: 2017
+Title: The BET-Bromodomain Inhibitor JQ1 synergized ABT-263 against colorectal cancer cells through suppressing c-Myc-induced miR-1271-5p expression
+Journal: Biomedicine & Pharmacotherapy
+Volume: 95
+Pages: 1574-1579
+Date: Nov
+Short Title: The BET-Bromodomain Inhibitor JQ1 synergized ABT-263 against colorectal cancer cells through suppressing c-Myc-induced miR-1271-5p expression
+Abstract: Colorectal cancer (CRC) cells undergo apoptosis in the presence of the small-molecule inhibitor ABT-263 by up-regulating antiapoptotic Bcl-2 family members. However, the resistance to ABT-263 gradually developed in most solid tumors due to its low affinity to Mcl-1. Here, we found the BET-Bromodomain inhibitor JQ1, when combined with ABT-263, synergistically reduced Mcl-1 protein level, induced apoptosis, and decreased cell viability in the CRC HCT-15, HT-29 and SW620 cells. The subsequent mechanism study revealed that a pathway of c-Myc/miR-1271-5p/Noxa/Mcl-1 underlies the synergistic effect of such combination treatment. We discovered that miR-1271-5p, the key mediator for the synergistic effect, is transcriptionally activated by c-Myc, and binds to the 3'-UTR of noxa to inhibit its protein production. The combination treatment of JQ1 and ABT-263 inhibited c-Myc protein level and also c-Myc-driven expression of miR-1271-5p, subsequently increased the protein level of Noxa, and finally promotes the degradation of Mcl-1. Our findings provide an alternative strategy to resolve the resistance during treatment of CRC by JQ1, and also discovered a novel miR-1271-5p-dependent regulatory mechanism for gene expression of noxa.
+
+Author: Xiao, W., He, Z. H., Sun, M. J., Li, S. L. and Li, H. L.
+Year: 2017
+Title: Statistical Analysis, Investigation, and Prediction of the Water Positions in the Binding Sites of Proteins
+Journal: Journal of Chemical Information and Modeling
+Volume: 57
+Issue: 7
+Pages: 1517-1528
+Date: Jul
+Short Title: Statistical Analysis, Investigation, and Prediction of the Water Positions in the Binding Sites of Proteins
+Abstract: Water molecules play a crucial role in biomolecular associations by mediating a hydrogen bond network or filling spaces with van der Waals interactions. Although current drug design technologies have taken water molecule interactions into account, their applications are still limited to their reliance on either excessive computer resources or a particular potential energy model. Here, we introduce a statistical method that is based on experimentally determined water molecules in the binding sites of high-resolution X-ray crystal structures to predict the potential hydration sites in the binding sites of crystal structures, of interest. By clustering and analyzing the various interaction patterns of water molecules in the training data set, we derived a tetrahedron water-cluster model based on a series of residue group triplets that form feature triangles of different shapes. In the tetrahedral-water-cluster model, a triplet of three polar atoms in the residue group triplet acts as the Vertices of the bottom triangle of the tetrahedron, and the water molecule that interacts with these three polar atoms is set as the top vertex of the tetrahedron. By comparing the shapes of the bottom triangles in the training data set with the shape of the triangle in the residue group triplets in the crystal structure of interest, we can identify the bottom triangle that is most similar to the one in the residue group triplet of the crystal structure of interest. According to the tetrahedron-water-cluster model, the hydration site for the residue group triplet in the crystal structure of interest can be predicted based on the height of the tetrahedron that has the most similar bottom triangle in the training data set. A test set containing 193 crystal structures was used to evaluate model performance, and extensive comparison with the recently published program Dowser++ revealed that our model is at least as good at providing an accurate set of the potential hydration sites in crystal structures of interest.
+
+Author: Yan, Z. Q. and Wang, J.
+Year: 2017
+Title: SPA-LN: a scoring function of ligand-nucleic acid interactions via optimizing both specificity and affinity
+Journal: Nucleic Acids Research
+Volume: 45
+Issue: 12
+Date: Jul
+Short Title: SPA-LN: a scoring function of ligand-nucleic acid interactions via optimizing both specificity and affinity
+Abstract: Nucleic acids have been widely recognized as potential targets in drug discovery and aptamer selection. Quantifying the interactions between small molecules and nucleic acids is critical to discover lead compounds and design novel aptamers. Scoring function is normally employed to quantify the interactions in structure-based virtual screening. However, the predictive power of nucleic acid-ligand scoring functions is still a challenge compared to other types of biomolecular recognition. With the rapid growth of experimentally determined nucleic acid-ligand complex structures, in this work, we develop a knowledge-based scoring function of nucleic acid-ligand interactions, namely SPA-LN. SPA-LN is optimized by maximizing both the affinity and specificity of native complex structures. The development strategy is different from those of previous nucleic acidligand scoring functions which focus on the affinity only in the optimization. The native conformation is stabilized while non-native conformations are destabilized by our optimization, making the funnel-like binding energy landscape more biased toward the native state. The performance of SPA-LN validates the development strategy and provides a relatively more accurate way to score the nucleic acid-ligand interactions.

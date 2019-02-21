@@ -1,0 +1,149 @@
+2ESI - A-site-like
+2ESJ - A-site-like
+2PWT - A-site-like
+4K31 - A-site-like
+4K32 - A-site-like
+4TS0 - A-site-like
+1J7T
+2A04
+2ET3
+2ET4
+2A04
+
+4Y1J - Mn2+
+4Y1M - Mn2+
+4TS0
+4Y1J
+4Y1M
+
+3GS1
+3GS5
+
+
+modified res. 2TRA: prep_rdock_systems("2TRA", "chain A and resn A+U+C+G", "chain A and resid 76") 
+modified res. 3K1V: prep_rdock_systems("3K1V", "chain A and resn A+U+C+G", "chain A and resid 301")
+
+2YIE: prep_rdock_systems("2YIE", "chain Z and resn A+U+C+G", "chain Z and resid 1114") - DNA/RNA
+
+1J8G - no real binding pocket
+3MIJ - no real binding pocket
+
+3DIQ: another LYS riboswitch
+3DIR: another LYS riboswitch
+
+3SKW: another G-riboswitch
+3SKZ: another G-riboswitch
+
+
+1DDY: prep_rdock_systems("1DDY", "chain A and resn G+A+U+A", "chain A and resn B12")
+1LC4: prep_rdock_systems("1LC4", "chain A and resi 13-23 or chain B and resi 26-35", "chain A and resid 47")
+1ZZ5: prep_rdock_systems("1ZZ5", "chain C+D and resn A+U+C+G", "chain C and resid 41")
+2QWY: prep_rdock_systems("2QWY", "chain C and resn A+U+C+G", "chain C and resid 500")
+3DIG: prep_rdock_systems("3DIG", "chain X and resn A+U+C+G", "chain X and resid 175")
+3DIL: prep_rdock_systems("3DIL", "chain A and resn A+U+C+G", "chain A and resn LYS")
+2GDI: prep_rdock_systems("2GDI", "chain X and resn A+U+C+G", "chain X and resid 100")
+2GIS: prep_rdock_systems("2GIS", "chain A and resn A+U+C+G", "chain A and resid 301")
+2HOO: prep_rdock_systems("2HOO", "chain A and resn A+U+C+G", "chain A and resid 95")
+3GCA: prep_rdock_systems("3GCA", "chain A and resn A+U+C+G", "chain A and resid 34")
+3IQN: prep_rdock_systems("3IQN", "chain A and resn A+U+C+G", "chain A and resid 301")
+3IQR: prep_rdock_systems("3IQR", "chain A and resn A+U+C+G", "chain A and resid 301")
+3SKI: prep_rdock_systems("3SKI", "chain B and resn A+U+C+G", "chain B and resid 120")
+4FEP: prep_rdock_systems("4FEP", "chain B and resn A+U+C+G", "chain B and resid 101")
+4NYA: prep_rdock_systems("4NYA", "chain B and resn A+U+C+G", "chain B and resid 107")
+4NYD: prep_rdock_systems("4NYD", "chain A and resn A+U+C+G", "chain A and resid 101")
+4RZD: prep_rdock_systems("4RZD", "chain A and resn A+U+C+G and resi 1-91", "chain A and resid 201")
+1XPF: prep_rdock_systems("1XPF", "chain A+B and resn A+U+C+G", "chain A and resid 108")
+1Y26: prep_rdock_systems("1Y26", "chain X and resn A+U+C+G", "chain X and resid 90")
+3DIM: prep_rdock_systems("3DIM", "chain A and resn A+U+C+G", "chain A and resn LYS")
+3SKL: prep_rdock_systems("3SKL", "chain B and resn A+U+C+G", "chain B and resi 120")
+
+3WRU
+4E8N
+4E8Q
+4GPW
+4GPX
+4L81
+4LVV
+4TS2
+4TZX
+4TZY
+4YAZ
+1TN1
+1TN2
+2ET5
+2NPY
+2O3V
+3DIX
+3DIY
+3DIZ
+3GS8
+3GX2
+3GX3
+3NPQ
+3SLQ
+3SUH
+3SUX
+4F8U
+4F8V
+4FAU
+4GPY
+4LVW
+4LVX
+4LVY
+4P20
+4P5J
+1ET4
+1EVV
+1FUF
+1YLS
+2CKY
+2EES
+2EET
+2EEU
+2EEV
+2EEW
+2HO6
+2HO7
+2HOJ
+2HOL
+2HOM
+2O3Y
+3B4A
+3B4B
+3B4C
+3D0U
+3D2G
+3D2V
+3D2X
+3DJ0
+3DJ2
+3DVV
+3E5E
+3E5F
+3F2Q
+3F2T
+3F4H
+3GX5
+3GX6
+3GX7
+3RKF
+3TD1
+3TZR
+4FAW
+4FEJ
+4FEL
+4FEN
+4FEO
+4JIY
+4LVZ
+4LW0
+4LX5
+4LX6
+4P95
+4PDQ
+4QLM
+4QLN
+4XNR
+4XW7
+4XWF
+4Y1I
