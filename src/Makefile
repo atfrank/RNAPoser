@@ -1,11 +1,12 @@
 #Sean M. Law
 #Aaron T. Frank
+#Jingru Xie
 
 include ../makefile.defs
 
 OBJS = libmoletools.$(LIBEXT)
 
-all:	$(BINDIR) libmoletools.$(LIBEXT) featurize predict predict_from_txt
+all:	$(BINDIR) libmoletools.$(LIBEXT) featurize rna_poser rna_poser
 
 clean:
 	rm -rf *.o
