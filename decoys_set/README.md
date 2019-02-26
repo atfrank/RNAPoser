@@ -1,13 +1,8 @@
 # RNAPoser Decoys
 
-- Summary of decoys used to train and test RNAPoser
-
 <!-- HTML CODE-->
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>RNAPoser</title>
-  </head>
   <body>
     <h3 align="center" >Summary of decoys used to train and test RNAPoser</h3>
     <table  align="center" border="3" style="table-layout: auto width: 250px;">
