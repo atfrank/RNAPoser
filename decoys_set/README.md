@@ -5,7 +5,7 @@
 <html>
   <body>
     <h3 align="center" >Summary of decoys used to train and test RNAPoser</h3>
-    <table  align="center" border="3" style="table-layout: auto width: 250px;">
+    <table  align="center" border="3" style="table-layout: auto width: 150px;">
       <tr>
           <th>Index</th>
           <th>PDB</th>
