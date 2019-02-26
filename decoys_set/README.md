@@ -43,7 +43,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1AJU/lig.svg">
-      <img src="images/1AJU/lig.svg" style="width:185px" alt="1AJU-ligand-file">
+      <img src="images/1AJU/lig.svg" style="width:84px" alt="1AJU-ligand-file">
     </a><br>
   </p>
 </td>
@@ -82,7 +82,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1AKX/lig.svg">
-      <img src="images/1AKX/lig.svg" style="width:185px" alt="1AKX-ligand-file">
+      <img src="images/1AKX/lig.svg" style="width:84px" alt="1AKX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -121,7 +121,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1AM0/lig.svg">
-      <img src="images/1AM0/lig.svg" style="width:185px" alt="1AM0-ligand-file">
+      <img src="images/1AM0/lig.svg" style="width:84px" alt="1AM0-ligand-file">
     </a><br>
   </p>
 </td>
@@ -160,7 +160,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1BYJ/lig.svg">
-      <img src="images/1BYJ/lig.svg" style="width:185px" alt="1BYJ-ligand-file">
+      <img src="images/1BYJ/lig.svg" style="width:84px" alt="1BYJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -199,7 +199,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1DDY/lig.svg">
-      <img src="images/1DDY/lig.svg" style="width:185px" alt="1DDY-ligand-file">
+      <img src="images/1DDY/lig.svg" style="width:84px" alt="1DDY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -238,7 +238,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1EHT/lig.svg">
-      <img src="images/1EHT/lig.svg" style="width:185px" alt="1EHT-ligand-file">
+      <img src="images/1EHT/lig.svg" style="width:84px" alt="1EHT-ligand-file">
     </a><br>
   </p>
 </td>
@@ -277,7 +277,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1EI2/lig.svg">
-      <img src="images/1EI2/lig.svg" style="width:185px" alt="1EI2-ligand-file">
+      <img src="images/1EI2/lig.svg" style="width:84px" alt="1EI2-ligand-file">
     </a><br>
   </p>
 </td>
@@ -316,7 +316,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1ET4/lig.svg">
-      <img src="images/1ET4/lig.svg" style="width:185px" alt="1ET4-ligand-file">
+      <img src="images/1ET4/lig.svg" style="width:84px" alt="1ET4-ligand-file">
     </a><br>
   </p>
 </td>
@@ -355,7 +355,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1EVV/lig.svg">
-      <img src="images/1EVV/lig.svg" style="width:185px" alt="1EVV-ligand-file">
+      <img src="images/1EVV/lig.svg" style="width:84px" alt="1EVV-ligand-file">
     </a><br>
   </p>
 </td>
@@ -394,7 +394,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1F1T/lig.svg">
-      <img src="images/1F1T/lig.svg" style="width:185px" alt="1F1T-ligand-file">
+      <img src="images/1F1T/lig.svg" style="width:84px" alt="1F1T-ligand-file">
     </a><br>
   </p>
 </td>
@@ -433,7 +433,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1F27/lig.svg">
-      <img src="images/1F27/lig.svg" style="width:185px" alt="1F27-ligand-file">
+      <img src="images/1F27/lig.svg" style="width:84px" alt="1F27-ligand-file">
     </a><br>
   </p>
 </td>
@@ -472,7 +472,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1FMN/lig.svg">
-      <img src="images/1FMN/lig.svg" style="width:185px" alt="1FMN-ligand-file">
+      <img src="images/1FMN/lig.svg" style="width:84px" alt="1FMN-ligand-file">
     </a><br>
   </p>
 </td>
@@ -511,7 +511,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1FUF/lig.svg">
-      <img src="images/1FUF/lig.svg" style="width:185px" alt="1FUF-ligand-file">
+      <img src="images/1FUF/lig.svg" style="width:84px" alt="1FUF-ligand-file">
     </a><br>
   </p>
 </td>
@@ -550,7 +550,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1FYP/lig.svg">
-      <img src="images/1FYP/lig.svg" style="width:185px" alt="1FYP-ligand-file">
+      <img src="images/1FYP/lig.svg" style="width:84px" alt="1FYP-ligand-file">
     </a><br>
   </p>
 </td>
@@ -589,7 +589,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1J7T/lig.svg">
-      <img src="images/1J7T/lig.svg" style="width:185px" alt="1J7T-ligand-file">
+      <img src="images/1J7T/lig.svg" style="width:84px" alt="1J7T-ligand-file">
     </a><br>
   </p>
 </td>
@@ -628,7 +628,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1KOC/lig.svg">
-      <img src="images/1KOC/lig.svg" style="width:185px" alt="1KOC-ligand-file">
+      <img src="images/1KOC/lig.svg" style="width:84px" alt="1KOC-ligand-file">
     </a><br>
   </p>
 </td>
@@ -667,7 +667,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1KOD/lig.svg">
-      <img src="images/1KOD/lig.svg" style="width:185px" alt="1KOD-ligand-file">
+      <img src="images/1KOD/lig.svg" style="width:84px" alt="1KOD-ligand-file">
     </a><br>
   </p>
 </td>
@@ -706,7 +706,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1LC4/lig.svg">
-      <img src="images/1LC4/lig.svg" style="width:185px" alt="1LC4-ligand-file">
+      <img src="images/1LC4/lig.svg" style="width:84px" alt="1LC4-ligand-file">
     </a><br>
   </p>
 </td>
@@ -745,7 +745,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1LVJ/lig.svg">
-      <img src="images/1LVJ/lig.svg" style="width:185px" alt="1LVJ-ligand-file">
+      <img src="images/1LVJ/lig.svg" style="width:84px" alt="1LVJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -784,7 +784,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1MWL/lig.svg">
-      <img src="images/1MWL/lig.svg" style="width:185px" alt="1MWL-ligand-file">
+      <img src="images/1MWL/lig.svg" style="width:84px" alt="1MWL-ligand-file">
     </a><br>
   </p>
 </td>
@@ -823,7 +823,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1NEM/lig.svg">
-      <img src="images/1NEM/lig.svg" style="width:185px" alt="1NEM-ligand-file">
+      <img src="images/1NEM/lig.svg" style="width:84px" alt="1NEM-ligand-file">
     </a><br>
   </p>
 </td>
@@ -862,7 +862,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1NTA/lig.svg">
-      <img src="images/1NTA/lig.svg" style="width:185px" alt="1NTA-ligand-file">
+      <img src="images/1NTA/lig.svg" style="width:84px" alt="1NTA-ligand-file">
     </a><br>
   </p>
 </td>
@@ -901,7 +901,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1NTB/lig.svg">
-      <img src="images/1NTB/lig.svg" style="width:185px" alt="1NTB-ligand-file">
+      <img src="images/1NTB/lig.svg" style="width:84px" alt="1NTB-ligand-file">
     </a><br>
   </p>
 </td>
@@ -940,7 +940,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1NYI/lig.svg">
-      <img src="images/1NYI/lig.svg" style="width:185px" alt="1NYI-ligand-file">
+      <img src="images/1NYI/lig.svg" style="width:84px" alt="1NYI-ligand-file">
     </a><br>
   </p>
 </td>
@@ -979,7 +979,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1O9M/lig.svg">
-      <img src="images/1O9M/lig.svg" style="width:185px" alt="1O9M-ligand-file">
+      <img src="images/1O9M/lig.svg" style="width:84px" alt="1O9M-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1018,7 +1018,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1O15/lig.svg">
-      <img src="images/1O15/lig.svg" style="width:185px" alt="1O15-ligand-file">
+      <img src="images/1O15/lig.svg" style="width:84px" alt="1O15-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1057,7 +1057,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1PBR/lig.svg">
-      <img src="images/1PBR/lig.svg" style="width:185px" alt="1PBR-ligand-file">
+      <img src="images/1PBR/lig.svg" style="width:84px" alt="1PBR-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1096,7 +1096,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1Q8N/lig.svg">
-      <img src="images/1Q8N/lig.svg" style="width:185px" alt="1Q8N-ligand-file">
+      <img src="images/1Q8N/lig.svg" style="width:84px" alt="1Q8N-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1135,7 +1135,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1QD3/lig.svg">
-      <img src="images/1QD3/lig.svg" style="width:185px" alt="1QD3-ligand-file">
+      <img src="images/1QD3/lig.svg" style="width:84px" alt="1QD3-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1174,7 +1174,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1TN1/lig.svg">
-      <img src="images/1TN1/lig.svg" style="width:185px" alt="1TN1-ligand-file">
+      <img src="images/1TN1/lig.svg" style="width:84px" alt="1TN1-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1213,7 +1213,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1TN2/lig.svg">
-      <img src="images/1TN2/lig.svg" style="width:185px" alt="1TN2-ligand-file">
+      <img src="images/1TN2/lig.svg" style="width:84px" alt="1TN2-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1252,7 +1252,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1TOB/lig.svg">
-      <img src="images/1TOB/lig.svg" style="width:185px" alt="1TOB-ligand-file">
+      <img src="images/1TOB/lig.svg" style="width:84px" alt="1TOB-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1291,7 +1291,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1U8D/lig.svg">
-      <img src="images/1U8D/lig.svg" style="width:185px" alt="1U8D-ligand-file">
+      <img src="images/1U8D/lig.svg" style="width:84px" alt="1U8D-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1330,7 +1330,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1UTS/lig.svg">
-      <img src="images/1UTS/lig.svg" style="width:185px" alt="1UTS-ligand-file">
+      <img src="images/1UTS/lig.svg" style="width:84px" alt="1UTS-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1369,7 +1369,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1UUD/lig.svg">
-      <img src="images/1UUD/lig.svg" style="width:185px" alt="1UUD-ligand-file">
+      <img src="images/1UUD/lig.svg" style="width:84px" alt="1UUD-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1408,7 +1408,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1UUI/lig.svg">
-      <img src="images/1UUI/lig.svg" style="width:185px" alt="1UUI-ligand-file">
+      <img src="images/1UUI/lig.svg" style="width:84px" alt="1UUI-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1447,7 +1447,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1XPF/lig.svg">
-      <img src="images/1XPF/lig.svg" style="width:185px" alt="1XPF-ligand-file">
+      <img src="images/1XPF/lig.svg" style="width:84px" alt="1XPF-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1486,7 +1486,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1Y26/lig.svg">
-      <img src="images/1Y26/lig.svg" style="width:185px" alt="1Y26-ligand-file">
+      <img src="images/1Y26/lig.svg" style="width:84px" alt="1Y26-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1525,7 +1525,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1YLS/lig.svg">
-      <img src="images/1YLS/lig.svg" style="width:185px" alt="1YLS-ligand-file">
+      <img src="images/1YLS/lig.svg" style="width:84px" alt="1YLS-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1564,7 +1564,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1YRJ/lig.svg">
-      <img src="images/1YRJ/lig.svg" style="width:185px" alt="1YRJ-ligand-file">
+      <img src="images/1YRJ/lig.svg" style="width:84px" alt="1YRJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1603,7 +1603,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/1ZZ5/lig.svg">
-      <img src="images/1ZZ5/lig.svg" style="width:185px" alt="1ZZ5-ligand-file">
+      <img src="images/1ZZ5/lig.svg" style="width:84px" alt="1ZZ5-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1642,7 +1642,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2AU4/lig.svg">
-      <img src="images/2AU4/lig.svg" style="width:185px" alt="2AU4-ligand-file">
+      <img src="images/2AU4/lig.svg" style="width:84px" alt="2AU4-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1681,7 +1681,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2B57/lig.svg">
-      <img src="images/2B57/lig.svg" style="width:185px" alt="2B57-ligand-file">
+      <img src="images/2B57/lig.svg" style="width:84px" alt="2B57-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1720,7 +1720,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2BE0/lig.svg">
-      <img src="images/2BE0/lig.svg" style="width:185px" alt="2BE0-ligand-file">
+      <img src="images/2BE0/lig.svg" style="width:84px" alt="2BE0-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1759,7 +1759,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2BEE/lig.svg">
-      <img src="images/2BEE/lig.svg" style="width:185px" alt="2BEE-ligand-file">
+      <img src="images/2BEE/lig.svg" style="width:84px" alt="2BEE-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1798,7 +1798,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2CKY/lig.svg">
-      <img src="images/2CKY/lig.svg" style="width:185px" alt="2CKY-ligand-file">
+      <img src="images/2CKY/lig.svg" style="width:84px" alt="2CKY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1837,7 +1837,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2EES/lig.svg">
-      <img src="images/2EES/lig.svg" style="width:185px" alt="2EES-ligand-file">
+      <img src="images/2EES/lig.svg" style="width:84px" alt="2EES-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1876,7 +1876,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2EET/lig.svg">
-      <img src="images/2EET/lig.svg" style="width:185px" alt="2EET-ligand-file">
+      <img src="images/2EET/lig.svg" style="width:84px" alt="2EET-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1915,7 +1915,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2EEU/lig.svg">
-      <img src="images/2EEU/lig.svg" style="width:185px" alt="2EEU-ligand-file">
+      <img src="images/2EEU/lig.svg" style="width:84px" alt="2EEU-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1954,7 +1954,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2EEV/lig.svg">
-      <img src="images/2EEV/lig.svg" style="width:185px" alt="2EEV-ligand-file">
+      <img src="images/2EEV/lig.svg" style="width:84px" alt="2EEV-ligand-file">
     </a><br>
   </p>
 </td>
@@ -1993,7 +1993,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2EEW/lig.svg">
-      <img src="images/2EEW/lig.svg" style="width:185px" alt="2EEW-ligand-file">
+      <img src="images/2EEW/lig.svg" style="width:84px" alt="2EEW-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2032,7 +2032,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2ESJ/lig.svg">
-      <img src="images/2ESJ/lig.svg" style="width:185px" alt="2ESJ-ligand-file">
+      <img src="images/2ESJ/lig.svg" style="width:84px" alt="2ESJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2071,7 +2071,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2ET3/lig.svg">
-      <img src="images/2ET3/lig.svg" style="width:185px" alt="2ET3-ligand-file">
+      <img src="images/2ET3/lig.svg" style="width:84px" alt="2ET3-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2110,7 +2110,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2ET4/lig.svg">
-      <img src="images/2ET4/lig.svg" style="width:185px" alt="2ET4-ligand-file">
+      <img src="images/2ET4/lig.svg" style="width:84px" alt="2ET4-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2149,7 +2149,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2ET5/lig.svg">
-      <img src="images/2ET5/lig.svg" style="width:185px" alt="2ET5-ligand-file">
+      <img src="images/2ET5/lig.svg" style="width:84px" alt="2ET5-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2188,7 +2188,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2ET8/lig.svg">
-      <img src="images/2ET8/lig.svg" style="width:185px" alt="2ET8-ligand-file">
+      <img src="images/2ET8/lig.svg" style="width:84px" alt="2ET8-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2227,7 +2227,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2F4S/lig.svg">
-      <img src="images/2F4S/lig.svg" style="width:185px" alt="2F4S-ligand-file">
+      <img src="images/2F4S/lig.svg" style="width:84px" alt="2F4S-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2266,7 +2266,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2F4T/lig.svg">
-      <img src="images/2F4T/lig.svg" style="width:185px" alt="2F4T-ligand-file">
+      <img src="images/2F4T/lig.svg" style="width:84px" alt="2F4T-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2305,7 +2305,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2F4U/lig.svg">
-      <img src="images/2F4U/lig.svg" style="width:185px" alt="2F4U-ligand-file">
+      <img src="images/2F4U/lig.svg" style="width:84px" alt="2F4U-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2344,7 +2344,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2FCX/lig.svg">
-      <img src="images/2FCX/lig.svg" style="width:185px" alt="2FCX-ligand-file">
+      <img src="images/2FCX/lig.svg" style="width:84px" alt="2FCX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2383,7 +2383,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2FCY/lig.svg">
-      <img src="images/2FCY/lig.svg" style="width:185px" alt="2FCY-ligand-file">
+      <img src="images/2FCY/lig.svg" style="width:84px" alt="2FCY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2422,7 +2422,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2FCZ/lig.svg">
-      <img src="images/2FCZ/lig.svg" style="width:185px" alt="2FCZ-ligand-file">
+      <img src="images/2FCZ/lig.svg" style="width:84px" alt="2FCZ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2461,7 +2461,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2FD0/lig.svg">
-      <img src="images/2FD0/lig.svg" style="width:185px" alt="2FD0-ligand-file">
+      <img src="images/2FD0/lig.svg" style="width:84px" alt="2FD0-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2500,7 +2500,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2G5Q/lig.svg">
-      <img src="images/2G5Q/lig.svg" style="width:185px" alt="2G5Q-ligand-file">
+      <img src="images/2G5Q/lig.svg" style="width:84px" alt="2G5Q-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2539,7 +2539,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2GDI/lig.svg">
-      <img src="images/2GDI/lig.svg" style="width:185px" alt="2GDI-ligand-file">
+      <img src="images/2GDI/lig.svg" style="width:84px" alt="2GDI-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2578,7 +2578,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2GIS/lig.svg">
-      <img src="images/2GIS/lig.svg" style="width:185px" alt="2GIS-ligand-file">
+      <img src="images/2GIS/lig.svg" style="width:84px" alt="2GIS-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2617,7 +2617,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2HO6/lig.svg">
-      <img src="images/2HO6/lig.svg" style="width:185px" alt="2HO6-ligand-file">
+      <img src="images/2HO6/lig.svg" style="width:84px" alt="2HO6-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2656,7 +2656,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2HO7/lig.svg">
-      <img src="images/2HO7/lig.svg" style="width:185px" alt="2HO7-ligand-file">
+      <img src="images/2HO7/lig.svg" style="width:84px" alt="2HO7-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2695,7 +2695,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2HOJ/lig.svg">
-      <img src="images/2HOJ/lig.svg" style="width:185px" alt="2HOJ-ligand-file">
+      <img src="images/2HOJ/lig.svg" style="width:84px" alt="2HOJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2734,7 +2734,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2HOL/lig.svg">
-      <img src="images/2HOL/lig.svg" style="width:185px" alt="2HOL-ligand-file">
+      <img src="images/2HOL/lig.svg" style="width:84px" alt="2HOL-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2773,7 +2773,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2HOM/lig.svg">
-      <img src="images/2HOM/lig.svg" style="width:185px" alt="2HOM-ligand-file">
+      <img src="images/2HOM/lig.svg" style="width:84px" alt="2HOM-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2812,7 +2812,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2HOO/lig.svg">
-      <img src="images/2HOO/lig.svg" style="width:185px" alt="2HOO-ligand-file">
+      <img src="images/2HOO/lig.svg" style="width:84px" alt="2HOO-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2851,7 +2851,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2JUK/lig.svg">
-      <img src="images/2JUK/lig.svg" style="width:185px" alt="2JUK-ligand-file">
+      <img src="images/2JUK/lig.svg" style="width:84px" alt="2JUK-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2890,7 +2890,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2L1V/lig.svg">
-      <img src="images/2L1V/lig.svg" style="width:185px" alt="2L1V-ligand-file">
+      <img src="images/2L1V/lig.svg" style="width:84px" alt="2L1V-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2929,7 +2929,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2L94/lig.svg">
-      <img src="images/2L94/lig.svg" style="width:185px" alt="2L94-ligand-file">
+      <img src="images/2L94/lig.svg" style="width:84px" alt="2L94-ligand-file">
     </a><br>
   </p>
 </td>
@@ -2968,7 +2968,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2LWK/lig.svg">
-      <img src="images/2LWK/lig.svg" style="width:185px" alt="2LWK-ligand-file">
+      <img src="images/2LWK/lig.svg" style="width:84px" alt="2LWK-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3007,7 +3007,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2M4Q/lig.svg">
-      <img src="images/2M4Q/lig.svg" style="width:185px" alt="2M4Q-ligand-file">
+      <img src="images/2M4Q/lig.svg" style="width:84px" alt="2M4Q-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3046,7 +3046,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2MIY/lig.svg">
-      <img src="images/2MIY/lig.svg" style="width:185px" alt="2MIY-ligand-file">
+      <img src="images/2MIY/lig.svg" style="width:84px" alt="2MIY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3085,7 +3085,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2MXS/lig.svg">
-      <img src="images/2MXS/lig.svg" style="width:185px" alt="2MXS-ligand-file">
+      <img src="images/2MXS/lig.svg" style="width:84px" alt="2MXS-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3124,7 +3124,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2N0J/lig.svg">
-      <img src="images/2N0J/lig.svg" style="width:185px" alt="2N0J-ligand-file">
+      <img src="images/2N0J/lig.svg" style="width:84px" alt="2N0J-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3163,7 +3163,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2NPY/lig.svg">
-      <img src="images/2NPY/lig.svg" style="width:185px" alt="2NPY-ligand-file">
+      <img src="images/2NPY/lig.svg" style="width:84px" alt="2NPY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3202,7 +3202,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2O3V/lig.svg">
-      <img src="images/2O3V/lig.svg" style="width:185px" alt="2O3V-ligand-file">
+      <img src="images/2O3V/lig.svg" style="width:84px" alt="2O3V-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3241,7 +3241,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2O3W/lig.svg">
-      <img src="images/2O3W/lig.svg" style="width:185px" alt="2O3W-ligand-file">
+      <img src="images/2O3W/lig.svg" style="width:84px" alt="2O3W-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3280,7 +3280,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2O3X/lig.svg">
-      <img src="images/2O3X/lig.svg" style="width:185px" alt="2O3X-ligand-file">
+      <img src="images/2O3X/lig.svg" style="width:84px" alt="2O3X-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3319,7 +3319,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2O3Y/lig.svg">
-      <img src="images/2O3Y/lig.svg" style="width:185px" alt="2O3Y-ligand-file">
+      <img src="images/2O3Y/lig.svg" style="width:84px" alt="2O3Y-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3358,7 +3358,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2OE5/lig.svg">
-      <img src="images/2OE5/lig.svg" style="width:185px" alt="2OE5-ligand-file">
+      <img src="images/2OE5/lig.svg" style="width:84px" alt="2OE5-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3397,7 +3397,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2OE8/lig.svg">
-      <img src="images/2OE8/lig.svg" style="width:185px" alt="2OE8-ligand-file">
+      <img src="images/2OE8/lig.svg" style="width:84px" alt="2OE8-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3436,7 +3436,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2QWY/lig.svg">
-      <img src="images/2QWY/lig.svg" style="width:185px" alt="2QWY-ligand-file">
+      <img src="images/2QWY/lig.svg" style="width:84px" alt="2QWY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3475,7 +3475,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/2TOB/lig.svg">
-      <img src="images/2TOB/lig.svg" style="width:185px" alt="2TOB-ligand-file">
+      <img src="images/2TOB/lig.svg" style="width:84px" alt="2TOB-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3514,7 +3514,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3B4A/lig.svg">
-      <img src="images/3B4A/lig.svg" style="width:185px" alt="3B4A-ligand-file">
+      <img src="images/3B4A/lig.svg" style="width:84px" alt="3B4A-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3553,7 +3553,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3B4B/lig.svg">
-      <img src="images/3B4B/lig.svg" style="width:185px" alt="3B4B-ligand-file">
+      <img src="images/3B4B/lig.svg" style="width:84px" alt="3B4B-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3592,7 +3592,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3B4C/lig.svg">
-      <img src="images/3B4C/lig.svg" style="width:185px" alt="3B4C-ligand-file">
+      <img src="images/3B4C/lig.svg" style="width:84px" alt="3B4C-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3631,7 +3631,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3C44/lig.svg">
-      <img src="images/3C44/lig.svg" style="width:185px" alt="3C44-ligand-file">
+      <img src="images/3C44/lig.svg" style="width:84px" alt="3C44-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3670,7 +3670,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3D0U/lig.svg">
-      <img src="images/3D0U/lig.svg" style="width:185px" alt="3D0U-ligand-file">
+      <img src="images/3D0U/lig.svg" style="width:84px" alt="3D0U-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3709,7 +3709,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3D2G/lig.svg">
-      <img src="images/3D2G/lig.svg" style="width:185px" alt="3D2G-ligand-file">
+      <img src="images/3D2G/lig.svg" style="width:84px" alt="3D2G-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3748,7 +3748,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3D2V/lig.svg">
-      <img src="images/3D2V/lig.svg" style="width:185px" alt="3D2V-ligand-file">
+      <img src="images/3D2V/lig.svg" style="width:84px" alt="3D2V-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3787,7 +3787,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3D2X/lig.svg">
-      <img src="images/3D2X/lig.svg" style="width:185px" alt="3D2X-ligand-file">
+      <img src="images/3D2X/lig.svg" style="width:84px" alt="3D2X-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3826,7 +3826,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DIG/lig.svg">
-      <img src="images/3DIG/lig.svg" style="width:185px" alt="3DIG-ligand-file">
+      <img src="images/3DIG/lig.svg" style="width:84px" alt="3DIG-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3865,7 +3865,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DIL/lig.svg">
-      <img src="images/3DIL/lig.svg" style="width:185px" alt="3DIL-ligand-file">
+      <img src="images/3DIL/lig.svg" style="width:84px" alt="3DIL-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3904,7 +3904,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DIM/lig.svg">
-      <img src="images/3DIM/lig.svg" style="width:185px" alt="3DIM-ligand-file">
+      <img src="images/3DIM/lig.svg" style="width:84px" alt="3DIM-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3943,7 +3943,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DIX/lig.svg">
-      <img src="images/3DIX/lig.svg" style="width:185px" alt="3DIX-ligand-file">
+      <img src="images/3DIX/lig.svg" style="width:84px" alt="3DIX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -3982,7 +3982,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DIY/lig.svg">
-      <img src="images/3DIY/lig.svg" style="width:185px" alt="3DIY-ligand-file">
+      <img src="images/3DIY/lig.svg" style="width:84px" alt="3DIY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4021,7 +4021,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DIZ/lig.svg">
-      <img src="images/3DIZ/lig.svg" style="width:185px" alt="3DIZ-ligand-file">
+      <img src="images/3DIZ/lig.svg" style="width:84px" alt="3DIZ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4060,7 +4060,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DJ0/lig.svg">
-      <img src="images/3DJ0/lig.svg" style="width:185px" alt="3DJ0-ligand-file">
+      <img src="images/3DJ0/lig.svg" style="width:84px" alt="3DJ0-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4099,7 +4099,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DJ2/lig.svg">
-      <img src="images/3DJ2/lig.svg" style="width:185px" alt="3DJ2-ligand-file">
+      <img src="images/3DJ2/lig.svg" style="width:84px" alt="3DJ2-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4138,7 +4138,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3DVV/lig.svg">
-      <img src="images/3DVV/lig.svg" style="width:185px" alt="3DVV-ligand-file">
+      <img src="images/3DVV/lig.svg" style="width:84px" alt="3DVV-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4177,7 +4177,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3E5E/lig.svg">
-      <img src="images/3E5E/lig.svg" style="width:185px" alt="3E5E-ligand-file">
+      <img src="images/3E5E/lig.svg" style="width:84px" alt="3E5E-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4216,7 +4216,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3E5F/lig.svg">
-      <img src="images/3E5F/lig.svg" style="width:185px" alt="3E5F-ligand-file">
+      <img src="images/3E5F/lig.svg" style="width:84px" alt="3E5F-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4255,7 +4255,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3F2Q/lig.svg">
-      <img src="images/3F2Q/lig.svg" style="width:185px" alt="3F2Q-ligand-file">
+      <img src="images/3F2Q/lig.svg" style="width:84px" alt="3F2Q-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4294,7 +4294,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3F2T/lig.svg">
-      <img src="images/3F2T/lig.svg" style="width:185px" alt="3F2T-ligand-file">
+      <img src="images/3F2T/lig.svg" style="width:84px" alt="3F2T-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4333,7 +4333,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3F4H/lig.svg">
-      <img src="images/3F4H/lig.svg" style="width:185px" alt="3F4H-ligand-file">
+      <img src="images/3F4H/lig.svg" style="width:84px" alt="3F4H-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4372,7 +4372,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GCA/lig.svg">
-      <img src="images/3GCA/lig.svg" style="width:185px" alt="3GCA-ligand-file">
+      <img src="images/3GCA/lig.svg" style="width:84px" alt="3GCA-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4411,7 +4411,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GS8/lig.svg">
-      <img src="images/3GS8/lig.svg" style="width:185px" alt="3GS8-ligand-file">
+      <img src="images/3GS8/lig.svg" style="width:84px" alt="3GS8-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4450,7 +4450,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GX2/lig.svg">
-      <img src="images/3GX2/lig.svg" style="width:185px" alt="3GX2-ligand-file">
+      <img src="images/3GX2/lig.svg" style="width:84px" alt="3GX2-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4489,7 +4489,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GX3/lig.svg">
-      <img src="images/3GX3/lig.svg" style="width:185px" alt="3GX3-ligand-file">
+      <img src="images/3GX3/lig.svg" style="width:84px" alt="3GX3-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4528,7 +4528,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GX5/lig.svg">
-      <img src="images/3GX5/lig.svg" style="width:185px" alt="3GX5-ligand-file">
+      <img src="images/3GX5/lig.svg" style="width:84px" alt="3GX5-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4567,7 +4567,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GX6/lig.svg">
-      <img src="images/3GX6/lig.svg" style="width:185px" alt="3GX6-ligand-file">
+      <img src="images/3GX6/lig.svg" style="width:84px" alt="3GX6-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4606,7 +4606,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3GX7/lig.svg">
-      <img src="images/3GX7/lig.svg" style="width:185px" alt="3GX7-ligand-file">
+      <img src="images/3GX7/lig.svg" style="width:84px" alt="3GX7-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4645,7 +4645,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3IQN/lig.svg">
-      <img src="images/3IQN/lig.svg" style="width:185px" alt="3IQN-ligand-file">
+      <img src="images/3IQN/lig.svg" style="width:84px" alt="3IQN-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4684,7 +4684,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3IQR/lig.svg">
-      <img src="images/3IQR/lig.svg" style="width:185px" alt="3IQR-ligand-file">
+      <img src="images/3IQR/lig.svg" style="width:84px" alt="3IQR-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4723,7 +4723,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3NPQ/lig.svg">
-      <img src="images/3NPQ/lig.svg" style="width:185px" alt="3NPQ-ligand-file">
+      <img src="images/3NPQ/lig.svg" style="width:84px" alt="3NPQ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4762,7 +4762,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3RKF/lig.svg">
-      <img src="images/3RKF/lig.svg" style="width:185px" alt="3RKF-ligand-file">
+      <img src="images/3RKF/lig.svg" style="width:84px" alt="3RKF-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4801,7 +4801,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3SKI/lig.svg">
-      <img src="images/3SKI/lig.svg" style="width:185px" alt="3SKI-ligand-file">
+      <img src="images/3SKI/lig.svg" style="width:84px" alt="3SKI-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4840,7 +4840,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3SKL/lig.svg">
-      <img src="images/3SKL/lig.svg" style="width:185px" alt="3SKL-ligand-file">
+      <img src="images/3SKL/lig.svg" style="width:84px" alt="3SKL-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4879,7 +4879,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3SLQ/lig.svg">
-      <img src="images/3SLQ/lig.svg" style="width:185px" alt="3SLQ-ligand-file">
+      <img src="images/3SLQ/lig.svg" style="width:84px" alt="3SLQ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4918,7 +4918,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3SUH/lig.svg">
-      <img src="images/3SUH/lig.svg" style="width:185px" alt="3SUH-ligand-file">
+      <img src="images/3SUH/lig.svg" style="width:84px" alt="3SUH-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4957,7 +4957,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3SUX/lig.svg">
-      <img src="images/3SUX/lig.svg" style="width:185px" alt="3SUX-ligand-file">
+      <img src="images/3SUX/lig.svg" style="width:84px" alt="3SUX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -4996,7 +4996,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3TD1/lig.svg">
-      <img src="images/3TD1/lig.svg" style="width:185px" alt="3TD1-ligand-file">
+      <img src="images/3TD1/lig.svg" style="width:84px" alt="3TD1-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5035,7 +5035,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3TZR/lig.svg">
-      <img src="images/3TZR/lig.svg" style="width:185px" alt="3TZR-ligand-file">
+      <img src="images/3TZR/lig.svg" style="width:84px" alt="3TZR-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5074,7 +5074,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/3WRU/lig.svg">
-      <img src="images/3WRU/lig.svg" style="width:185px" alt="3WRU-ligand-file">
+      <img src="images/3WRU/lig.svg" style="width:84px" alt="3WRU-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5113,7 +5113,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4B5R/lig.svg">
-      <img src="images/4B5R/lig.svg" style="width:185px" alt="4B5R-ligand-file">
+      <img src="images/4B5R/lig.svg" style="width:84px" alt="4B5R-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5152,7 +5152,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4E8N/lig.svg">
-      <img src="images/4E8N/lig.svg" style="width:185px" alt="4E8N-ligand-file">
+      <img src="images/4E8N/lig.svg" style="width:84px" alt="4E8N-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5191,7 +5191,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4E8Q/lig.svg">
-      <img src="images/4E8Q/lig.svg" style="width:185px" alt="4E8Q-ligand-file">
+      <img src="images/4E8Q/lig.svg" style="width:84px" alt="4E8Q-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5230,7 +5230,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4F8U/lig.svg">
-      <img src="images/4F8U/lig.svg" style="width:185px" alt="4F8U-ligand-file">
+      <img src="images/4F8U/lig.svg" style="width:84px" alt="4F8U-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5269,7 +5269,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4F8V/lig.svg">
-      <img src="images/4F8V/lig.svg" style="width:185px" alt="4F8V-ligand-file">
+      <img src="images/4F8V/lig.svg" style="width:84px" alt="4F8V-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5308,7 +5308,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4FAW/lig.svg">
-      <img src="images/4FAW/lig.svg" style="width:185px" alt="4FAW-ligand-file">
+      <img src="images/4FAW/lig.svg" style="width:84px" alt="4FAW-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5347,7 +5347,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4FEJ/lig.svg">
-      <img src="images/4FEJ/lig.svg" style="width:185px" alt="4FEJ-ligand-file">
+      <img src="images/4FEJ/lig.svg" style="width:84px" alt="4FEJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5386,7 +5386,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4FEL/lig.svg">
-      <img src="images/4FEL/lig.svg" style="width:185px" alt="4FEL-ligand-file">
+      <img src="images/4FEL/lig.svg" style="width:84px" alt="4FEL-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5425,7 +5425,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4FEN/lig.svg">
-      <img src="images/4FEN/lig.svg" style="width:185px" alt="4FEN-ligand-file">
+      <img src="images/4FEN/lig.svg" style="width:84px" alt="4FEN-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5464,7 +5464,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4FEO/lig.svg">
-      <img src="images/4FEO/lig.svg" style="width:185px" alt="4FEO-ligand-file">
+      <img src="images/4FEO/lig.svg" style="width:84px" alt="4FEO-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5503,7 +5503,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4FEP/lig.svg">
-      <img src="images/4FEP/lig.svg" style="width:185px" alt="4FEP-ligand-file">
+      <img src="images/4FEP/lig.svg" style="width:84px" alt="4FEP-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5542,7 +5542,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4GPW/lig.svg">
-      <img src="images/4GPW/lig.svg" style="width:185px" alt="4GPW-ligand-file">
+      <img src="images/4GPW/lig.svg" style="width:84px" alt="4GPW-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5581,7 +5581,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4GPX/lig.svg">
-      <img src="images/4GPX/lig.svg" style="width:185px" alt="4GPX-ligand-file">
+      <img src="images/4GPX/lig.svg" style="width:84px" alt="4GPX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5620,7 +5620,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4GPY/lig.svg">
-      <img src="images/4GPY/lig.svg" style="width:185px" alt="4GPY-ligand-file">
+      <img src="images/4GPY/lig.svg" style="width:84px" alt="4GPY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5659,7 +5659,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4JIY/lig.svg">
-      <img src="images/4JIY/lig.svg" style="width:185px" alt="4JIY-ligand-file">
+      <img src="images/4JIY/lig.svg" style="width:84px" alt="4JIY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5698,7 +5698,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4K32/lig.svg">
-      <img src="images/4K32/lig.svg" style="width:185px" alt="4K32-ligand-file">
+      <img src="images/4K32/lig.svg" style="width:84px" alt="4K32-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5737,7 +5737,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4L81/lig.svg">
-      <img src="images/4L81/lig.svg" style="width:185px" alt="4L81-ligand-file">
+      <img src="images/4L81/lig.svg" style="width:84px" alt="4L81-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5776,7 +5776,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LVV/lig.svg">
-      <img src="images/4LVV/lig.svg" style="width:185px" alt="4LVV-ligand-file">
+      <img src="images/4LVV/lig.svg" style="width:84px" alt="4LVV-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5815,7 +5815,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LVW/lig.svg">
-      <img src="images/4LVW/lig.svg" style="width:185px" alt="4LVW-ligand-file">
+      <img src="images/4LVW/lig.svg" style="width:84px" alt="4LVW-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5854,7 +5854,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LVX/lig.svg">
-      <img src="images/4LVX/lig.svg" style="width:185px" alt="4LVX-ligand-file">
+      <img src="images/4LVX/lig.svg" style="width:84px" alt="4LVX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5893,7 +5893,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LVY/lig.svg">
-      <img src="images/4LVY/lig.svg" style="width:185px" alt="4LVY-ligand-file">
+      <img src="images/4LVY/lig.svg" style="width:84px" alt="4LVY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5932,7 +5932,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LVZ/lig.svg">
-      <img src="images/4LVZ/lig.svg" style="width:185px" alt="4LVZ-ligand-file">
+      <img src="images/4LVZ/lig.svg" style="width:84px" alt="4LVZ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -5971,7 +5971,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LW0/lig.svg">
-      <img src="images/4LW0/lig.svg" style="width:185px" alt="4LW0-ligand-file">
+      <img src="images/4LW0/lig.svg" style="width:84px" alt="4LW0-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6010,7 +6010,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LX5/lig.svg">
-      <img src="images/4LX5/lig.svg" style="width:185px" alt="4LX5-ligand-file">
+      <img src="images/4LX5/lig.svg" style="width:84px" alt="4LX5-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6049,7 +6049,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4LX6/lig.svg">
-      <img src="images/4LX6/lig.svg" style="width:185px" alt="4LX6-ligand-file">
+      <img src="images/4LX6/lig.svg" style="width:84px" alt="4LX6-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6088,7 +6088,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4NYA/lig.svg">
-      <img src="images/4NYA/lig.svg" style="width:185px" alt="4NYA-ligand-file">
+      <img src="images/4NYA/lig.svg" style="width:84px" alt="4NYA-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6127,7 +6127,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4NYD/lig.svg">
-      <img src="images/4NYD/lig.svg" style="width:185px" alt="4NYD-ligand-file">
+      <img src="images/4NYD/lig.svg" style="width:84px" alt="4NYD-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6166,7 +6166,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4NYG/lig.svg">
-      <img src="images/4NYG/lig.svg" style="width:185px" alt="4NYG-ligand-file">
+      <img src="images/4NYG/lig.svg" style="width:84px" alt="4NYG-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6205,7 +6205,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4P3S/lig.svg">
-      <img src="images/4P3S/lig.svg" style="width:185px" alt="4P3S-ligand-file">
+      <img src="images/4P3S/lig.svg" style="width:84px" alt="4P3S-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6244,7 +6244,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4P5J/lig.svg">
-      <img src="images/4P5J/lig.svg" style="width:185px" alt="4P5J-ligand-file">
+      <img src="images/4P5J/lig.svg" style="width:84px" alt="4P5J-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6283,7 +6283,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4P20/lig.svg">
-      <img src="images/4P20/lig.svg" style="width:185px" alt="4P20-ligand-file">
+      <img src="images/4P20/lig.svg" style="width:84px" alt="4P20-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6322,7 +6322,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4P95/lig.svg">
-      <img src="images/4P95/lig.svg" style="width:185px" alt="4P95-ligand-file">
+      <img src="images/4P95/lig.svg" style="width:84px" alt="4P95-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6361,7 +6361,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4PDQ/lig.svg">
-      <img src="images/4PDQ/lig.svg" style="width:185px" alt="4PDQ-ligand-file">
+      <img src="images/4PDQ/lig.svg" style="width:84px" alt="4PDQ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6400,7 +6400,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4QLM/lig.svg">
-      <img src="images/4QLM/lig.svg" style="width:185px" alt="4QLM-ligand-file">
+      <img src="images/4QLM/lig.svg" style="width:84px" alt="4QLM-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6439,7 +6439,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4QLN/lig.svg">
-      <img src="images/4QLN/lig.svg" style="width:185px" alt="4QLN-ligand-file">
+      <img src="images/4QLN/lig.svg" style="width:84px" alt="4QLN-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6478,7 +6478,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4RZD/lig.svg">
-      <img src="images/4RZD/lig.svg" style="width:185px" alt="4RZD-ligand-file">
+      <img src="images/4RZD/lig.svg" style="width:84px" alt="4RZD-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6517,7 +6517,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4TS2/lig.svg">
-      <img src="images/4TS2/lig.svg" style="width:185px" alt="4TS2-ligand-file">
+      <img src="images/4TS2/lig.svg" style="width:84px" alt="4TS2-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6556,7 +6556,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4TZX/lig.svg">
-      <img src="images/4TZX/lig.svg" style="width:185px" alt="4TZX-ligand-file">
+      <img src="images/4TZX/lig.svg" style="width:84px" alt="4TZX-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6595,7 +6595,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4TZY/lig.svg">
-      <img src="images/4TZY/lig.svg" style="width:185px" alt="4TZY-ligand-file">
+      <img src="images/4TZY/lig.svg" style="width:84px" alt="4TZY-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6634,7 +6634,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4WCR/lig.svg">
-      <img src="images/4WCR/lig.svg" style="width:185px" alt="4WCR-ligand-file">
+      <img src="images/4WCR/lig.svg" style="width:84px" alt="4WCR-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6673,7 +6673,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4XNR/lig.svg">
-      <img src="images/4XNR/lig.svg" style="width:185px" alt="4XNR-ligand-file">
+      <img src="images/4XNR/lig.svg" style="width:84px" alt="4XNR-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6712,7 +6712,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4XW7/lig.svg">
-      <img src="images/4XW7/lig.svg" style="width:185px" alt="4XW7-ligand-file">
+      <img src="images/4XW7/lig.svg" style="width:84px" alt="4XW7-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6751,7 +6751,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4XWF/lig.svg">
-      <img src="images/4XWF/lig.svg" style="width:185px" alt="4XWF-ligand-file">
+      <img src="images/4XWF/lig.svg" style="width:84px" alt="4XWF-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6790,7 +6790,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4Y1I/lig.svg">
-      <img src="images/4Y1I/lig.svg" style="width:185px" alt="4Y1I-ligand-file">
+      <img src="images/4Y1I/lig.svg" style="width:84px" alt="4Y1I-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6829,7 +6829,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4YAZ/lig.svg">
-      <img src="images/4YAZ/lig.svg" style="width:185px" alt="4YAZ-ligand-file">
+      <img src="images/4YAZ/lig.svg" style="width:84px" alt="4YAZ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6868,7 +6868,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4YB0/lig.svg">
-      <img src="images/4YB0/lig.svg" style="width:185px" alt="4YB0-ligand-file">
+      <img src="images/4YB0/lig.svg" style="width:84px" alt="4YB0-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6907,7 +6907,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/4ZNP/lig.svg">
-      <img src="images/4ZNP/lig.svg" style="width:185px" alt="4ZNP-ligand-file">
+      <img src="images/4ZNP/lig.svg" style="width:84px" alt="4ZNP-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6946,7 +6946,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5BTP/lig.svg">
-      <img src="images/5BTP/lig.svg" style="width:185px" alt="5BTP-ligand-file">
+      <img src="images/5BTP/lig.svg" style="width:84px" alt="5BTP-ligand-file">
     </a><br>
   </p>
 </td>
@@ -6985,7 +6985,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5BWS/lig.svg">
-      <img src="images/5BWS/lig.svg" style="width:185px" alt="5BWS-ligand-file">
+      <img src="images/5BWS/lig.svg" style="width:84px" alt="5BWS-ligand-file">
     </a><br>
   </p>
 </td>
@@ -7024,7 +7024,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5BXK/lig.svg">
-      <img src="images/5BXK/lig.svg" style="width:185px" alt="5BXK-ligand-file">
+      <img src="images/5BXK/lig.svg" style="width:84px" alt="5BXK-ligand-file">
     </a><br>
   </p>
 </td>
@@ -7063,7 +7063,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5C45/lig.svg">
-      <img src="images/5C45/lig.svg" style="width:185px" alt="5C45-ligand-file">
+      <img src="images/5C45/lig.svg" style="width:84px" alt="5C45-ligand-file">
     </a><br>
   </p>
 </td>
@@ -7102,7 +7102,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5KX9/lig.svg">
-      <img src="images/5KX9/lig.svg" style="width:185px" alt="5KX9-ligand-file">
+      <img src="images/5KX9/lig.svg" style="width:84px" alt="5KX9-ligand-file">
     </a><br>
   </p>
 </td>
@@ -7141,7 +7141,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5LWJ/lig.svg">
-      <img src="images/5LWJ/lig.svg" style="width:185px" alt="5LWJ-ligand-file">
+      <img src="images/5LWJ/lig.svg" style="width:84px" alt="5LWJ-ligand-file">
     </a><br>
   </p>
 </td>
@@ -7180,7 +7180,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/5UZA/lig.svg">
-      <img src="images/5UZA/lig.svg" style="width:185px" alt="5UZA-ligand-file">
+      <img src="images/5UZA/lig.svg" style="width:84px" alt="5UZA-ligand-file">
     </a><br>
   </p>
 </td>
@@ -7219,7 +7219,7 @@
 <td halign="center" style="word-wrap: break-word;" valign="top">
   <p>
     <a href="images/6BFB/lig.svg">
-      <img src="images/6BFB/lig.svg" style="width:185px" alt="6BFB-ligand-file">
+      <img src="images/6BFB/lig.svg" style="width:84px" alt="6BFB-ligand-file">
     </a><br>
   </p>
 </td>
