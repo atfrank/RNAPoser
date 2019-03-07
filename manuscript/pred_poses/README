@@ -1,0 +1,3 @@
+true: Best pose in the decoy set
+pred: Best predicted pose in the decoy set
+native: native pose of the RNA-ligand complex
