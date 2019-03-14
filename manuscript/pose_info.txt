@@ -1,0 +1,792 @@
+LOO RNA: 1EVV
+Poses: 550
+Min. RMSD: 1.17 Å
+Max. RMSD: 48.10 Å
+Mean RMSD: 17.15 Å
+
+LOO RNA: 1F27
+Poses: 600
+Min. RMSD: 0.86 Å
+Max. RMSD: 9.45 Å
+Mean RMSD: 3.19 Å
+
+LOO RNA: 1FUF
+Poses: 600
+Min. RMSD: 0.82 Å
+Max. RMSD: 13.98 Å
+Mean RMSD: 3.02 Å
+
+LOO RNA: 1J7T
+Poses: 500
+Min. RMSD: 0.50 Å
+Max. RMSD: 36.35 Å
+Mean RMSD: 7.11 Å
+
+LOO RNA: 1LC4
+Poses: 600
+Min. RMSD: 0.50 Å
+Max. RMSD: 33.11 Å
+Mean RMSD: 8.79 Å
+
+LOO RNA: 1MWL
+Poses: 600
+Min. RMSD: 0.16 Å
+Max. RMSD: 33.78 Å
+Mean RMSD: 10.07 Å
+
+LOO RNA: 1NTA
+Poses: 550
+Min. RMSD: 0.73 Å
+Max. RMSD: 23.37 Å
+Mean RMSD: 10.49 Å
+
+LOO RNA: 1NTB
+Poses: 550
+Min. RMSD: 0.61 Å
+Max. RMSD: 19.58 Å
+Mean RMSD: 9.79 Å
+
+LOO RNA: 1O9M
+Poses: 600
+Min. RMSD: 0.62 Å
+Max. RMSD: 26.04 Å
+Mean RMSD: 13.87 Å
+
+LOO RNA: 1TN1
+Poses: 550
+Min. RMSD: 1.22 Å
+Max. RMSD: 20.44 Å
+Mean RMSD: 5.35 Å
+
+LOO RNA: 1TN2
+Poses: 550
+Min. RMSD: 1.12 Å
+Max. RMSD: 20.71 Å
+Mean RMSD: 5.34 Å
+
+LOO RNA: 1U8D
+Poses: 550
+Min. RMSD: 0.17 Å
+Max. RMSD: 26.41 Å
+Mean RMSD: 2.21 Å
+
+LOO RNA: 1YLS
+Poses: 500
+Min. RMSD: 0.66 Å
+Max. RMSD: 15.90 Å
+Mean RMSD: 5.69 Å
+
+LOO RNA: 1YRJ
+Poses: 550
+Min. RMSD: 0.54 Å
+Max. RMSD: 16.56 Å
+Mean RMSD: 9.42 Å
+
+LOO RNA: 1ZZ5
+Poses: 450
+Min. RMSD: 0.76 Å
+Max. RMSD: 20.34 Å
+Mean RMSD: 6.65 Å
+
+LOO RNA: 2BE0
+Poses: 550
+Min. RMSD: 0.86 Å
+Max. RMSD: 33.25 Å
+Mean RMSD: 13.44 Å
+
+LOO RNA: 2BEE
+Poses: 550
+Min. RMSD: 1.01 Å
+Max. RMSD: 32.14 Å
+Mean RMSD: 12.73 Å
+
+LOO RNA: 2CKY
+Poses: 450
+Min. RMSD: 1.07 Å
+Max. RMSD: 24.94 Å
+Mean RMSD: 8.85 Å
+
+LOO RNA: 2EEU
+Poses: 550
+Min. RMSD: 0.80 Å
+Max. RMSD: 26.43 Å
+Mean RMSD: 1.98 Å
+
+LOO RNA: 2EEV
+Poses: 500
+Min. RMSD: 0.24 Å
+Max. RMSD: 26.30 Å
+Mean RMSD: 3.74 Å
+
+LOO RNA: 2EEW
+Poses: 550
+Min. RMSD: 0.80 Å
+Max. RMSD: 26.32 Å
+Mean RMSD: 2.38 Å
+
+LOO RNA: 2ET3
+Poses: 550
+Min. RMSD: 0.54 Å
+Max. RMSD: 14.27 Å
+Mean RMSD: 6.93 Å
+
+LOO RNA: 2ET4
+Poses: 600
+Min. RMSD: 0.60 Å
+Max. RMSD: 35.21 Å
+Mean RMSD: 11.90 Å
+
+LOO RNA: 2ET5
+Poses: 450
+Min. RMSD: 0.58 Å
+Max. RMSD: 14.86 Å
+Mean RMSD: 6.75 Å
+
+LOO RNA: 2ET8
+Poses: 550
+Min. RMSD: 0.43 Å
+Max. RMSD: 12.44 Å
+Mean RMSD: 5.98 Å
+
+LOO RNA: 2F4S
+Poses: 550
+Min. RMSD: 0.48 Å
+Max. RMSD: 37.31 Å
+Mean RMSD: 12.02 Å
+
+LOO RNA: 2F4T
+Poses: 600
+Min. RMSD: 0.73 Å
+Max. RMSD: 38.55 Å
+Mean RMSD: 14.59 Å
+
+LOO RNA: 2F4U
+Poses: 550
+Min. RMSD: 0.72 Å
+Max. RMSD: 32.72 Å
+Mean RMSD: 14.45 Å
+
+LOO RNA: 2FCX
+Poses: 550
+Min. RMSD: 0.43 Å
+Max. RMSD: 14.42 Å
+Mean RMSD: 7.21 Å
+
+LOO RNA: 2FCY
+Poses: 450
+Min. RMSD: 0.70 Å
+Max. RMSD: 26.24 Å
+Mean RMSD: 7.85 Å
+
+LOO RNA: 2FCZ
+Poses: 550
+Min. RMSD: 0.68 Å
+Max. RMSD: 12.56 Å
+Mean RMSD: 5.52 Å
+
+LOO RNA: 2FD0
+Poses: 550
+Min. RMSD: 0.77 Å
+Max. RMSD: 28.23 Å
+Mean RMSD: 10.97 Å
+
+LOO RNA: 2G5Q
+Poses: 600
+Min. RMSD: 0.64 Å
+Max. RMSD: 35.66 Å
+Mean RMSD: 14.57 Å
+
+LOO RNA: 2GDI
+Poses: 600
+Min. RMSD: 0.81 Å
+Max. RMSD: 19.57 Å
+Mean RMSD: 8.39 Å
+
+LOO RNA: 2HOJ
+Poses: 450
+Min. RMSD: 0.77 Å
+Max. RMSD: 22.86 Å
+Mean RMSD: 6.01 Å
+
+LOO RNA: 2HOM
+Poses: 450
+Min. RMSD: 0.60 Å
+Max. RMSD: 17.84 Å
+Mean RMSD: 5.57 Å
+
+LOO RNA: 2HOO
+Poses: 500
+Min. RMSD: 1.09 Å
+Max. RMSD: 27.68 Å
+Mean RMSD: 9.19 Å
+
+LOO RNA: 2O3V
+Poses: 600
+Min. RMSD: 0.82 Å
+Max. RMSD: 39.45 Å
+Mean RMSD: 15.23 Å
+
+LOO RNA: 2O3W
+Poses: 600
+Min. RMSD: 1.00 Å
+Max. RMSD: 21.06 Å
+Mean RMSD: 11.08 Å
+
+LOO RNA: 2O3X
+Poses: 600
+Min. RMSD: 0.61 Å
+Max. RMSD: 40.03 Å
+Mean RMSD: 8.50 Å
+
+LOO RNA: 2O3Y
+Poses: 500
+Min. RMSD: 1.26 Å
+Max. RMSD: 19.96 Å
+Mean RMSD: 7.49 Å
+
+LOO RNA: 2OE5
+Poses: 550
+Min. RMSD: 0.71 Å
+Max. RMSD: 21.85 Å
+Mean RMSD: 8.28 Å
+
+LOO RNA: 2OE8
+Poses: 550
+Min. RMSD: 0.56 Å
+Max. RMSD: 26.84 Å
+Mean RMSD: 8.97 Å
+
+LOO RNA: 2QWY
+Poses: 450
+Min. RMSD: 0.51 Å
+Max. RMSD: 15.96 Å
+Mean RMSD: 6.88 Å
+
+LOO RNA: 3B4B
+Poses: 600
+Min. RMSD: 0.50 Å
+Max. RMSD: 41.75 Å
+Mean RMSD: 10.97 Å
+
+LOO RNA: 3B4C
+Poses: 600
+Min. RMSD: 0.48 Å
+Max. RMSD: 43.83 Å
+Mean RMSD: 10.97 Å
+
+LOO RNA: 3C44
+Poses: 500
+Min. RMSD: 0.81 Å
+Max. RMSD: 16.48 Å
+Mean RMSD: 7.86 Å
+
+LOO RNA: 3D2G
+Poses: 550
+Min. RMSD: 0.77 Å
+Max. RMSD: 13.58 Å
+Mean RMSD: 6.85 Å
+
+LOO RNA: 3D2V
+Poses: 550
+Min. RMSD: 0.78 Å
+Max. RMSD: 26.52 Å
+Mean RMSD: 8.48 Å
+
+LOO RNA: 3D2X
+Poses: 600
+Min. RMSD: 1.03 Å
+Max. RMSD: 27.81 Å
+Mean RMSD: 8.31 Å
+
+LOO RNA: 3DVV
+Poses: 600
+Min. RMSD: 0.51 Å
+Max. RMSD: 27.90 Å
+Mean RMSD: 8.14 Å
+
+LOO RNA: 3E5E
+Poses: 600
+Min. RMSD: 0.94 Å
+Max. RMSD: 24.30 Å
+Mean RMSD: 7.56 Å
+
+LOO RNA: 3E5F
+Poses: 550
+Min. RMSD: 0.67 Å
+Max. RMSD: 24.33 Å
+Mean RMSD: 5.57 Å
+
+LOO RNA: 3F2Q
+Poses: 550
+Min. RMSD: 0.61 Å
+Max. RMSD: 20.27 Å
+Mean RMSD: 5.41 Å
+
+LOO RNA: 3F2T
+Poses: 550
+Min. RMSD: 0.72 Å
+Max. RMSD: 19.94 Å
+Mean RMSD: 5.23 Å
+
+LOO RNA: 3F4H
+Poses: 550
+Min. RMSD: 0.70 Å
+Max. RMSD: 19.57 Å
+Mean RMSD: 4.27 Å
+
+LOO RNA: 3GX2
+Poses: 500
+Min. RMSD: 0.92 Å
+Max. RMSD: 36.20 Å
+Mean RMSD: 9.99 Å
+
+LOO RNA: 3GX3
+Poses: 450
+Min. RMSD: 0.74 Å
+Max. RMSD: 21.39 Å
+Mean RMSD: 6.74 Å
+
+LOO RNA: 3GX5
+Poses: 600
+Min. RMSD: 0.65 Å
+Max. RMSD: 18.06 Å
+Mean RMSD: 8.82 Å
+
+LOO RNA: 3GX6
+Poses: 600
+Min. RMSD: 0.66 Å
+Max. RMSD: 25.59 Å
+Mean RMSD: 10.58 Å
+
+LOO RNA: 3GX7
+Poses: 450
+Min. RMSD: 0.53 Å
+Max. RMSD: 24.88 Å
+Mean RMSD: 6.47 Å
+
+LOO RNA: 3IQN
+Poses: 500
+Min. RMSD: 0.83 Å
+Max. RMSD: 40.00 Å
+Mean RMSD: 10.47 Å
+
+LOO RNA: 3IQR
+Poses: 450
+Min. RMSD: 0.95 Å
+Max. RMSD: 23.97 Å
+Mean RMSD: 7.50 Å
+
+LOO RNA: 3NPQ
+Poses: 550
+Min. RMSD: 0.81 Å
+Max. RMSD: 17.08 Å
+Mean RMSD: 8.13 Å
+
+LOO RNA: 3SLQ
+Poses: 600
+Min. RMSD: 0.56 Å
+Max. RMSD: 21.17 Å
+Mean RMSD: 10.40 Å
+
+LOO RNA: 3SUH
+Poses: 450
+Min. RMSD: 0.85 Å
+Max. RMSD: 39.34 Å
+Mean RMSD: 10.31 Å
+
+LOO RNA: 3TD1
+Poses: 600
+Min. RMSD: 0.50 Å
+Max. RMSD: 12.86 Å
+Mean RMSD: 6.68 Å
+
+LOO RNA: 3TZR
+Poses: 600
+Min. RMSD: 0.54 Å
+Max. RMSD: 18.20 Å
+Mean RMSD: 2.94 Å
+
+LOO RNA: 3WRU
+Poses: 600
+Min. RMSD: 0.82 Å
+Max. RMSD: 33.33 Å
+Mean RMSD: 14.36 Å
+
+LOO RNA: 4B5R
+Poses: 600
+Min. RMSD: 0.60 Å
+Max. RMSD: 18.29 Å
+Mean RMSD: 7.93 Å
+
+LOO RNA: 4F8U
+Poses: 600
+Min. RMSD: 0.42 Å
+Max. RMSD: 12.46 Å
+Mean RMSD: 6.84 Å
+
+LOO RNA: 4F8V
+Poses: 400
+Min. RMSD: 0.25 Å
+Max. RMSD: 11.15 Å
+Mean RMSD: 5.14 Å
+
+LOO RNA: 4FAW
+Poses: 600
+Min. RMSD: 1.32 Å
+Max. RMSD: 80.29 Å
+Mean RMSD: 23.78 Å
+
+LOO RNA: 4GPW
+Poses: 500
+Min. RMSD: 0.56 Å
+Max. RMSD: 15.30 Å
+Mean RMSD: 6.10 Å
+
+LOO RNA: 4GPX
+Poses: 600
+Min. RMSD: 0.57 Å
+Max. RMSD: 19.50 Å
+Mean RMSD: 7.22 Å
+
+LOO RNA: 4GPY
+Poses: 500
+Min. RMSD: 0.35 Å
+Max. RMSD: 10.27 Å
+Mean RMSD: 5.27 Å
+
+LOO RNA: 4K32
+Poses: 600
+Min. RMSD: 0.46 Å
+Max. RMSD: 41.27 Å
+Mean RMSD: 14.29 Å
+
+LOO RNA: 4L81
+Poses: 350
+Min. RMSD: 0.65 Å
+Max. RMSD: 8.36 Å
+Mean RMSD: 4.53 Å
+
+LOO RNA: 4LVX
+Poses: 550
+Min. RMSD: 0.69 Å
+Max. RMSD: 36.77 Å
+Mean RMSD: 14.34 Å
+
+LOO RNA: 4LVY
+Poses: 600
+Min. RMSD: 0.47 Å
+Max. RMSD: 35.71 Å
+Mean RMSD: 12.67 Å
+
+LOO RNA: 4LW0
+Poses: 550
+Min. RMSD: 0.93 Å
+Max. RMSD: 19.88 Å
+Mean RMSD: 7.08 Å
+
+LOO RNA: 4P20
+Poses: 600
+Min. RMSD: 0.71 Å
+Max. RMSD: 16.49 Å
+Mean RMSD: 8.71 Å
+
+LOO RNA: 4P3S
+Poses: 500
+Min. RMSD: 0.56 Å
+Max. RMSD: 11.73 Å
+Mean RMSD: 6.06 Å
+
+LOO RNA: 4PDQ
+Poses: 550
+Min. RMSD: 0.96 Å
+Max. RMSD: 12.73 Å
+Mean RMSD: 8.60 Å
+
+LOO RNA: 4QLM
+Poses: 550
+Min. RMSD: 0.43 Å
+Max. RMSD: 28.88 Å
+Mean RMSD: 11.63 Å
+
+LOO RNA: 4QLN
+Poses: 550
+Min. RMSD: 0.81 Å
+Max. RMSD: 31.73 Å
+Mean RMSD: 11.79 Å
+
+LOO RNA: 4TS2
+Poses: 600
+Min. RMSD: 0.58 Å
+Max. RMSD: 19.20 Å
+Mean RMSD: 8.15 Å
+
+LOO RNA: 4TZX
+Poses: 500
+Min. RMSD: 0.31 Å
+Max. RMSD: 28.06 Å
+Mean RMSD: 3.50 Å
+
+LOO RNA: 4TZY
+Poses: 500
+Min. RMSD: 0.25 Å
+Max. RMSD: 27.85 Å
+Mean RMSD: 3.81 Å
+
+LOO RNA: 4WCR
+Poses: 600
+Min. RMSD: 0.58 Å
+Max. RMSD: 28.93 Å
+Mean RMSD: 11.99 Å
+
+LOO RNA: 4YAZ
+Poses: 350
+Min. RMSD: 0.31 Å
+Max. RMSD: 9.06 Å
+Mean RMSD: 4.97 Å
+
+LOO RNA: 4ZNP
+Poses: 500
+Min. RMSD: 0.37 Å
+Max. RMSD: 34.44 Å
+Mean RMSD: 6.29 Å
+
+LOO RNA: 5BTP
+Poses: 500
+Min. RMSD: 0.38 Å
+Max. RMSD: 18.90 Å
+Mean RMSD: 7.28 Å
+
+LOO RNA: 5BWS
+Poses: 600
+Min. RMSD: 0.30 Å
+Max. RMSD: 37.80 Å
+Mean RMSD: 12.50 Å
+
+LOO RNA: 5BXK
+Poses: 600
+Min. RMSD: 0.68 Å
+Max. RMSD: 39.48 Å
+Mean RMSD: 16.62 Å
+
+LOO RNA: 5C45
+Poses: 550
+Min. RMSD: 0.52 Å
+Max. RMSD: 39.60 Å
+Mean RMSD: 5.72 Å
+
+LOO RNA: 5KX9
+Poses: 550
+Min. RMSD: 0.44 Å
+Max. RMSD: 20.44 Å
+Mean RMSD: 5.83 Å
+
+LOO RNA: 6BFB
+Poses: 550
+Min. RMSD: 0.64 Å
+Max. RMSD: 20.04 Å
+Mean RMSD: 4.50 Å
+
+Validation RNA: 2G5K
+Poses: 450
+Min. RMSD: 0.54 Å
+Max. RMSD: 11.93 Å
+Mean RMSD: 7.09 Å
+
+Validation RNA: 2O3W
+Poses: 600
+Min. RMSD: 1.00 Å
+Max. RMSD: 21.06 Å
+Mean RMSD: 11.08 Å
+
+Validation RNA: 2XNW
+Poses: 550
+Min. RMSD: 0.22 Å
+Max. RMSD: 26.30 Å
+Mean RMSD: 6.37 Å
+
+Validation RNA: 3FU2
+Poses: 500
+Min. RMSD: 1.02 Å
+Max. RMSD: 9.15 Å
+Mean RMSD: 3.47 Å
+
+Validation RNA: 3MUM
+Poses: 600
+Min. RMSD: 0.13 Å
+Max. RMSD: 22.12 Å
+Mean RMSD: 8.68 Å
+
+Validation RNA: 3Q50
+Poses: 500
+Min. RMSD: 0.51 Å
+Max. RMSD: 4.88 Å
+Mean RMSD: 2.98 Å
+
+Validation RNA: 3SD3
+Poses: 550
+Min. RMSD: 0.56 Å
+Max. RMSD: 27.09 Å
+Mean RMSD: 10.87 Å
+
+Validation RNA: 3SLM
+Poses: 550
+Min. RMSD: 0.73 Å
+Max. RMSD: 21.58 Å
+Mean RMSD: 8.82 Å
+
+Validation RNA: 4ERJ
+Poses: 400
+Min. RMSD: 0.84 Å
+Max. RMSD: 22.91 Å
+Mean RMSD: 7.15 Å
+
+Validation RNA: 4FE5
+Poses: 550
+Min. RMSD: 0.36 Å
+Max. RMSD: 26.26 Å
+Mean RMSD: 2.07 Å
+
+Validation RNA: 4JF2
+Poses: 550
+Min. RMSD: 0.41 Å
+Max. RMSD: 36.98 Å
+Mean RMSD: 8.96 Å
+
+Validation RNA: 4LX5
+Poses: 550
+Min. RMSD: 0.40 Å
+Max. RMSD: 27.39 Å
+Mean RMSD: 5.93 Å
+
+Validation RNA: 4NYA
+Poses: 450
+Min. RMSD: 0.86 Å
+Max. RMSD: 26.31 Å
+Mean RMSD: 5.73 Å
+
+Validation RNA: 4XWF
+Poses: 600
+Min. RMSD: 0.95 Å
+Max. RMSD: 31.33 Å
+Mean RMSD: 9.64 Å
+
+Validation RNA: 4YB0
+Poses: 350
+Min. RMSD: 0.24 Å
+Max. RMSD: 8.72 Å
+Mean RMSD: 3.45 Å
+
+Validation RNA: 5C7W
+Poses: 550
+Min. RMSD: 1.09 Å
+Max. RMSD: 27.16 Å
+Mean RMSD: 2.88 Å
+
+Validation RNA: 2B57
+Poses: 550
+Min. RMSD: 0.47 Å
+Max. RMSD: 31.43 Å
+Mean RMSD: 5.66 Å
+
+Validation RNA: 1F1T
+Poses: 350
+Min. RMSD: 0.66 Å
+Max. RMSD: 5.71 Å
+Mean RMSD: 1.38 Å
+
+Validation RNA: 2YDH
+Poses: 600
+Min. RMSD: 0.66 Å
+Max. RMSD: 22.02 Å
+Mean RMSD: 9.45 Å
+
+Validation RNA: 3NPN
+Poses: 350
+Min. RMSD: 0.67 Å
+Max. RMSD: 10.01 Å
+Mean RMSD: 4.17 Å
+
+Validation RNA: 4AOB
+Poses: 600
+Min. RMSD: 0.64 Å
+Max. RMSD: 25.58 Å
+Mean RMSD: 9.09 Å
+
+Validation RNA: 4KQY
+Poses: 600
+Min. RMSD: 0.75 Å
+Max. RMSD: 23.28 Å
+Mean RMSD: 8.73 Å
+
+Validation RNA: 4L81
+Poses: 350
+Min. RMSD: 0.65 Å
+Max. RMSD: 8.36 Å
+Mean RMSD: 4.53 Å
+
+Validation RNA: 5KPY
+Poses: 450
+Min. RMSD: 1.11 Å
+Max. RMSD: 21.21 Å
+Mean RMSD: 4.34 Å
+
+Validation Best RNA: 4XWF
+Poses: 600
+Min. RMSD: 0.95 Å
+Max. RMSD: 31.33 Å
+Mean RMSD: 9.64 Å
+
+Validation Best RNA: 3SD3
+Poses: 550
+Min. RMSD: 0.56 Å
+Max. RMSD: 27.09 Å
+Mean RMSD: 10.87 Å
+
+Validation Best RNA: 4ERJ
+Poses: 400
+Min. RMSD: 0.84 Å
+Max. RMSD: 22.91 Å
+Mean RMSD: 7.15 Å
+
+Validation Best RNA: 4LX5
+Poses: 550
+Min. RMSD: 0.40 Å
+Max. RMSD: 27.39 Å
+Mean RMSD: 5.93 Å
+
+Validation Best RNA: 2XNW
+Poses: 550
+Min. RMSD: 0.22 Å
+Max. RMSD: 26.30 Å
+Mean RMSD: 6.37 Å
+
+Validation Best RNA: 1F1T
+Poses: 350
+Min. RMSD: 0.66 Å
+Max. RMSD: 5.71 Å
+Mean RMSD: 1.38 Å
+
+Validation Best RNA: 3Q50
+Poses: 500
+Min. RMSD: 0.51 Å
+Max. RMSD: 4.88 Å
+Mean RMSD: 2.98 Å
+
+Validation Best RNA: 2B57
+Poses: 550
+Min. RMSD: 0.47 Å
+Max. RMSD: 31.43 Å
+Mean RMSD: 5.66 Å
+
+Validation Best RNA: 4FE5
+Poses: 550
+Min. RMSD: 0.36 Å
+Max. RMSD: 26.26 Å
+Mean RMSD: 2.07 Å
+
+Validation Best RNA: 3MUM
+Poses: 600
+Min. RMSD: 0.13 Å
+Max. RMSD: 22.12 Å
+Mean RMSD: 8.68 Å
+
