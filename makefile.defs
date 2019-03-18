@@ -1,8 +1,8 @@
 MAKE = make
 CXX = g++
 CXXFLAGS = -Wall -Wunused-variable -Wmismatched-new-delete
-FeaturizerCXXFLAGS = -std=c++11 -Wall -Wunused-variable -Wmismatched-new-delete
-#OPTFLAGS = -O3
+# uncomment the next line if using older built of g++
+# CXXFLAGS = -std=c++0x -Wall
 ifeq ($(UNAME_S),Darwin)
                 OPTFLAGS = ""
 endif
