@@ -6,7 +6,7 @@ include ../makefile.defs
 
 OBJS = libmoletools.$(LIBEXT)
 
-all:	$(BINDIR) libmoletools.$(LIBEXT) featurize rna_poser rna_poser
+all:	$(BINDIR) libmoletools.$(LIBEXT) featurize rna_poser rna_poser_txt
 
 clean:
 	rm -rf *.o
@@ -20,10 +20,10 @@ $(BINDIR):
 libmoletools.$(LIBEXT):
 	$(MAKE) -C ../lib libmoletools.$(LIBEXT)
 
-predict: predict.o $(OBJS)
+rna_poser: rna_poser.o $(OBJS)
 	$(CXX) $(CXXFLAGS) $(OPTFLAGS) $(DEBUG) $(LIBFLAGS) $(INCFLAGS) -o $(BINDIR)/$@ $< $(LINKFLAGS)
 
-predict_from_txt: predict_from_txt.o $(OBJS)
+rna_poser_txt: rna_poser_txt.o $(OBJS)
 	$(CXX) $(CXXFLAGS) $(OPTFLAGS) $(DEBUG) $(LIBFLAGS) $(INCFLAGS) -o $(BINDIR)/$@ $< $(LINKFLAGS)
 
 featurize: featurize.o $(OBJS)

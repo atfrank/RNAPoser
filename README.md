@@ -10,7 +10,7 @@ $ make
 
 ## Usage manual
 ```shell
-$ sh make_predictor.sh [mode]
+$ sh make_predictor.sh [mode] [RMSD_threshold (optional, only for R mode, possible values: {10, 15, 20, 25, 30}(*0.1 A))]
 $ ./bin/rna_poser -h
 Usage:   rna_poser [-options] <PDBfile>
 Options: [-mode prediction mode 'R','L' or 'RL']
@@ -25,6 +25,25 @@ Options: [-mode prediction mode 'R','L' or 'RL']
 ## example
 ```shell
 $ sh make_predictor.sh R
+$ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode R
+
+file: prediction.txt
+pred p0 p1
+1 0.01 0.99
+1 0.002 0.998
+1 0.002 0.998
+1 0 1
+1 0 1
+1 0.001 0.999
+1 0 1
+1 0 1
+1 0 1
+1 0 1
+1 0.001 0.999
+  ...
+```
+```shell
+$ sh make_predictor.sh R 10
 $ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode R
 
 file: prediction.txt
