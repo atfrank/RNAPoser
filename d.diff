@@ -1,0 +1,65 @@
+diff --git a/README.md b/README.md
+index aabd86e..f4a29a0 100644
+--- a/README.md
++++ b/README.md
+@@ -3,7 +3,7 @@ Machine-Learning Pose Classifier for RNA-Ligand Complexes
+ 
+ ## Install
+ ```shell
+-$ cd /path/to/RNAPoser/
++$ cd /path/to/AtomicFeaturizer/
+ $ make clean
+ $ make
+ ```
+@@ -12,7 +12,7 @@ $ make
+ ```shell
+ $ sh make_predictor.sh [mode]
+ $ ./bin/rna_poser -h
+-Usage:   rna_poser [-options] <PDBfile>
++Usage:   predict_pdb [-options] <PDBfile>
+ Options: [-mode prediction mode 'R','L' or 'RL']
+          [-outfile path and name (without extension) of output file]
+          [-mol2 MOL2file]
+@@ -25,7 +25,7 @@ Options: [-mode prediction mode 'R','L' or 'RL']
+ ## example
+ ```shell
+ $ sh make_predictor.sh R
+-$ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode R
++$ ./bin/predict sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode R
+ 
+ file: prediction.txt
+ pred p0 p1
+@@ -44,7 +44,7 @@ pred p0 p1
+ 
+ ```shell
+ $ sh make_predictor.sh RL
+-$ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode RL -rdock sahil-tests/Scores.txt
++$ ./bin/predict sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode L -rdock sahil-tests/Scores.txt
+ 
+ file: prediction.txt
+ 1 0.101 0.899
+diff --git a/make_predictor.sh b/make_predictor.sh
+index f9154e6..be7d69d 100644
+--- a/make_predictor.sh
++++ b/make_predictor.sh
+@@ -1,4 +1,4 @@
+ #!/bin/bash
+-cp predictors_RF/${1}_all.cpp lib/Metallo_RF.cpp
++cp predictors_rf/${1}_all.cpp lib/Metallo_RF.cpp
+ make
+ 
+diff --git a/makefile.defs b/makefile.defs
+index 18aa346..4c55706 100755
+--- a/makefile.defs
++++ b/makefile.defs
+@@ -1,8 +1,8 @@
+ MAKE = make
+ CXX = g++
+ CXXFLAGS = -Wall -Wunused-variable -Wmismatched-new-delete
+-# uncomment the next line if using older built of g++
+-# CXXFLAGS = -std=c++0x -Wall
++FeaturizerCXXFLAGS = -std=c++11 -Wall -Wunused-variable -Wmismatched-new-delete
++#OPTFLAGS = -O3
+ ifeq ($(UNAME_S),Darwin)
+                 OPTFLAGS = ""
+ endif
