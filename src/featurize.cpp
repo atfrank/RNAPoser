@@ -13,7 +13,6 @@
 #include "Atom.hpp"
 #include "Misc.hpp"
 #include "Analyze.hpp"
-#include "LARMORD.hpp"
 #include "Trajectory.hpp"
 #include "AtomicFeaturizer.hpp"
 #include "MolecularFeaturizer.hpp"
@@ -125,9 +124,6 @@ int main (int argc, char **argv){
   moltype = "protein";
   
  
-  LARMORD *larm;
-  larm=NULL;
-
   pdbs.clear();
   selected_residues.clear();
   selected_nuclei.clear();
