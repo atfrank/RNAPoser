@@ -6,9 +6,32 @@ source_dir=$1
 pdbid=$2
 receptor="$1$3"
 poses="$1$4"
+rmsd=$5
+eta=$6
 
 if [[  -f "${poses}" ]]
 then
+    # check if rmsd valid
+    if ! [[ ":1:1.5:2:2.5:" = *:$rmsd:* ]]
+    then
+        echo "ERROR: rmsd value not valid (need to be 1, 1.5, 2, 2.5). Exit."
+        exit
+    fi
+    # check if eta valid
+    if [ "$eta" == "2" ]
+    then
+        nEta=1
+    elif [ "$eta" == "24" ]
+    then
+        nEta=2
+    elif [ "$eta" == "248" ]
+    then
+        nEta=3
+    else
+        echo "ERROR: eta value not valid (need to be 2, 24 or 248). Exit."
+        exit
+    fi
+
     # make direct to store data
     rm -rf working_dir/${pdbid}/
     mkdir -p working_dir/${pdbid}/
@@ -53,9 +76,10 @@ then
     cd ../..
     selatms=":ADE.C1' :ADE.C2 :ADE.C2' :ADE.C3' :ADE.C4 :ADE.C4' :ADE.C5 :ADE.C5' :ADE.C6 :ADE.C8 :ADE.N1 :ADE.N3 :ADE.N6 :ADE.N7 :ADE.N9 :ADE.O2' :ADE.O3' :ADE.O4' :ADE.O5' :ADE.OP1 :ADE.OP2 :ADE.P :CYT.C1' :CYT.C2 :CYT.C2' :CYT.C3' :CYT.C4 :CYT.C4' :CYT.C5 :CYT.C5' :CYT.C6 :CYT.N1 :CYT.N3 :CYT.N4 :CYT.O2 :CYT.O2' :CYT.O3' :CYT.O4' :CYT.O5' :CYT.OP1 :CYT.OP2 :CYT.P :GUA.C1' :GUA.C2 :GUA.C2' :GUA.C3' :GUA.C4 :GUA.C4' :GUA.C5 :GUA.C5' :GUA.C6 :GUA.C8 :GUA.N1 :GUA.N2 :GUA.N3 :GUA.N7 :GUA.N9 :GUA.O2' :GUA.O3' :GUA.O4' :GUA.O5' :GUA.O6 :GUA.OP1 :GUA.OP2 :GUA.P :URA.C1' :URA.C2 :URA.C2' :URA.C3' :URA.C4 :URA.C4' :URA.C5 :URA.C5' :URA.C6 :URA.N1 :URA.N3 :URA.O2 :URA.O2' :URA.O3' :URA.O4 :URA.O4' :URA.O5' :URA.OP1 :URA.OP2 :URA.P"
     rowatms=":UNK."
+
     ./bin/featurize \
     -etaStartPow 1 \
-    -numEta 1 \
+    -numEta $nEta \
     -cutoff 20 \
     -outfile working_dir/${pdbid}/features_ \
     -scalar 1 \
@@ -67,5 +91,5 @@ then
     -trj working_dir/${pdbid}/complexes.dcd working_dir/${pdbid}/complex.pdb
 
     # get score
-    python src/rna_poser.py --classifier classifier/RF_all_2.5.predictor.pkl  --features working_dir/${pdbid}/features_traj1.txt --output working_dir/${pdbid}/poser-scores.txt
+    python src/rna_poser.py --classifier classifier/eta${eta}/RF_${rmsd}.predictor.pkl  --features working_dir/${pdbid}/features_traj1.txt --output working_dir/${pdbid}/poser-scores.txt
 fi

@@ -10,11 +10,13 @@ $ make
 
 ## Usage manual
 ```shell
-$ ./src/rna_poser.sh [input directory] [id] [receptor] [poses]
+$ ./src/rna_poser.sh [input directory] [id] [receptor] [poses] [rmsd] [eta]
 Options: [id: identifier, the output file will be saved in working_dir/${id}/]
          [input directory: the path to folder that contain the input pdb and sd file]
          [receptor: receptor coor file in pdb format, should be in the input directory]
-         [poses: poses coor file in sd format containing multiple frames, should be in the input directory]
+         [poses: poses coordinates in sd format containing multiple frames, should be in the input directory]
+         [rmsd: predictors trained with different rmsd (possible values: 1, 1.5, 2, 2.5)]
+         [eta: eta values to use for featurization (possible values: 2, 24, 248)]
 
 ```
 ## Example
