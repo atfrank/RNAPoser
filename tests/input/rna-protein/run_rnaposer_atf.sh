@@ -1,4 +1,7 @@
 #!/bin/bash
+#SBATCH --job-name=rnaposer
+#SBATCH -N 1
+#SBATCH -n 1
 
 # setup environment
 module load gcc
@@ -10,8 +13,16 @@ rnaposer=/home/afrankz/local_software/repo/RNAPoser
 cd ${rnaposer}
 
 # loop over test cases
-pdbs="1B7F 1DFU 1JBS 1P6V 1WPU 1WSU 2ASB 2BH2 2QUX 3BX2"
+cutoffs="1 1.5 2 2.5"
+etas="2 24 248"
+pdbs="1B7F 1DFU 1JBS 1P6V 1WPU 1WSU 2ASB 2BH2 3BX2"
 for pdb in $pdbs
 do
-    ./src/rna_poser_validation.sh ${base}/ ${pdb} ${pdb}_complex.pdb ${pdb}_protein_from_pdb.mol2 ${pdb}_complex.dcd 100 2.5 248 ${base}/${pdb}_classifications.txt
+    for cutoff in $cutoffs
+    do
+        for eta in $etas
+        do
+            ./src/rna_poser_validation.sh ${base}/ ${pdb} ${pdb}_complex.pdb ${pdb}_protein_from_pdb.mol2 ${pdb}_complex.dcd 100 2.5 248 ${base}/${pdb}_classifications_${cutoff}_${eta}.txt
+        done
+    done
 done
