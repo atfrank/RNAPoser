@@ -10,75 +10,44 @@ $ make
 
 ## Usage manual
 ```shell
-$ sh make_predictor.sh [mode] [RMSD_threshold (optional, only for R mode, possible values: {10, 15, 20, 25, 30}(*0.1 A))]
-$ ./bin/rna_poser -h
-Usage:   rna_poser [-options] <PDBfile>
-Options: [-mode prediction mode 'R','L' or 'RL']
-         [-outfile path and name (without extension) of output file]
-         [-mol2 MOL2file]
-         [-rdock rdock score file]
-         [-trj TRAJfile]
-         [-skip frames] [-start frame] [-stop frame]
-         [-identification ID]
+$ ./src/rna_poser.sh [input directory] [id] [receptor] [poses] [rmsd] [eta]
+Options: [id: identifier, the output file will be saved in working_dir/${id}/]
+         [input directory: the path to folder that contain the input pdb and sd file]
+         [receptor: receptor coor file in pdb format, should be in the input directory]
+         [poses: poses coordinates in sd format containing multiple frames, should be in the input directory]
+         [rmsd: predictors trained with different rmsd (possible values: 1, 1.5, 2, 2.5)]
+         [eta: eta values to use for featurization (possible values: 2, 24, 248)]
 
 ```
-## example
+## Example
 ```shell
-$ sh make_predictor.sh R
-$ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode R
+$ pdb=2b57
+$ ./src/rna_poser.sh tests/input/${pdb}/ ${pdb} receptor.pdb poses.sd
 
-file: prediction.txt
-pred p0 p1
-1 0.01 0.99
-1 0.002 0.998
-1 0.002 0.998
-1 0 1
-1 0 1
-1 0.001 0.999
-1 0 1
-1 0 1
-1 0 1
-1 0 1
-1 0.001 0.999
+# columns: prediction probability(0) probability(1)
+file: working_dir/2b57/prediction.txt
+1.000000 0.014000 0.986000
+1.000000 0.006000 0.994000
+1.000000 0.007000 0.993000
+1.000000 0.005000 0.995000
+1.000000 0.006000 0.994000
+1.000000 0.006000 0.994000
+1.000000 0.005000 0.995000
+1.000000 0.002000 0.998000
+1.000000 0.002000 0.998000
+1.000000 0.003000 0.997000
+1.000000 0.003000 0.997000
+1.000000 0.003000 0.997000
+1.000000 0.002000 0.998000
+1.000000 0.003000 0.997000
   ...
 ```
+To validate paper results:
 ```shell
-$ sh make_predictor.sh R 10
-$ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode R
+$ pdb=2b57
+$ ./src/rna_poser_validation.sh tests/input/${pdb}/ ${pdb} complex.pdb lig_${pdb}.mol2 complexes.dcd
 
-file: prediction.txt
-pred p0 p1
-1 0.033 0.967
-1 0.007 0.993
-1 0.002 0.998
-1 0.002 0.998
-1 0.002 0.998
-1 0.001 0.999
-1 0.002 0.998
-1 0.001 0.999
-1 0.001 0.999
-1 0 1
-  ...
 ```
-
-```shell
-$ sh make_predictor.sh RL
-$ ./bin/rna_poser sahil-tests/complex.pdb -trj sahil-tests/complexes.dcd -mol2 sahil-tests/lig_2b57.mol2 -mode RL -rdock sahil-tests/Scores.txt
-
-file: prediction.txt
-1 0.101 0.899
-1 0.082 0.918
-1 0.077 0.923
-1 0.076 0.924
-1 0.074 0.926
-1 0.074 0.926
-1 0.074 0.926
-1 0.074 0.926
-1 0.074 0.926
-1 0.074 0.926
-  ...
-```
-
 
 ## License
 ```

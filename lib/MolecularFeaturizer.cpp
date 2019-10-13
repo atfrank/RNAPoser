@@ -50,6 +50,12 @@ bool MolecularFeaturizer(
   for (int k = 0; k < atmVec.size(); k ++){
     if ((atmVec.at(k)->getResName() != atmVec2.at(k)->getResName()) || (atmVec.at(k)->getAtmName() != atmVec2.at(k)->getAtmName())){
       cout << "Mol2 atoms do not match with selected molecule!" << endl;
+	  if ((atmVec.at(k)->getResName() != atmVec2.at(k)->getResName())){
+		cout << "Residue name mismatch at atom " << k << ": " << atmVec.at(k)->getResName() << " and " << atmVec2.at(k)->getResName() << endl;
+	  }
+	  if ((atmVec.at(k)->getAtmName() != atmVec2.at(k)->getAtmName())){
+		cout << "Atom name mismatch at atom " << k << ": " << atmVec.at(k)->getAtmName() << " and " << atmVec2.at(k)->getAtmName() << endl;
+	  }
       return false;
     }
   }
